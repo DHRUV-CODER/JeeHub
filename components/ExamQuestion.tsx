@@ -6,6 +6,7 @@ import axios from "axios";
 import "katex/dist/katex.min.css";
 import Latex from "react-latex-next";
 import { sendResponse } from "next/dist/server/image-optimizer";
+import { NumericalBox } from "./NumericalBox";
 
 interface ExamQuestionProps {
   Question: string;
@@ -43,11 +44,11 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
 
   useEffect(() => {
     setQuestionId(QuestionId);
-  }, [SelectedButtonIndex,RightAnswer]);
+  }, [SelectedButtonIndex, RightAnswer]);
 
   const handleOptionClick = (value: string, index: number) => {
     setSelectedValue(value);
-    
+
     console.log(index, CorrectAnswer);
     if (index === CorrectAnswer) {
       console.log("correct");
@@ -58,7 +59,6 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
       setSelectedButtonIndex(index);
       setCorrectAnswer("Wrong");
     }
-    
   };
 
   return (
@@ -71,49 +71,55 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
           <Latex>{rectifyLatex(Question)}</Latex>
         </p>
         <div className="grid grid-cols-2 gap-4 w-full py-5">
-          {Object.entries(Options).map(([optionKey, option], index) => (
-            <div key={optionKey}>
-              {typeof option === "string" ? (
-                // Render the option text directly
-                <Button
-                variant="ghost"
-                  className={`w-full font-sans font-semibold text-left sm:text-xs lg:text-lg overflow-hidden overflow-ellipsis whitespace-nowrap ${
-                    RightAnswer === "Correct" && SelectedButtonIndex === index
-                      ? "bg-green-500 text-black"
-                      : RightAnswer === "Wrong" && SelectedButtonIndex === index
-                      ? "bg-red-500 text-black"
-                      : ""
-                  }`}
-                  onClick={() => handleOptionClick(option, index)}
-                >
-                  <Latex strict>{rectifyLatex(option)}</Latex>
-                </Button>
-              ) : (
-                option && (
+          {Object.entries(Options).length === 0 ? (
+            <NumericalBox RightAns={CorrectAnswer} />
+          ) : (
+            Object.entries(Options).map(([optionKey, option], index) => (
+              <div key={optionKey}>
+                {typeof option === "string" ? (
+                  // Render the option text directly
                   <Button
-                    variant="outline"
-                    className={`w-full h-full border-4 ${
+                    variant="ghost"
+                    className={`w-full font-sans font-semibold text-left sm:text-xs lg:text-lg overflow-hidden overflow-ellipsis whitespace-nowrap ${
                       RightAnswer === "Correct" && SelectedButtonIndex === index
-                        ? "border-green-500"
+                        ? "bg-green-500 text-black"
                         : RightAnswer === "Wrong" &&
                           SelectedButtonIndex === index
-                        ? "border-red-500"
+                        ? "bg-red-500 text-black"
                         : ""
                     }`}
-                    onClick={() => handleOptionClick(option.img_url, index)}
+                    onClick={() => handleOptionClick(option, index)}
                   >
-                    <img
-                      src={option.img_url}
-                      alt={`Option ${optionKey}`}
-                      width="150px"
-                      height="150px"
-                      className="brightness-200"
-                    />
+                    <Latex strict>{rectifyLatex(option)}</Latex>
                   </Button>
-                )
-              )}
-            </div>
-          ))}
+                ) : (
+                  option && (
+                    <Button
+                      variant="outline"
+                      className={`w-full h-full border-4 ${
+                        RightAnswer === "Correct" &&
+                        SelectedButtonIndex === index
+                          ? "border-green-500"
+                          : RightAnswer === "Wrong" &&
+                            SelectedButtonIndex === index
+                          ? "border-red-500"
+                          : ""
+                      }`}
+                      onClick={() => handleOptionClick(option.img_url, index)}
+                    >
+                      <img
+                        src={option.img_url}
+                        alt={`Option ${optionKey}`}
+                        width="150px"
+                        height="150px"
+                        className="brightness-200"
+                      />
+                    </Button>
+                  )
+                )}
+              </div>
+            ))
+          )}
         </div>
         {/* {selectedValue && (
           <p>

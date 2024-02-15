@@ -4,7 +4,7 @@ import React from "react";
 export default function Page() {
   return (
     <div>
-      <div className="grid xl:grid-cols-3 gap-x-2 gap-y-2 items-center justify-center py-2 sm:grid-cols-1 md:grid-cols-1">
+      <div className="grid xl:grid-cols-3 gap-x-2 gap-y-2 items-center justify-center py-2 sm:grid-cols-1 md:grid-cols-2">
         <ExamCard
           TitleValue="27th Shift 1 Morning"
           RedirectValue="27s1"
