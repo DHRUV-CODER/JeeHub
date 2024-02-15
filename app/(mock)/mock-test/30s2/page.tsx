@@ -1,6 +1,6 @@
 import React from "react";
 import ExamQuestion from "@/components/ExamQuestion";
-import examData from "../../../public/29s1.json";
+import examData from "../../../../public/30s2.json";
 
 export default function Page() {
   return (
@@ -15,7 +15,7 @@ export default function Page() {
           Question={question.question_value}
           QuestionNumber={question.question_number}
           Options={question.options || {}} // Handle empty options
-          CorrectAnswer={question.correct_answer}
+          CorrectAnswer={question.correct_answer ?question.correct_answer : 0 }
         />
       ))}
     </div>
