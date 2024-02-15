@@ -26,6 +26,11 @@ export default function Page() {
           Day={true}
         />
         <ExamCard
+          TitleValue="1st Shift 1 Morning"
+          RedirectValue="1s1"
+          Day={true}
+        />
+        <ExamCard
           TitleValue="27th Shift 2 Evening"
           RedirectValue="27s2"
           Day={false}
@@ -43,6 +48,11 @@ export default function Page() {
         <ExamCard
           TitleValue="31th Shift 2 Evening"
           RedirectValue="31s2"
+          Day={false}
+        />
+                <ExamCard
+          TitleValue="1st Shift 2 Evening"
+          RedirectValue="1s2"
           Day={false}
         />
       </div>

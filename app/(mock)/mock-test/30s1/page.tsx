@@ -5,7 +5,7 @@ import examData from "../../../../public/30s1.json";
 export default function Page() {
   return (
     <div>
-      <h1 className="scroll-m-20 text-2xl font-extrabold tracking-tight lg:text-2xl text-muted-foreground py-10">
+      <h1 className="scroll-m-20 text-2xl font-extrabold tracking-tight lg:text-2xl text-muted-foreground py-10 px-2">
         Enjoy , Isme percentile nahi milegi :)
       </h1>
       {examData.map((question) => (

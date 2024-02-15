@@ -1,6 +1,6 @@
 import React from "react";
 import ExamQuestion from "@/components/ExamQuestion";
-import examData from "../../../../public/27s2.json";
+import examData from "../../../../public/1s2.json";
 
 export default function Page() {
   return (
