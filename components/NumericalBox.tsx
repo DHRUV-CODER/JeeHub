@@ -25,17 +25,18 @@ export function NumericalBox({ RightAns }: NumericalBoxProps) {
 
   return (
     <div>
-      <div className="flex w-full max-w-sm items-center space-x-2">
+      <div className="flex items-center space-x-2">
         <Input
           type="number"
           placeholder="Enter your answer :"
+          className="sm:w-5/9 lg:w-full"
           value={NumValue}
           onChange={(e) => {
             setNumValue(parseFloat(e.target.value));
             setcheckNow(false);
           }}
         />
-        <Button type="button" variant="outline" onClick={handleSubmit}>
+        <Button type="button" variant="ghost" className="w-2/3" onClick={handleSubmit}>
           Submit
         </Button>
       </div>
@@ -44,7 +45,7 @@ export function NumericalBox({ RightAns }: NumericalBoxProps) {
       ) : (
         NumValue &&
         checkNow ? (
-          <h1 className="text-red-400 text-xl font-bold px-2 py-2">Wrong ,<span className="text-green-400"> The Right Answer is : &quot;{RightAns}&quot;</span></h1>
+          <h1 className="text-red-400 font-bold px-1 py-1">Wrong ,<span className="text-green-400"> The Right Answer is : &quot;{RightAns}&quot;</span></h1>
         ) : ("")
       )}
     </div>

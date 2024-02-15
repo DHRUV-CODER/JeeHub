@@ -24,6 +24,7 @@
     "next-themes": "^0.2.1",
     "react": "^18",
     "react-dom": "^18",
+    "react-dom-confetti": "^0.2.0",
     "react-latex": "^2.0.0",
     "react-latex-next": "^2.2.0",
     "react-mathjax2": "^0.0.2",

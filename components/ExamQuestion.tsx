@@ -64,7 +64,7 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
   return (
     <div>
       <div className="px-1 py-2">
-        <h1 className="scroll-m-20 text-xl font-extrabold tracking-tight lg:text-5xl">
+        <h1 className="scroll-m-20 text-xl font-extrabold tracking-tight lg:text-5xl text-zinc-300">
           Question {QuestionNumber} :
         </h1>
         <p className="text-xl py-2 px-1 font-sans text-muted-foreground font-bold ">
@@ -112,7 +112,7 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
                         alt={`Option ${optionKey}`}
                         width="150px"
                         height="150px"
-                        className="brightness-200"
+                        className="sepia"
                       />
                     </Button>
                   )
