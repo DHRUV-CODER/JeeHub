@@ -10,6 +10,7 @@ export default function Page() {
       </h1>
       {examData.map((question) => (
         <ExamQuestion
+          key={question.qid}
           QuestionId={question.qid} // Assuming qid is unique
           Question={question.question_value}
           QuestionNumber={question.question_number}
