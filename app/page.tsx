@@ -4,8 +4,20 @@ import React from "react";
 export default function Page() {
   return (
     <div>
-
       <div className="grid xl:grid-cols-3 gap-x-2 gap-y-2 items-center justify-center py-2 sm:grid-cols-1 md:grid-cols-2">
+        <ExamCard
+          TitleValue="Bitsat 2022"
+          RedirectValue="bitsat-2022"
+          Day={true}
+        />
+              <ExamCard
+          TitleValue="Neet 2022 , May 7"
+          RedirectValue="neet-2023"
+          Day={true}
+        />
+      </div>
+      <div className="grid xl:grid-cols-3 gap-x-2 gap-y-2 items-center justify-center py-2 sm:grid-cols-1 md:grid-cols-2">
+
         <ExamCard
           TitleValue="27th Shift 1 Morning"
           RedirectValue="27s1"

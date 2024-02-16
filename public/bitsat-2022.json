@@ -1,0 +1,1243 @@
+[    {
+    "qid": "na",
+    "question_number": 1,
+    "question_value": "Which one of the following is correct order of given isotopes?<br/>I.<br/>1. T2 > D2 > P2 (order of boiling point)<br/>2. T2 > D2 > P2 (order of bond energy)<br/>3. T2 = D2 = P2 (order of bond length)<br/>4. T2 < D2 < P2 (order of reactivity with Cl2)"
+    ,
+    "options": {
+        "A": "i and ii",
+        "B": "iii and iv",
+        "C": "ii , iii and iv",
+        "D": "All of these"
+    },
+    "type": "mcq",
+    "correct_answer": 0.0
+},
+    {
+        "qid": "1lbz1ea62",
+        "question_number": 2,
+        "question_value": "Ninhydrin gives yellow colour in paper chromatography with which amino acid?",
+        "options": {
+            "A": "Tryptophan",
+            "B": "Proline",
+            "C": "Alanine",
+            "D": "Tyrosine"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbz1k74w",
+        "question_number": 3,
+        "question_value": "How will raise in temperature affects the viscosity of liquids and gases?",
+        "options": {
+            "A": "Both increases",
+            "B": "Both decreases",
+            "C": "In case of liquids, decreases and in case of gases, increases.",
+            "D": "In case of liquid, increases and in case of gases, decreases."
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbz1mfan",
+        "question_number": 4,
+        "question_value": "Which of the following compounds is thermodynamically is the most stable?",
+        "options": {
+            "A": "BaCO3",
+            "B": "MgCO3",
+            "C": "BeCO3",
+            "D": "CaCO3"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbz1oh5l",
+        "question_number": 5,
+        "question_value": "Glucose reacts with X number of molecules of phenyl hydrazine to yield osazone. The value of X is,",
+        "options": {
+            "A": "three",
+            "B": "two",
+            "C": "one",
+            "D": "four"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbz1pyfq",
+        "question_number": 6,
+        "question_value": "Nylon-6, 6 is obtained from",
+        "options": {
+            "A": "adipic acid and hexamethylene diamine",
+            "B": "tetrafluoroethylene",
+            "C": "vinyl cyanide",
+            "D": "vinyl benzene"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbz1xhiq",
+        "question_number": 9,
+        "question_value": "ortho and para form of hydrogen have",
+        "options": {
+            "A": "different physical and chemical properties",
+            "B": "identical physical properties but different chemical properties",
+            "C": "identical chemical properties but different physical properties",
+            "D": "identical chemical and physical properties"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbz2carj",
+        "question_number": 13,
+        "question_value": "Select the correct statement about the complex [Co(NH3)5SO4] Br.",
+        "options": {
+            "A": "Its ionisation isomer is [Co(NH3)5Br]SO4.",
+            "B": "It gives yellow precipitate with AgNO3",
+            "C": "Its ionisation isomer give while precipitate with BaCl2",
+            "D": "All the above are correct statements."
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbz2hz3q",
+        "question_number": 15,
+        "question_value": "X and Y are",
+        "options": {
+            "A": "benzene, benzaldehyde",
+            "B": "toluene, benzaldehyde",
+            "C": "toluene, benzoic acid",
+            "D": "benzene, benzoic acid"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbz2kol2",
+        "question_number": 16,
+        "question_value": "Ge (II) compounds are powerful reducing agents whereas Pb (IV) compounds are strong oxidants. It can be because",
+        "options": {
+            "A": "Pb is more electropositive than Ge.",
+            "B": "ionisation potential of lead is less than that of Ge.",
+            "C": "ionic radii of Pb2+and Pb4+are larger than that of Ge2+and Ge4+.",
+            "D": "more pronounced inert pair effect in lead has."
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbz2nka4",
+        "question_number": 17,
+        "question_value": "Which compound has antifluorite structure?",
+        "options": {
+            "A": "MnO4",
+            "B": "Na2O",
+            "C": "Na2O2",
+            "D": "Li2O2"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbz5m5cd",
+        "question_number": 22,
+        "question_value": "The total number of P$$-$$OH bonds for pyrophosphoric acid",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "8"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbz6ceep",
+        "question_number": 25,
+        "question_value": "For an isomerisation reaction A $$\\rightleftharpoons$$ B, the temperature dependence of equilibrium constant is given bylogeK = 4.0 $$-$$ $$\\frac{2000}{T}$$The value of $$\\Delta$$S$$^\\circ$$ at Hook is, therefore",
+        "options": {
+            "A": "4R",
+            "B": "5R",
+            "C": "400R",
+            "D": "2000R"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbz6gva5",
+        "question_number": 26,
+        "question_value": "In an adiabatic process, no transfer of heat takes place between system and surrounding. Choose the correct option for free expansion of an ideal gas under adiabatic condition from the following.",
+        "options": {
+            "A": "q = 0, $$\\Delta$$T $$\\ne$$ 0, W = 0",
+            "B": "q $$\\ne$$ 0, $$\\Delta$$T = 0, W = 0",
+            "C": "q = 0, $$\\Delta$$T = 0, W = 0",
+            "D": "q = 0, $$\\Delta$$T < 0, W $$\\ne$$ 0"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbz72a5k",
+        "question_number": 27,
+        "question_value": "The given graph represents the variation of compressibility factor (Z) = $$\\frac{pV}{nRT}$$, for three real gases A, B and C. Identify the only incorrect statement.",
+        "options": {
+            "A": "For the gas A, a = 0 and its dependence on p is linear at all pressure.",
+            "B": "For the gas B, b = 0 and its dependence on p is linear at all pressure.",
+            "C": "For the gas C, which is typical real gas for which neither a nor b = 0. By knowing the minima and point of the intersection with Z = 1, a and b can be calculated.",
+            "D": "At high pressure the slope is positive for all real gases."
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbz74sxh",
+        "question_number": 28,
+        "question_value": "Which one of the following statements in relation to the hydrogen atom is correct?",
+        "options": {
+            "A": "3s, 3p and 3d-orbitals all have the same energy.",
+            "B": "3s and 3p-orbitals are of lower energy than 3d-orbital.",
+            "C": "3p-orbital is lower in energy than 3d-orbital.",
+            "D": "3s-orbital is lower in energy than 3p-orbital."
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbz841oy",
+        "question_number": 29,
+        "question_value": "In the molecules CH4, NF3, NH$$_4^ + $$ and H2O",
+        "options": {
+            "A": "number of lone pairs are same",
+            "B": "all have same hybridisation of centre of atom",
+            "C": "the bond angles are same",
+            "D": "number of bond pairs are same"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbz882ap",
+        "question_number": 30,
+        "question_value": "0.20 g of an organic compound gave 0.12 g of AgBr. By using Carius method, the percentage of bromine in the compound will be",
+        "options": {
+            "A": "34.06%",
+            "B": "44.04%",
+            "C": "54%",
+            "D": "25%"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbz9b1x5",
+        "question_number": 41,
+        "question_value": "Select the figure that can replace the question mark (?) in the following series.",
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyegk0f/c467b43b-51de-4bfe-9972-8f4e82772c51/7db13df0-f860-11ed-a585-812e165f6969/file-1lhyegk0g.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyegx7m/2b806ba5-0900-4945-a61f-9e0a57d107c7/87e39020-f860-11ed-a585-812e165f6969/file-1lhyegx7n.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyehasy/2dca0ab7-712b-4514-8295-dd311a39d6e6/9263b430-f860-11ed-a585-812e165f6969/file-1lhyehasz.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyehu9a/6dd76075-ac69-4b02-843e-9ced8b4beeb5/a16a98e0-f860-11ed-a585-812e165f6969/file-1lhyehu9b.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbzagq8j",
+        "question_number": 43,
+        "question_value": "Three different positions of the same dice are shown, the six faces of which are numbered from 1 to 6. Select the number that will be on the face opposite to the one showing '6'.",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "3"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbzahvb0",
+        "question_number": 44,
+        "question_value": "Select the option in which the given figure X is embedded (rotation is not allowed).",
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyekpmk/de5b3d5d-568b-4eaf-a79d-dce06202718f/f1442fc0-f860-11ed-a585-812e165f6969/file-1lhyekpml.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyel2zf/7598b143-9c1a-48ec-a211-8028a8c2c24e/fb95a2b0-f860-11ed-a585-812e165f6969/file-1lhyel2zg.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyelgh7/a7285158-3e58-48e3-9479-6ae8162af5e3/060217b0-f861-11ed-a585-812e165f6969/file-1lhyelgh8.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyelru0/44f8323f-95a5-4bb8-9c54-6ce6a220128d/0ec7ba80-f861-11ed-a585-812e165f6969/file-1lhyelru1.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbzaml3u",
+        "question_number": 46,
+        "question_value": "How many triangles are there in the given figure?",
+        "options": {
+            "A": "33",
+            "B": "18",
+            "C": "31",
+            "D": "29"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbzaqbec",
+        "question_number": 47,
+        "question_value": "The average marks of 50 students in a class was found to be 64. If the marks of two students were incorrectly entered as 38 and 42 instead of 83 and 24, respectively, then what is the correct average?",
+        "options": {
+            "A": "64.54",
+            "B": "62.32",
+            "C": "61.24",
+            "D": "61.86"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbzashup",
+        "question_number": 48,
+        "question_value": "Select the correct mirror image of the given figure when the mirror is placed on the right of the figure.",
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyeom8f/db483a2d-b5f5-497f-93fa-edd2eb9988e5/5de26e30-f861-11ed-a585-812e165f6969/file-1lhyeom8j.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyep1q4/317a1478-29af-4f01-b35f-77fb81bb70ce/69d953c0-f861-11ed-a585-812e165f6969/file-1lhyep1q5.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyepen1/6ccde13e-d192-4b79-bf62-7f6132b8b531/73d330d0-f861-11ed-a585-812e165f6969/file-1lhyepen2.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyeprg2/0fd67dfc-7769-4a40-87ff-22311d0c3744/7db7b120-f861-11ed-a585-812e165f6969/file-1lhyeprg3.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbzau95k",
+        "question_number": 49,
+        "question_value": "Six friends A, B, C, D, E and F are sitting around a round table facing the centre. A sits second to the right of B, E sits second to the left of C. B doesn't sit adjacent to E. D does not sit opposite to E or C. Who sits to the immediate left of E?",
+        "options": {
+            "A": "A",
+            "B": "D",
+            "C": "B",
+            "D": "C"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbzaxr7c",
+        "question_number": 50,
+        "question_value": "Five friends A, B, C, D and E bought cars which were priced differently. B's car was costlier than C's car but was less costly than E's car. A's car was costlier than D's car but less costly than C's car. Whose car was the 2nd costliest?",
+        "options": {
+            "A": "E",
+            "B": "A",
+            "C": "B",
+            "D": "C"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbzazp7u",
+        "question_number": 51,
+        "question_value": "In the following question, complete the missing segment by selecting the appropriate figure from the given alternatives, (a), (b), (c) and (d).",
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyescn3/6a7f8a4c-25c1-4a13-a925-b84ae3fc865d/c5b568f0-f861-11ed-a585-812e165f6969/file-1lhyescn4.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyest5i/f2b722f3-577e-434e-aed6-80279d50cd3e/d276a360-f861-11ed-a585-812e165f6969/file-1lhyest5j.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyetdlf/2e7022fe-6394-407c-a65a-c3ae7fc81d9b/e2412630-f861-11ed-a585-812e165f6969/file-1lhyetdlg.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyetyve/0e766cb2-1dc2-4df6-a4ab-c67ab6bd3786/f2b0c2a0-f861-11ed-a585-812e165f6969/file-1lhyetyvf.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbzb2edb",
+        "question_number": 52,
+        "question_value": "In each of the following question, find out which of the answer figures (a), (b), (c) and (d) completes the figure matrix?",
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyew1mz/984c9aee-e455-42de-ae3a-13ac55e76871/2c7238c0-f862-11ed-a585-812e165f6969/file-1lhyew1n0.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyewfzz/3f578370-e449-44b4-ad33-e2f1e43712a2/378a08f0-f862-11ed-a585-812e165f6969/file-1lhyewg00.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyewwj2/cb82a7d5-c5a5-41c5-a822-320da649229d/444eece0-f862-11ed-a585-812e165f6969/file-1lhyewwj3.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyexdho/d083f5a3-eb1a-4ad6-9ed3-69e88a621f82/516943d0-f862-11ed-a585-812e165f6969/file-1lhyexdhp.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbzbcbpv",
+        "question_number": 55,
+        "question_value": "In the question given below, find out which of the figures can be formed from the pieces given in the problem figure.",
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyf12u9/eda48476-90cb-4a79-b6ca-012cb0cb85fa/b86b8110-f862-11ed-a585-812e165f6969/file-1lhyf12ua.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyf1ovr/1a5bbb05-ef36-475b-b031-14441827ffa3/c9725470-f862-11ed-a585-812e165f6969/file-1lhyf1ovs.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyf2d9y/a42ad965-71c8-43d0-b8e8-fe5f7e991c1c/dc4a8c70-f862-11ed-a585-812e165f6969/file-1lhyf2d9z.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhyf2yvz/4a6483dd-e4d5-4e41-ac5d-95bbed04ce07/ecfc3af0-f862-11ed-a585-812e165f6969/file-1lhyf2yw0.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbzbilnw",
+        "question_number": 58,
+        "question_value": "'Needle' is related to 'Sew' in the same way as 'Microscope' is related to '...........' .",
+        "options": {
+            "A": "Laboratory",
+            "B": "Lens",
+            "C": "Science",
+            "D": "Magnify"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbzblv1d",
+        "question_number": 59,
+        "question_value": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.14 : 289 : : 17 : 400 : : 21 : ?",
+        "options": {
+            "A": "576",
+            "B": "504",
+            "C": "570",
+            "D": "441"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lc00wzy8",
+        "question_number": 61,
+        "question_value": "If $$\\alpha$$ be a root of the equation $$4{x^2} + 2x - 1 = 0$$, then the other root of the equation is",
+        "options": {
+            "A": "4$$\\alpha$$2+ 2$$\\alpha$$",
+            "B": "4$$\\alpha$$2$$-$$ 2$$\\alpha$$",
+            "C": "4$$\\alpha$$3$$-$$ 3$$\\alpha$$",
+            "D": "4$$\\alpha$$3+ 3$$\\alpha$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lc01bsbf",
+        "question_number": 62,
+        "question_value": "If A = {x : x is a multiple of 4} and B = {x : x is a multiple of 6}, then A $$\\cap$$ B consists of multiples of",
+        "options": {
+            "A": "16",
+            "B": "12",
+            "C": "8",
+            "D": "4"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lc01f5d6",
+        "question_number": 63,
+        "question_value": "If $$|w| = 2$$, then the set of points $$z = w - {1 \\over w}$$ is contained in or equal to the set of points z satisfying",
+        "options": {
+            "A": "$$Im(z) = 0$$",
+            "B": "$$|Im(z)| \\le 1$$",
+            "C": "$$|Re(z)| \\le 2$$",
+            "D": "$$|z| \\le 3$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lc01hhq9",
+        "question_number": 64,
+        "question_value": "The value of $$\\mathop {\\lim }\\limits_{x \\to 0} {{1-\\cos (1 - \\cos x)} \\over {{x^4}}}$$ is",
+        "options": {
+            "A": "$$\\frac{1}{6}$$",
+            "B": "$$\\frac{1}{8}$$",
+            "C": "$$\\frac{1}{10}$$",
+            "D": "$$\\frac{1}{12}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lc01oz50",
+        "question_number": 66,
+        "question_value": "The number of terms in the expansion of $${(1 + 5\\sqrt {2x} )^9} + {(1 - 5\\sqrt {2x} )^9}$$ is",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "9",
+            "D": "10"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lc01shuy",
+        "question_number": 67,
+        "question_value": "The number of different seven-digit numbers that can be written using only the three digits 1, 2 and 3 with the condition that the digit 2 occurs twice in each number is",
+        "options": {
+            "A": "7C225",
+            "B": "7p225",
+            "C": "7C252",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lc01vqqj",
+        "question_number": 68,
+        "question_value": "Given 2x $$-$$ y + 2z = 2, x $$-$$ 2y - z = $$-$$4, x + y + $$\\lambda$$z = 4, then the value of $$\\lambda$$ such that the given system of equation has no solution is",
+        "options": {
+            "A": "$$-$$3",
+            "B": "1",
+            "C": "0",
+            "D": "3"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lc021qle",
+        "question_number": 69,
+        "question_value": "Let $$A = \\left[ {\\matrix{\n   1 & { - 1} & 1  \\cr \n   2 & 1 & { - 3}  \\cr \n   1 & 1 & 1  \\cr \n\n } } \\right]$$ and $$10B = \\left[ {\\matrix{\n   4 & 2 & 2  \\cr \n   { - 5} & 0 & \\alpha   \\cr \n   1 & { - 2} & 3  \\cr \n\n } } \\right]$$If B is the inverse of A, then the value of $$\\alpha$$ is",
+        "options": {
+            "A": "4",
+            "B": "$$-$$4",
+            "C": "3",
+            "D": "5"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lc02874n",
+        "question_number": 70,
+        "question_value": "If $$x \\in \\left( {0,{\\pi  \\over 2}} \\right)$$, then the value of $${\\cos ^{ - 1}}\\left( {{7 \\over 2}(1 + \\cos 2x) + \\sqrt {({{\\sin }^2}x - 48{{\\cos }^2}x)\\sin x} } \\right)$$ is equal to",
+        "options": {
+            "A": "$$x - {\\cos ^{ - 1}}(7\\cos x)$$",
+            "B": "$$x + {\\sin ^{ - 1}}(7\\cos x)$$",
+            "C": "$$x + {\\cos ^{ - 1}}(6\\cos x)$$",
+            "D": "$$x + {\\cos ^{ - 1}}(7\\cos x)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lc02g11r",
+        "question_number": 71,
+        "question_value": "A running track of 440 ft is to be laid out enclosing a football field, the shape of which is a rectangle with a semi-circle at each end. If the area of the rectangular portion is to be maximum, then the lengths of its side are",
+        "options": {
+            "A": "70 ft and 110 ft",
+            "B": "80 ft and 120 ft",
+            "C": "35 ft and 110 ft",
+            "D": "35 ft and 120 ft"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lc05ecto",
+        "question_number": 72,
+        "question_value": "$$\\left( {{{dy} \\over {dx}}} \\right)\\tan x = y{\\sec ^2}x + \\sin x$$, find general solution",
+        "options": {
+            "A": "$$y = \\tan x(\\log |{\\mathop{\\rm cosec}\\nolimits} x - \\cot x| + \\cos x + c)$$",
+            "B": "$$y = {\\sec ^2}x + \\tan x + c$$",
+            "C": "$$y = \\log |\\sec x + \\tan x| + {\\mathop{\\rm cosec}\\nolimits} \\,x + c$$",
+            "D": "$$y = {\\tan ^2}x + \\sin x + c$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lc05kwtc",
+        "question_number": 73,
+        "question_value": "If the straight line $$y = mx + c$$ touches the parabola $${y^2} - 4ax + 4{a^3} = 0$$, then c is",
+        "options": {
+            "A": "$$am + {a \\over m}$$",
+            "B": "$$am - {a \\over m}$$",
+            "C": "$${a \\over m} + {a^2}m$$",
+            "D": "$${a \\over m} - {a^2}m$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lc05q97k",
+        "question_number": 74,
+        "question_value": "A normal is drawn at the point P to the parabola $${y^2} = 8x$$, which is inclined at 60$$^\\circ$$ with the straight line $$y = 8$$. Then the point P lies on the straight line",
+        "options": {
+            "A": "$$2x + y - 12 - 4\\sqrt 3  = 0$$",
+            "B": "$$2x - y - 12 + 4\\sqrt 3  = 0$$",
+            "C": "$$2x - y - 12 - 4\\sqrt 3  = 0$$",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lc05vk9v",
+        "question_number": 75,
+        "question_value": "The value of $$\\int {{1 \\over {{{[{{(x - 1)}^3}{{(x + 2)}^5}]}^{{1 \\over 4}}}}}dx} $$, is",
+        "options": {
+            "A": "$${4 \\over 3}{\\left( {{{x + 1} \\over {x - 2}}} \\right)^{{1 \\over 4}}} + C$$",
+            "B": "$${3 \\over 4}{\\left( {{{x - 1} \\over {x + 2}}} \\right)^{{1 \\over 4}}} + C$$",
+            "C": "$${4 \\over 3}{\\left( {{{x - 1} \\over {x + 2}}} \\right)^{{1 \\over 4}}} + C$$",
+            "D": "$${1 \\over 3}{\\left( {{{2x - 1} \\over {4x - 3}}} \\right)^{{1 \\over 4}}} + C$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lc061yhj",
+        "question_number": 76,
+        "question_value": "What is the area enclosed by the parabola described by $${(y - 2)^2} = (x - 1)$$, its tangent line at the point (2, 3), and the X-axis?",
+        "options": {
+            "A": "3",
+            "B": "6",
+            "C": "9",
+            "D": "12"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lc069w0h",
+        "question_number": 77,
+        "question_value": "$$\\widehat u$$ and $$\\widehat v$$ are two non-collinear unit vectors such that $$\\left| {{{\\widehat u + \\widehat v} \\over 2} + \\widehat u \\times \\widehat v} \\right| = 1$$. Then the value of $$|\\widehat u \\times \\widehat v|$$ is equal to",
+        "options": {
+            "A": "$$\\left| {{{\\widehat u + \\widehat v} \\over 2}} \\right|$$",
+            "B": "$$|\\widehat u + \\widehat v|$$",
+            "C": "$$|\\widehat u - \\widehat v|$$",
+            "D": "$$\\left| {{{\\widehat u - \\widehat v} \\over 2}} \\right|$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lc06fj0y",
+        "question_number": 78,
+        "question_value": "A six faced die is a biased one. It is thrice more likely to show an odd numbers than show an even number. It is thrown twice. The probability that the sum of the numbers in two throws is even, is",
+        "options": {
+            "A": "$$\\frac{5}{9}$$",
+            "B": "$$\\frac{5}{8}$$",
+            "C": "$$\\frac{1}{2}$$",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lc07ihfo",
+        "question_number": 79,
+        "question_value": "The sum of all the solution of the equation $$\\cos \\theta \\cos \\left( {{\\pi  \\over 3} + \\theta } \\right)\\cos \\left( {{\\pi  \\over 3} - \\theta } \\right) = {1 \\over 4},\\theta  \\in [0,6\\pi ]$$",
+        "options": {
+            "A": "15$$\\pi$$",
+            "B": "30$$\\pi$$",
+            "C": "$${{100\\pi } \\over 3}$$",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lc088yd4",
+        "question_number": 80,
+        "question_value": "Let $$\\alpha$$ be the solution of $${16^{{{\\sin }^2}\\theta }} + {16^{{{\\cos }^2}\\theta }} = 10$$ in $$\\left( {0,{\\pi  \\over 4}} \\right)$$. If the shadow of a vertical pole is $${1 \\over {\\sqrt 3 }}$$ of its height, then the altitude of the sun is",
+        "options": {
+            "A": "$$\\alpha$$",
+            "B": "$${\\alpha  \\over 2}$$",
+            "C": "$$2\\alpha$$",
+            "D": "$${\\alpha  \\over 3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lc08q9gx",
+        "question_number": 82,
+        "question_value": "The number of ways of arranging letters of the word HAVANA so that V and N do not appear together is",
+        "options": {
+            "A": "40",
+            "B": "60",
+            "C": "80",
+            "D": "100"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lc09ga1r",
+        "question_number": 84,
+        "question_value": "If the plane $$3x + y + 2z + 6 = 0$$ is parallel to the line $${{3x - 1} \\over {2b}} = 3 - y = {{z - 1} \\over a}$$, then the value of $$3a + 3b$$ is",
+        "options": {
+            "A": "$${1 \\over 2}$$",
+            "B": "$${3 \\over 2}$$",
+            "C": "3",
+            "D": "4"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lc0a2g2n",
+        "question_number": 86,
+        "question_value": "If $$\\left[ {\\matrix{\n   1 & { - \\tan \\theta }  \\cr \n   {\\tan \\theta } & 1  \\cr \n\n } } \\right]{\\left[ {\\matrix{\n   1 & {\\tan \\theta }  \\cr \n   { - \\tan \\theta } & 1  \\cr \n\n } } \\right]^{ - 1}} = \\left[ {\\matrix{\n   a & { - b}  \\cr \n   b & a  \\cr \n\n } } \\right]$$, then",
+        "options": {
+            "A": "a = 1, b = 1",
+            "B": "$$a = \\sin 2\\theta ,b = \\cos 2\\theta $$",
+            "C": "$$a = \\cos 2\\theta ,b = \\sin 2\\theta $$",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lc0a5jxy",
+        "question_number": 87,
+        "question_value": "The value of $$\\mathop {\\lim }\\limits_{x \\to 0} {{{{(1 + x)}^{{1 \\over x}}} - e + {1 \\over 2}ex} \\over {{x^2}}}$$ is",
+        "options": {
+            "A": "$${{11} \\over {24}}e$$",
+            "B": "$$ - {{11} \\over {24}}e$$",
+            "C": "$${e \\over {24}}$$",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lc0ct1ll",
+        "question_number": 88,
+        "question_value": "The locus of the mid-point of the chord if contact of tangents drawn from points lying on the straight line $$4x - 5y = 20$$ to the circle $${x^2} + {y^2} = 9$$ is",
+        "options": {
+            "A": "$$20({x^2} + {y^2}) - 36x + 45y = 0$$",
+            "B": "$$20({x^2} + {y^2}) + 36x - 45y = 0$$",
+            "C": "$$36({x^2} + {y^2}) - 20x + 45y = 0$$",
+            "D": "$$36({x^2} + {y^2}) + 20x - 45y = 0$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lc0d4zvj",
+        "question_number": 89,
+        "question_value": "Let $$f(x) = \\int {{{{x^2}dx} \\over {(1 + {x^2})(1 + \\sqrt {1 + {x^2}} )}}} $$ and $$f(0) = 0$$, then the value of $$f(1)$$ be",
+        "options": {
+            "A": "$$\\log (1 + \\sqrt 2 )$$",
+            "B": "$$\\log (1 + \\sqrt 2 ) - {\\pi  \\over 4}$$",
+            "C": "$$\\log (1 + \\sqrt 2 ) + {\\pi  \\over 2}$$",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lc0d97pj",
+        "question_number": 90,
+        "question_value": "The mean of five observations is 4 and their variance is 5.2. If three of these observations are 1, 2 and 6, then the other two are",
+        "options": {
+            "A": "2 and 9",
+            "B": "3 and 8",
+            "C": "4 and 7",
+            "D": "5 and 6"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lc0dg0x4",
+        "question_number": 91,
+        "question_value": "In a sequence of 21 terms, the first 11 terms are in AP with common difference 2 and the last 11 terms are in GP with common ratio 2. If the middle term of AP be equal to the middle term of the GP, then the middle term of the entire sequence is",
+        "options": {
+            "A": "$$-\\frac{10}{31}$$",
+            "B": "$$\\frac{10}{31}$$",
+            "C": "$$\\frac{32}{31}$$",
+            "D": "$$-\\frac{31}{32}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lc0e0xzo",
+        "question_number": 94,
+        "question_value": "The smallest positive integral value of n such that $${\\left[ {{{1 + \\sin {\\pi  \\over 8} + i\\cos {\\pi  \\over 8}} \\over {1 + \\sin {\\pi  \\over 8} - i\\cos {\\pi  \\over 8}}}} \\right]^n}$$ is purely imaginary, is equal to",
+        "options": {
+            "A": "4",
+            "B": "3",
+            "C": "2",
+            "D": "8"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lc0e8hlm",
+        "question_number": 95,
+        "question_value": "Given that a house forms a right angle view from a window of another house, and the angle of elevation from the base of the first house to the window is 60 degrees. If the separation between the two houses is 6 meters, calculate the height of the first house.",
+        "options": {
+            "A": "8$$\\sqrt3$$ m",
+            "B": "6$$\\sqrt3$$ m",
+            "C": "4$$\\sqrt3$$ m",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lc0ejv5i",
+        "question_number": 96,
+        "question_value": "A spherical balloon is filled with 4500$$\\pi$$ cubic meters of helium gas. If a leak in the balloon causes the gas to escape at the rate of 72$$\\pi$$ cubic meters per minute then the rate (in meters per minute) at which the radius of the balloon decreases 49 min after the leakage began is",
+        "options": {
+            "A": "$$\\frac{9}{7}$$",
+            "B": "$$\\frac{7}{9}$$",
+            "C": "$$\\frac{2}{9}$$",
+            "D": "9"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lc0fcagi",
+        "question_number": 99,
+        "question_value": "The area enclosed by the curves $$y = \\sin x + \\cos x$$ and $$y = |\\cos x - \\sin x|$$ over the interval $$\\left[ {0,{\\pi  \\over 2}} \\right]$$ is",
+        "options": {
+            "A": "$$4(\\sqrt 2  - 1)$$",
+            "B": "$$2\\sqrt 2 (\\sqrt 2  - 1)$$",
+            "C": "$$2(\\sqrt 2  + 1)$$",
+            "D": "$$2\\sqrt 2 (\\sqrt 2  + 1)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lc0fins3",
+        "question_number": 100,
+        "question_value": "If $$\\alpha,\\beta,\\gamma \\in[0,\\pi]$$ and if $$\\alpha,\\beta,\\gamma$$ are in AP, then $${{\\sin \\alpha  - \\sin \\gamma } \\over {\\cos \\gamma  - \\cos \\alpha }}$$ is equal to",
+        "options": {
+            "A": "sin $$\\beta$$",
+            "B": "cos $$\\beta$$",
+            "C": "cot $$\\beta$$",
+            "D": "2 cos $$\\beta$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbymgy6k",
+        "question_number": 101,
+        "question_value": "The stopping potential (V0) versus frequency $$\\nu $$ of a graph for photoelectric effect in a metal. From the graph, the Plank's constant (h) is",
+        "options": {
+            "A": "6.60 $$\\times$$ 10$$-$$34J-s",
+            "B": "6.69 $$\\times$$ 10$$-$$34J-s",
+            "C": "6.62 $$\\times$$ 10$$-$$34J-s",
+            "D": "6.63 $$\\times$$ 10$$-$$34J-s"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbymt8xs",
+        "question_number": 102,
+        "question_value": "In a resonance coloum first and second resonance are obtained at depths 24 cm and 78 cm the third resonance will be obtained at depth.",
+        "options": {
+            "A": "160 m",
+            "B": "132 m",
+            "C": "131 m",
+            "D": "152 m"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbynenqs",
+        "question_number": 103,
+        "question_value": "A submarine A travelling at 17 m/s is being chased along the line of its velocity by another submarine B travelling at 34 m/s. B sends a sonar signal of 600 Hz to detect A and receives a reflected sound of frequency $$\\nu$$. The of $$\\nu$$ is[Speed of sound in water = 1500 ms$$-$$1]",
+        "options": {
+            "A": "613.7 Hz",
+            "B": "6137 Hz",
+            "C": "62 Hz",
+            "D": "539 Hz"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbynkf74",
+        "question_number": 104,
+        "question_value": "Transverse waves of the same frequency are generated in two steel wires A and B. The diameter of A is twice that of B and the tension in A is half that in B. The ratio of the velocities of the waves in A and B is",
+        "options": {
+            "A": "1 : 2",
+            "B": "1 : $$\\sqrt2$$",
+            "C": "1 : 2$$\\sqrt2$$",
+            "D": "3 : 2$$\\sqrt2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbynp42w",
+        "question_number": 105,
+        "question_value": "In the diagram shown below, both the strings AB and CD are made of same material and have same cross-section. The pulleys are light and fictionless. If the speed of wave in string AB is v1and in CD is v2, then $${{{v_1}} \\over {{v_2}}}$$ is",
+        "options": {
+            "A": "1",
+            "B": "$$\\sqrt2$$",
+            "C": "2",
+            "D": "1$$\\sqrt2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbynv294",
+        "question_number": 106,
+        "question_value": "What will be the acceleration due to gravity at a depth d, where g is acceleration due to gravity on the surface of earth?",
+        "options": {
+            "A": "$${g \\over {{{\\left[ {1 + {d \\over R}} \\right]}^2}}}$$",
+            "B": "$$g\\left[ {1 - {{2d} \\over R}} \\right]$$",
+            "C": "$${g \\over {{{\\left[ {1 - {d \\over R}} \\right]}^2}}}$$",
+            "D": "$$g\\left[ {1 - {d \\over R}} \\right]$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbyo35zt",
+        "question_number": 107,
+        "question_value": "A direct current of 6 A is superimposed on an alternating current I = 10 sin $$\\omega$$t flowing through a wire. The effective value of the resulting current will be",
+        "options": {
+            "A": "5$$\\sqrt2$$",
+            "B": "5$$\\sqrt3$$",
+            "C": "9.27",
+            "D": "8.37"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbyoeccr",
+        "question_number": 108,
+        "question_value": "Which one of the following graphs represents the variation of electric potential with distance r from the centre of a non-conducting charged sphere of radius R?",
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhye0uds/621b6d07-d7cd-41e8-937c-81cf54267c61/c8c1ed00-f85e-11ed-8d57-5795b2ecf3ea/file-1lhye0udt.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhye1en1/88013485-825b-49c7-bab1-d3dae6575e6b/d867d0d0-f85e-11ed-a585-812e165f6969/file-1lhye1en2.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhye1q4u/2a2c3735-b9bd-4ab6-95fa-4eb89ee9f6be/e14911f0-f85e-11ed-a585-812e165f6969/file-1lhye1q4v.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lhye24nk/c7c3bf0d-6b83-414c-9048-5daf71206797/ec805100-f85e-11ed-a585-812e165f6969/file-1lhye24nl.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbyofzp4",
+        "question_number": 109,
+        "question_value": "For an insulator, the forbidden energy gap is",
+        "options": {
+            "A": "Zero",
+            "B": "1eV",
+            "C": "2eV",
+            "D": "5eV"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbyok4wy",
+        "question_number": 110,
+        "question_value": "A machine gun fires 300 bullets per min if the mass of each bullet is 10 g and the velocity of the bullets is 600 ms$$-$$1, the power (in kW) of the gun is",
+        "options": {
+            "A": "43200",
+            "B": "9",
+            "C": "72",
+            "D": "7.2"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbyp06v0",
+        "question_number": 111,
+        "question_value": "Four holes of radius 5 cm are cut from a thin square plate of 20 cm and mass 1 kg. The moment of inertia of the remaining portion about Z-axis is",
+        "options": {
+            "A": "15 kg-m2",
+            "B": "0.37 kg-m2",
+            "C": "0.0017 kg-m2",
+            "D": "0.08 kg-m2"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbyr3zux",
+        "question_number": 112,
+        "question_value": "A particle of mass m is projected with velocity v at an angle $$\\theta$$ with the horizontal. At its highest point, it explodes into two pieces of equal mass, one of the piece continue to move on the original trajectory, then the velocity of second piece is",
+        "options": {
+            "A": "2 v cos$$\\theta$$",
+            "B": "v cos$$\\theta$$",
+            "C": "3 v cos$$\\theta$$",
+            "D": "$$\\frac{v}{2}$$ cos$$\\theta$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbysks3y",
+        "question_number": 115,
+        "question_value": "In the circuit shown in the figure, the AC source gives a voltage V = 20 cos (2000t) neglecting source resistance, the voltmeter and ammeter reading will be",
+        "options": {
+            "A": "0 V, 0.47 A",
+            "B": "2.82 V, 1.41 A",
+            "C": "1.41 V, 0.47 A",
+            "D": "1.5 V, 8.37 A"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbysnph0",
+        "question_number": 116,
+        "question_value": "An electromagnetic wave is propagating along X-axis. At x = 1 cm and t = 18s, its electric vector |E| = 8 V/m, then the magnitude of its magnetic vector is",
+        "options": {
+            "A": "2.66 $$\\times$$ 10$$-$$8",
+            "B": "3 $$\\times$$ 10$$-$$7",
+            "C": "3.14 $$\\times$$ 10$$-$$8",
+            "D": "3.16 $$\\times$$ 10$$-$$7"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbysqas6",
+        "question_number": 117,
+        "question_value": "In the following circuit the equivalent resistance between X and Y is ......... $$\\Omega$$",
+        "options": {
+            "A": "5",
+            "B": "12",
+            "C": "16",
+            "D": "20"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbysvp5c",
+        "question_number": 118,
+        "question_value": "A monoatomic gas of molar mass m is kept in a insulated container. Container is moving with velocity v. If the container is suddenly stopped, then the change in the temperature of the gas is",
+        "options": {
+            "A": "mv2/4R",
+            "B": "mv2/2R",
+            "C": "mv2/R",
+            "D": "mv2/3R"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbyt0sjf",
+        "question_number": 119,
+        "question_value": "A projectile is projected with the velocity of $$(3\\widehat i + 4\\widehat j)$$ m/s. The horizontal range of the projectile will be",
+        "options": {
+            "A": "1.2 m",
+            "B": "2.4 m",
+            "C": "3.6 m",
+            "D": "4.5 m"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbyt9ozd",
+        "question_number": 120,
+        "question_value": "A transistor is connected in common-emitter (CE) configuration. The collector supply is 8V and the voltage drop across a resistor is 500 $$\\Omega$$ in the collector circuit is 0.6 V. IF the current gain factor $$\\alpha$$ is 0.96, find the base current",
+        "options": {
+            "A": "25 $$\\mu$$A",
+            "B": "50 $$\\mu$$A",
+            "C": "20 $$\\mu$$A",
+            "D": "35 $$\\mu$$A"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbyu0630",
+        "question_number": 121,
+        "question_value": "A solid sphere of 80 kg and radius 15 m moving in a space becomes a circular disc of radius 20 m in 1 h. The rate of change of moment of Inertia in this process is .......",
+        "options": {
+            "A": "$$\\frac{30}{9}$$ kg-m2s$$-$$1",
+            "B": "$$\\frac{25}{9}$$ kg-m2s$$-$$1",
+            "C": "$$\\frac{10}{9}$$ kg-m2s$$-$$1",
+            "D": "$$\\frac{22}{9}$$ kg-m2s$$-$$1"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbyu4szk",
+        "question_number": 122,
+        "question_value": "If the B - H curves of two samples of X and Y of iron are as shown below, then which one of the following statement is correct?",
+        "options": {
+            "A": "Both X and Y are suitable for making electromagnets.",
+            "B": "Both X and Y are suitable for making permanent magnet.",
+            "C": "X is suitable for making permanent magnet and Y for making electromagnet.",
+            "D": "X is suitable for making electromagnet and Y is suitable for permanent magnet."
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lbyukpnh",
+        "question_number": 124,
+        "question_value": "A mosquito O is sitting infront of a glass rod having spherical end of radius of curvature 40 cm. The image would be formed at",
+        "options": {
+            "A": "40 cm left",
+            "B": "infinity",
+            "C": "20 cm to the right",
+            "D": "15 cm to the left"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbyvus8c",
+        "question_number": 125,
+        "question_value": "One mole of an ideal diatomic gas undergoes a process as shown in the figure. The molar specific heat of the gas in the process is",
+        "options": {
+            "A": "3R/2",
+            "B": "R/2",
+            "C": "5R/2",
+            "D": "7R/2"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lbywbfuu",
+        "question_number": 126,
+        "question_value": "A capillary tube is attached horizontally to a constant heat arrangement. If the radius of the capillary tube is increased by 25%, then the rate of flow of liquid will change nearly by",
+        "options": {
+            "A": "100%",
+            "B": "112%",
+            "C": "124%",
+            "D": "144%"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbywti07",
+        "question_number": 128,
+        "question_value": "In a young's double slit arrangement fringes are produced using light of wavelength 4000 $$\\mathop A\\limits^o $$. One slit is covered by a thin plate of glass of refractive index 1.4 and the other with another glass plate of same thickness but of refractive index 1.7. By doing so the central bright shifts to original sixth fringe from centre. Thickness of glass plate is ................. .",
+        "options": {
+            "A": "2 $$\\mu$$m",
+            "B": "8 $$\\mu$$m",
+            "C": "11 $$\\mu$$m",
+            "D": "16 $$\\mu$$m"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lbyx0m4o",
+        "question_number": 129,
+        "question_value": "An electric current I enters and leaves a uniform circular wire of radius r through diametrically opposite points. A charged particle q moves along the axis of circular wire passes through its centre at speed v. The magnetic force on the particle when it passes through the centre has a magnitude.",
+        "options": {
+            "A": "$${{qv{\\mu _0}I} \\over {2\\pi r}}$$",
+            "B": "$$qv{{{\\mu _0}I} \\over {\\pi r}}$$",
+            "C": "$${{qv{\\mu _0}I} \\over r}$$",
+            "D": "0"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lbyx72uh",
+        "question_number": 130,
+        "question_value": "An achromatic convergent doublet of two lenses in contact has a power of +5 D. The power of converging lens is +6 D. The ratio of the dispersive power of the convergent and divergent lenses is",
+        "options": {
+            "A": "3 : 7",
+            "B": "2 : 3",
+            "C": "1 : 5",
+            "D": "5 : 3"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    }
+]

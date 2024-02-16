@@ -21,7 +21,7 @@ export default function ExamCard({ className, TitleValue,RedirectValue,Day ,...p
       </CardHeader>
       <CardFooter>
         <Link href={`\\mock-test\\${RedirectValue}`} className="w-full">
-          <Button className="w-full font-bold">
+          <Button className="w-full font-bold bg-stone-900 text-white hover:bg-stone-700">
             <CornerDownRight className="mr-2 h-4 w-4" /> Solve
           </Button>
         </Link>
