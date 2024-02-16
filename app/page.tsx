@@ -1,7 +1,4 @@
 import ExamCard from "@/components/ExamCard";
-import { ModeToggle } from "@/components/ModeToggle";
-import { SparklesPreview } from "@/components/SparklesPreview";
-import { WavyBackground } from "@/components/ui/wavy-background";
 import React from "react";
 
 export default function Page() {
