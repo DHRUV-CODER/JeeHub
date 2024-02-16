@@ -1,9 +1,13 @@
 import ExamCard from "@/components/ExamCard";
+import { ModeToggle } from "@/components/ModeToggle";
+import { SparklesPreview } from "@/components/SparklesPreview";
+import { WavyBackground } from "@/components/ui/wavy-background";
 import React from "react";
 
 export default function Page() {
   return (
     <div>
+
       <div className="grid xl:grid-cols-3 gap-x-2 gap-y-2 items-center justify-center py-2 sm:grid-cols-1 md:grid-cols-2">
         <ExamCard
           TitleValue="27th Shift 1 Morning"
@@ -56,7 +60,7 @@ export default function Page() {
           Day={false}
         />
       </div>
-      <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl text-muted-foreground text-orange-200 px-2 py-2 items-center justify-center flex">
+      <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl text-muted-foreground text-orange-100 px-2 py-2 items-center justify-center flex">
         Made by Brexy :)
       </h1>
     </div>

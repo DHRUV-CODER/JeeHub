@@ -41,7 +41,7 @@ export function NumericalBox({ RightAns }: NumericalBoxProps) {
         </Button>
       </div>
       {isRight ? (
-        <h1 className="text-green-400 text-xl font-bold px-2 py-2">Correct</h1>
+        <h1 className="text-green-400 text-xl font-bold px-2 py-2">Correct Answer</h1>
       ) : (
         NumValue &&
         checkNow ? (

@@ -63,8 +63,14 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
 
   return (
     <div>
-      <div className="px-1 py-2">
-        <h1 className="scroll-m-20 text-xl font-extrabold tracking-tight lg:text-5xl text-zinc-300">
+      <div className={"px-1 py-2 border-2 border-stone-900 "}>
+        <h1 className={`scroll-m-20 text-xl font-extrabold tracking-tight  text-zinc-300 border-4 inline-block max-content items-center justify-center bg-stone-900 rounded-md px-1 py-1 hover:text-zinc-400 hover:border-stone-700 ${
+                      RightAnswer === "Correct" 
+                        ? "border-green-500 text-black"
+                        : RightAnswer === "Wrong"
+                        ? "border-red-500 text-black"
+                        : ""
+                    }`}>
           Question {QuestionNumber} :
         </h1>
         <p className="text-xl py-2 px-1 font-sans text-muted-foreground font-bold ">
@@ -112,7 +118,7 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
                         alt={`Option ${optionKey}`}
                         width="150px"
                         height="150px"
-                        className="sepia"
+                        className="brightness-200"
                       />
                     </Button>
                   )
