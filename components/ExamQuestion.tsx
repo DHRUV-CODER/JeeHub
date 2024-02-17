@@ -1,11 +1,10 @@
 "use client";
-import React, { useEffect, useState } from "react";
-import { Button } from "./ui/button";
-import axios from "axios";
 
+import React, { useEffect, useState } from "react";
 import "katex/dist/katex.min.css";
 import Latex from "react-latex-next";
-import { sendResponse } from "next/dist/server/image-optimizer";
+
+import { Button } from "./ui/button";
 import { NumericalBox } from "./NumericalBox";
 
 interface ExamQuestionProps {
@@ -22,40 +21,31 @@ interface ExamQuestionProps {
 }
 
 const ExamQuestion: React.FC<ExamQuestionProps> = ({
-  QuestionId,
   Question,
   QuestionNumber,
   Options,
   CorrectAnswer,
 }) => {
   function rectifyLatex(latexString: string): string {
-    // Replace $$...$$ with \(...\)
+    // Replaces $$...$$ with \(...\)
     latexString = latexString.replace(/\$\$(.*?)\$\$/g, "\\($1\\)");
 
     return latexString;
   }
 
-  const [qid, setQuestionId] = useState("");
   const [RightAnswer, setCorrectAnswer] = useState("");
-  const [selectedValue, setSelectedValue] = useState<string | null>(null);
   const [SelectedButtonIndex, setSelectedButtonIndex] = useState<number | null>(
     0
   );
 
-  useEffect(() => {
-    setQuestionId(QuestionId);
-  }, [SelectedButtonIndex, RightAnswer]);
+  useEffect(() => {}, [SelectedButtonIndex, RightAnswer]);
 
-  const handleOptionClick = (value: string, index: number) => {
-    setSelectedValue(value);
-
+  const handleOptionClick = (index: number) => {
     console.log(index, CorrectAnswer);
     if (index === CorrectAnswer) {
-      console.log("correct");
       setSelectedButtonIndex(index);
       setCorrectAnswer("Correct");
     } else {
-      console.log("wrong");
       setSelectedButtonIndex(index);
       setCorrectAnswer("Wrong");
     }
@@ -64,13 +54,15 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
   return (
     <div>
       <div className={"px-1 py-2 border-2 border-stone-900 "}>
-        <h1 className={`scroll-m-20 text-xl font-extrabold tracking-tight  text-zinc-300 border-4 inline-block max-content items-center justify-center bg-stone-900 rounded-md px-1 py-1 hover:text-zinc-400 hover:border-stone-700 ${
-                      RightAnswer === "Correct" 
-                        ? "border-green-500 text-black"
-                        : RightAnswer === "Wrong"
-                        ? "border-red-500 text-black"
-                        : ""
-                    }`}>
+        <h1
+          className={`scroll-m-20 text-xl font-extrabold tracking-tight  text-zinc-300 border-4 inline-block max-content items-center justify-center bg-stone-900 rounded-md px-1 py-1 hover:text-zinc-400  hover:border-dashed ${
+            RightAnswer === "Correct"
+              ? "border-green-500 text-black"
+              : RightAnswer === "Wrong"
+              ? "border-red-500 text-black"
+              : ""
+          }`}
+        >
           Question {QuestionNumber} :
         </h1>
         <p className="text-xl py-2 px-1 font-sans text-muted-foreground font-bold ">
@@ -86,7 +78,7 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
                   // Render the option text directly
                   <Button
                     variant="ghost"
-                    className={`w-full font-sans font-semibold text-left sm:text-xs lg:text-lg overflow-hidden overflow-ellipsis whitespace-nowrap ${
+                    className={`w-full font-sans font-semibold text-left sm:text-xs lg:text-lg overflow-hidden overflow-ellipsis whitespace-nowrap  ${
                       RightAnswer === "Correct" && SelectedButtonIndex === index
                         ? "bg-green-500 text-black"
                         : RightAnswer === "Wrong" &&
@@ -94,7 +86,7 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
                         ? "bg-red-500 text-black"
                         : ""
                     }`}
-                    onClick={() => handleOptionClick(option, index)}
+                    onClick={() => handleOptionClick(index)}
                   >
                     <Latex strict>{rectifyLatex(option)}</Latex>
                   </Button>
@@ -111,7 +103,7 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
                           ? "border-red-500"
                           : ""
                       }`}
-                      onClick={() => handleOptionClick(option.img_url, index)}
+                      onClick={() => handleOptionClick(index)}
                     >
                       <img
                         src={option.img_url}
@@ -127,14 +119,6 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
             ))
           )}
         </div>
-        {/* {selectedValue && (
-          <p>
-            You have selected:{" "}
-            <strong>
-              {RightAnswer}, {SelectedButtonIndex}
-            </strong>
-          </p>
-        )} */}
       </div>
     </div>
   );
