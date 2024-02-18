@@ -68,7 +68,7 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
         >
           Question {QuestionNumber} :
         </h1>
-        <p className="text-xl py-2 px-1 font-sans text-muted-foreground font-semibold ">
+        <p className="text-xl py-2 px-1 font-sans text-muted-foreground font-bold ">
           <Latex>{rectifyLatex(Question.text ? Question.text : "N.A")}</Latex>
         </p>
         {Question.img_url && (
