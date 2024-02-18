@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "JeeHub",
-  description: "Pyq solve karo auur maze karo",
+  description: "Aaj Teri Aukat Dikhata hu",
 };
 
 export default function RootLayout({
