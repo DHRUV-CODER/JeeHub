@@ -8,7 +8,7 @@ export default function ExamList() {
   return (
     <div className="flex items-center flex-col flex-column">
       <h1 className={commonClasses}>
-        <mark className="py-1 px-2 text-black rounded-xl bg-red-600">Jee 2024</mark>
+        <mark className="py-1 px-2 text-black rounded-xl bg-orange-300">Jee 2024</mark>
       </h1>
       <div className="grid xl:grid-cols-3 gap-x-2 gap-y-2 items-center justify-center py-2 sm:grid-cols-1 md:grid-cols-2">
         {Jee.map(({Title,RedirectValue,Day}) => (
