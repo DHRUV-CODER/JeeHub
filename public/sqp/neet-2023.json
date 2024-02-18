@@ -1,0 +1,2074 @@
+[
+    {
+        "qid": "1lipxkmtn",
+        "question_number": 3,
+        "question_value": {
+            "text": "In Calotropis, aestivation is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Valvate",
+            "B": "Vexillary",
+            "C": "Imbricate",
+            "D": "Twisted"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lipxqech",
+        "question_number": 5,
+        "question_value": {
+            "text": "Nitrates and phosphates flowing from agricultural farms into water bodies are a significant cause of :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Eutrophication",
+            "B": "Humification",
+            "C": "Mineralisation",
+            "D": "Stratification"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lipxzvrh",
+        "question_number": 7,
+        "question_value": {
+            "text": "How many times decarboxylation occurs during each TCA cycle?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Thrice",
+            "B": "Many",
+            "C": "Once",
+            "D": "Twice"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lipy0mfg",
+        "question_number": 8,
+        "question_value": {
+            "text": "The dissolution of synaptonemal complex occurs during :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Pachytene",
+            "B": "Diplotene",
+            "C": "Diakinesis",
+            "D": "Leptotene"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lipy4mln",
+        "question_number": 10,
+        "question_value": {
+            "text": "Doubling of the number of chromosomes can be achieved by disrupting mitotic cell division soon after :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Anaphase",
+            "B": "Telophase",
+            "C": "Prophase",
+            "D": "Metaphase"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lipy8szb",
+        "question_number": 12,
+        "question_value": {
+            "text": "In 'rivet popper hypothesis', Paul Ehrlich compared the rivets in an airplane to :",
+            "img_url": null
+        },
+        "options": {
+            "A": "species within a genus",
+            "B": "genetic diversity",
+            "C": "ecosystem",
+            "D": "genera within a family"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lipyhqg3",
+        "question_number": 13,
+        "question_value": {
+            "text": "In a pea flower, five petals are arranged in a specialized manner with one posterior, two lateral and two anterior. These are named as ___________, __________ and _________ respectively.",
+            "img_url": null
+        },
+        "options": {
+            "A": "Keel, Wings and Standard",
+            "B": "Vexillum, Keel and Standard",
+            "C": "Keel, Standard and Carina",
+            "D": "Standard, Wings and Keel"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lipyjb41",
+        "question_number": 14,
+        "question_value": {
+            "text": "In which of the following sets of families, the pollen grains are viable for months?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Solanaceae, Poaceae and Liliaceae",
+            "B": "Brassicaceae, Liliaceae and Poaceae",
+            "C": "Rosaceae, Liliaceae and Poaceae",
+            "D": "Leguminosae, Solanaceae and Rosaceae"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lipykex8",
+        "question_number": 15,
+        "question_value": {
+            "text": "Transfer of pollen grains from anther to stigma of another flower of same plant is known as :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Geitonogamy",
+            "B": "Xenogamy",
+            "C": "Autogamy",
+            "D": "Cleistogamy"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lipymry5",
+        "question_number": 16,
+        "question_value": {
+            "text": "The phenomenon which is influenced by auxin and also played a major role in its discovery :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Phototropism",
+            "B": "Root initiation",
+            "C": "Gravitropism",
+            "D": "Apical Dominance"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lipyz5zn",
+        "question_number": 17,
+        "question_value": {
+            "text": "The transverse section of a plant part showed polyarch, radial and exarch xylem, with endodermis and pericycle. The plant part is identified as :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Monocot root",
+            "B": "Dicot root",
+            "C": "Dicot stem",
+            "D": "Monocot stem"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lipz0qbc",
+        "question_number": 18,
+        "question_value": {
+            "text": "What will happen if fresh water lake gets contaminated by addition of polluted water with high BOD?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Amount of dissolved oxygen in the lake will decrease",
+            "B": "The lake will remain unaffected",
+            "C": "Number of submerged aquatic plants in the lake will increase",
+            "D": "Number of aquatic animals in the lake will increase"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lipz2keh",
+        "question_number": 19,
+        "question_value": {
+            "text": "The last chromosome sequenced in Human Genome Project was:",
+            "img_url": null
+        },
+        "options": {
+            "A": "Chromosome 6",
+            "B": "Chromosome 1",
+            "C": "Chromosome 22",
+            "D": "Chromosome 14"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lipz40um",
+        "question_number": 20,
+        "question_value": {
+            "text": "The amount of nutrients such as carbon, nitrogen, potassium and calcium present in the soil at any given time is referred to as :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Standing state",
+            "B": "Standing crop",
+            "C": "Humus",
+            "D": "Detritus"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lipz5if7",
+        "question_number": 21,
+        "question_value": {
+            "text": "Plants offer rewards to animals in the form of pollen and nectar and the animals facilitate the pollination process. This is an example of :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Amensalism",
+            "B": "Competition",
+            "C": "Commensalism",
+            "D": "Mutualism"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lipz6owj",
+        "question_number": 22,
+        "question_value": {
+            "text": "The species of plants that plays a vital role in controlling the relative abundance of other species in a community is called _________.",
+            "img_url": null
+        },
+        "options": {
+            "A": "alien species",
+            "B": "endemic species",
+            "C": "exotic species",
+            "D": "keystone species"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lipzai9w",
+        "question_number": 24,
+        "question_value": {
+            "text": "Inulin is a polymer of :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Fructose",
+            "B": "Galactose",
+            "C": "Amino acids",
+            "D": "Glucose"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lipzbo18",
+        "question_number": 25,
+        "question_value": {
+            "text": "Thermostable DNA polymerase used in PCR was isolated from :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Thermus aquaticus",
+            "B": "Escherichia coli",
+            "C": "Agrobacterium tumifaciens",
+            "D": "Bacillus thuringiensis"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lipzcxak",
+        "question_number": 26,
+        "question_value": {
+            "text": "Name the component that binds to the operator region of an operon and prevents RNA polymerase from transcribing the operon.",
+            "img_url": null
+        },
+        "options": {
+            "A": "Promotor",
+            "B": "Regulator protein",
+            "C": "Repressor protein",
+            "D": "Inducer"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lipzeq83",
+        "question_number": 27,
+        "question_value": {
+            "text": "A heterozygous pea plant with violet flowers was crossed with homozygous pea plant with white flower. Violet is dominant over white. Which one of the following represents the expected combinations among 40 progenies formed?",
+            "img_url": null
+        },
+        "options": {
+            "A": "30 produced violet and 10 produced white flowers",
+            "B": "20 produced violet and 20 produced white flowers",
+            "C": "All 40 produced violet flowers",
+            "D": "All 40 produced white flowers"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lipzfyqy",
+        "question_number": 28,
+        "question_value": {
+            "text": "Fatty acids are connected with the respiratory pathway through :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Acetyl CoA",
+            "B": "$$\\alpha$$-Ketoglutaric acid",
+            "C": "Dihydroxy acetone phosphate",
+            "D": "Pyruvic acid"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lipzhbmr",
+        "question_number": 29,
+        "question_value": {
+            "text": "Ligation of foreign DNA at which of the following site will result in loss of tetracyclin resistance of pBR322 :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Pst I",
+            "B": "Pvu I",
+            "C": "EcoR I",
+            "D": "BamH I"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lipzmfug",
+        "question_number": 31,
+        "question_value": {
+            "text": "During symport two different molecules move across the membrane :",
+            "img_url": null
+        },
+        "options": {
+            "A": "in same direction with the help of different carriers located at a common site",
+            "B": "in same direction with the help of different carriers located at different sites in the same cell",
+            "C": "in same direction with the help of same carrier",
+            "D": "in opposite direction with the help of same carrier"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lipzr5f8",
+        "question_number": 32,
+        "question_value": {
+            "text": "Which classes of algae possess pigment fucoxanthin \nand pigment phycoerythrin, respectively ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Phaeophyceae and Chlorophyceae",
+            "B": "Phaeophyceae and Rhodophyceae",
+            "C": "Chlorophyceae and Rhodophyceae",
+            "D": "Rhodophyceae and Phaeophyceae"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lipztart",
+        "question_number": 33,
+        "question_value": {
+            "text": "In which disorder change of single base pair in the \ngene for beta globin chain results in change of \nglutamic acid to valine ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Thalassemia",
+            "B": "Sickle cell anemia",
+            "C": "Haemophilia",
+            "D": "Phenylketonuria"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1liq0iz7e",
+        "question_number": 34,
+        "question_value": {
+            "text": "For chemical defence against herbivores, Calotropis\nhas :",
+            "img_url": null
+        },
+        "options": {
+            "A": "cardiac glycosides",
+            "B": "strychnine",
+            "C": "toxic ricin",
+            "D": "distasteful quinine"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1liq1shzy",
+        "question_number": 36,
+        "question_value": {
+            "text": "Which of the following mineral ion is not remobilized in plants?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Potassium",
+            "B": "Calcium",
+            "C": "Nitrogen",
+            "D": "Phosphorus"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1liq1uazq",
+        "question_number": 37,
+        "question_value": {
+            "text": "Which out of the following statements is incorrect?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Grana lamellae have both PS I and PS II",
+            "B": "Cyclic photophosphorylation involves both PS I and PS II",
+            "C": "Both ATP and NADPH + H$$^+$$ are synthesised during non-cyclic photophosphorylation.",
+            "D": "Stroma lamellae lack PS II and NADP reductase"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1liq2d66v",
+        "question_number": 41,
+        "question_value": {
+            "text": "Which of the following statement is incorrect about Agrobacterium tumifaciens?",
+            "img_url": null
+        },
+        "options": {
+            "A": "It is used to deliver gene of interest in both prokaryotic as well as eukaryotic host cells.",
+            "B": "'Ti' plasmid from Agrobacterium tumifaciens used for gene transfer is not pathogenic to plant cell.",
+            "C": "It transforms normal plant cells into tumor cells.",
+            "D": "It delivers 'T-DNA' into plant cell."
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1liq2zbup",
+        "question_number": 46,
+        "question_value": {
+            "text": "A certain plant homozygous for yellow seeds and \nred flowers was crossed with a plant homozygous \nfor green seeds and white flowers. The F1plants had yellow seeds and pink flowers. The F1plants were selfed to get F2progeny. Assuming independent assortment of the two characters, how many phenotypic categories are expected for these characters in the F2generation ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "9",
+            "B": "16",
+            "C": "4",
+            "D": "6"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1liq309i5",
+        "question_number": 47,
+        "question_value": {
+            "text": "During which stages of mitosis and meiosis, \nrespectively does the centromere of each \nchromosome split ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Mataphase, Metaphase II",
+            "B": "Prophase, Telophase I",
+            "C": "Telophase, Anaphase I",
+            "D": "Anaphase, Anaphase II"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1liq31cle",
+        "question_number": 48,
+        "question_value": {
+            "text": "Which of the following statements is not correct ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Phase of cell elongation of plant cells is \ncharacterized by increased vacuolation.",
+            "B": "Cells in the meristematic phase of growth \nexhibit abundant plasmodesmatal connections.",
+            "C": "Plant growth is generally determinate.",
+            "D": "Plant growth is measurable."
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1liq37enu",
+        "question_number": 51,
+        "question_value": {
+            "text": "Which of the following sexually transmitted \ninfections are completely curable ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "HIV infection and Trichomoniasis",
+            "B": "Syphilis and trichomoniasis",
+            "C": "Hepatitis \u2013 B and Genital herpes",
+            "D": "Genital herpes and Genital warts"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1liq3a9ee",
+        "question_number": 53,
+        "question_value": {
+            "text": "Which of the following is not a secondary \nmetabolite?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Curcumin",
+            "B": "Morphine",
+            "C": "Anthocyanin",
+            "D": "Lecithin"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1liq3fr7r",
+        "question_number": 55,
+        "question_value": {
+            "text": "House fly belongs to _____ family.",
+            "img_url": null
+        },
+        "options": {
+            "A": "Cyprinidae",
+            "B": "Hominidae",
+            "C": "Calliphoridae",
+            "D": "Muscidae"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1liq3he8v",
+        "question_number": 56,
+        "question_value": {
+            "text": "Select incorrect statement, regarding chemical \nstructure of insulin.",
+            "img_url": null
+        },
+        "options": {
+            "A": "Mature insulin molecule consists of three \npolypeptide chains-A, B and C.",
+            "B": "Insulin is synthesized as prohormone which \ncontains extra stretch of C-peptide.",
+            "C": "C-peptide is not present in mature insulin \nmolecule.",
+            "D": "Polypeptide chains A and B are linked by \ndisulphide bridges."
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1liq3id8s",
+        "question_number": 57,
+        "question_value": {
+            "text": "Which one of the following is the quiescent stage of \ncell cycle?",
+            "img_url": null
+        },
+        "options": {
+            "A": "M",
+            "B": "G$$_2$$",
+            "C": "G$$_1$$",
+            "D": "G$$_0$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1liq3mng8",
+        "question_number": 60,
+        "question_value": {
+            "text": "The Cockroach is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Ammonotelic only",
+            "B": "Uricotelic only",
+            "C": "Ureotelic only",
+            "D": "Ureotelic and Uricotelic"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1liq3rxyw",
+        "question_number": 63,
+        "question_value": {
+            "text": "Which of the following is/are cause(s) of biodiversity \nlosses ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Over-exploitation, habitat loss and \nfragmentation.",
+            "B": "Climate change only",
+            "C": "Over-Exploitation only",
+            "D": "Habitat loss and fragmentation only"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1liq5ha8g",
+        "question_number": 67,
+        "question_value": {
+            "text": "Which of the following can act as molecular \nscissors?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Restriction enzymes",
+            "B": "DNA ligase",
+            "C": "RNA polymerase",
+            "D": "DNA polymerase"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1liq61dai",
+        "question_number": 74,
+        "question_value": {
+            "text": "If there are 250 snails in a pond, and within a year \ntheir number increases to 2500 by reproduction. \nWhat should be their birth rate per snail per year ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "10",
+            "B": "9",
+            "C": "25",
+            "D": "15"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1liq63oz5",
+        "question_number": 76,
+        "question_value": {
+            "text": "Which one of the following acts as an inducer for \nlac operon ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Sucrose",
+            "B": "Lactose",
+            "C": "Glucose",
+            "D": "Galactose"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1liq68a6i",
+        "question_number": 78,
+        "question_value": {
+            "text": "Diacetyl morphine is also called as :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Amphetamine",
+            "B": "Barbiturate",
+            "C": "Crack",
+            "D": "Smack"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1liq697ch",
+        "question_number": 79,
+        "question_value": {
+            "text": "'X' and 'Y' are the components of Binomial \nnomenclature. This naming system was proposed by \n'Z' :",
+            "img_url": null
+        },
+        "options": {
+            "A": "X-Generic name, Y-Specific epithet, Z-Carolus \nLinnaeus",
+            "B": "X-Specific epithet, Y-Generic name, Z-R.H. \nWhittaker",
+            "C": "X-Specific epithet, Y-Generic name, Z-Carolus \nLinnaeus",
+            "D": "X-Generic name, Y-Specific epithet, Z-R.H. \nWhittaker"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1liq6g2aw",
+        "question_number": 84,
+        "question_value": {
+            "text": "Brainstem of human brain consists of :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Mid-brain, Pons and Medulla Oblongata",
+            "B": "Forebrain, Cerebellum and Pons",
+            "C": "Thalamus, Hypothalamus and Corpora \nquadrigemina",
+            "D": "Amygdala, Hippocampus and Corpus Callosum"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lin6wynz",
+        "question_number": 101,
+        "question_value": {
+            "text": "Incorrect set of quantum numbers from the following is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{n}=4,1=3, \\mathrm{~m}_1=-3,-2,-1,0,+1,+2,+3,  \\mathrm{~m}_{\\mathrm{s}}=-1 / 2$$",
+            "B": "$$\\mathrm{n}=5,1=2, \\mathrm{~m}_1=-2,-1,+1,+2, \\mathrm{~m}_{\\mathrm{s}}=+1 / 2$$",
+            "C": "$$\\mathrm{n}=4,1=2, \\mathrm{~m}_1=-2,-1,0,+1,+2, \\mathrm{m}_{\\mathrm{s}}=-1 / 2$$",
+            "D": "$$\\mathrm{n}=5,1=3, \\mathrm{~m}_1=-3,-2,-1,0,+1,+2,+3, \\mathrm{m_s}=+1 / 2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lin7n321",
+        "question_number": 104,
+        "question_value": {
+            "text": "For a weak acid HA, the percentage of dissociation is nearly 1% at equilibrium. If the concentration of acid is 0.1 mol L$$^{-1}$$, then the correct option for its K$$_a$$ at the same temperature is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1\\times10^{-4}$$",
+            "B": "$$1\\times10^{-6}$$",
+            "C": "$$1\\times10^{-5}$$",
+            "D": "$$1\\times10^{-3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lin7pfn2",
+        "question_number": 105,
+        "question_value": {
+            "text": "The density of 1 M solution of a compound 'X' is 1.25 g mL$$^{-1}$$. The correct option for the molality of solution is (Molar mass of compound X = 85 g):",
+            "img_url": null
+        },
+        "options": {
+            "A": "0.705 m",
+            "B": "1.208 m",
+            "C": "1.165 m",
+            "D": "0.858 m"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lin7zegn",
+        "question_number": 108,
+        "question_value": {
+            "text": "The correct order of dipole moments for molecules $$\\mathrm{NH}_3, \\mathrm{H}_2 \\mathrm{~S}, \\mathrm{CH}_4$$ and $$\\mathrm{HF}$$, is:",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{CH}_4 > \\mathrm{H}_2 \\mathrm{S} > \\mathrm{NH}_3 > \\mathrm{HF}$$",
+            "B": "$$\\mathrm{H}_2 \\mathrm{S} > \\mathrm{NH}_3 > \\mathrm{HF} > \\mathrm{CH}_4$$",
+            "C": "$$\\mathrm{NH}_3>\\mathrm{HF}>\\mathrm{CH}_4>\\mathrm{H}_2 \\mathrm{S}$$",
+            "D": "$$\\mathrm{HF}>\\mathrm{NH}_3>\\mathrm{H}_2 \\mathrm{~S}>\\mathrm{CH}_4$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lin83lbx",
+        "question_number": 110,
+        "question_value": {
+            "text": "Cheilosis occurs due to deficiency of _________.",
+            "img_url": null
+        },
+        "options": {
+            "A": "thiamine",
+            "B": "nicotinamide",
+            "C": "pyridoxamine",
+            "D": "riboflavin"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lin86aza",
+        "question_number": 111,
+        "question_value": {
+            "text": "The correct value of cell potential in volt for the reaction that occurs when the following two half cells are connected, is$$\\begin{aligned}\n& \\mathrm{Fe}_{(\\mathrm{aq})}^{2+}+2 \\mathrm{e}^{-} \\rightarrow \\mathrm{Fe}(\\mathrm{s}), \\mathrm{E}^{\\circ}=-0.44 \\mathrm{~V} \\\\\n& \\mathrm{Cr}_2 \\mathrm{O}_7^{2-} \\text { (aq) }+14 \\mathrm{H}^{+}+6 e^{-} \\rightarrow 2 \\mathrm{Cr}^{3+}+7 \\mathrm{H}_2 \\mathrm{O} \\\\\n& \\mathrm{E}^{\\circ}=+1.33 \\mathrm{~V}\n\\end{aligned}$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$+1.77 \\mathrm{~V}$$",
+            "B": "$$+2.65 \\mathrm{~V}$$",
+            "C": "$$+0.01 \\mathrm{~V}$$",
+            "D": "$$+0.89 \\mathrm{~V}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lin89hwz",
+        "question_number": 112,
+        "question_value": {
+            "text": "Identify 'X' in above reactions",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litn7yl1/09301a70-5171-451b-8b98-67d6103aa90f/0cf61050-098f-11ee-a44e-8b2ccbee719a/file-6y3zli1litn7yl2.png?format=png"
+        },
+        "options": {
+            "A": "B$$_2$$H$$_6$$",
+            "B": "LiAlH$$_4$$",
+            "C": "NaBH$$_4$$",
+            "D": "H$$_2$$/Pd"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lin8dlou",
+        "question_number": 114,
+        "question_value": {
+            "text": "The following conversion is known as:",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litn58yf/bcc1c8af-5c3a-4aec-9668-9f83742402eb/c18bba70-098e-11ee-a44e-8b2ccbee719a/file-6y3zli1litn58yg.png?format=png"
+        },
+        "options": {
+            "A": "Stephen reaction",
+            "B": "Gattermann-Koch reaction",
+            "C": "Etard reaction",
+            "D": "Rosenmund reaction"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lin8fadp",
+        "question_number": 115,
+        "question_value": {
+            "text": "Which amongst the following is used in controlling depression and hypetension?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Seldane",
+            "B": "Valium",
+            "C": "Equanil",
+            "D": "Prontosil"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lin8hwmc",
+        "question_number": 116,
+        "question_value": {
+            "text": "Which one of the following represents all isoelectronic species ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{Na}^{+}, \\mathrm{Cl}^{-}, \\mathrm{O}^{-}, \\mathrm{NO}^{+}$$",
+            "B": "$$\\mathrm{N}_2 \\mathrm{O}, \\mathrm{N}_2 \\mathrm{O}_4, \\mathrm{NO}^{+}, \\mathrm{NO}$$",
+            "C": "$$\\mathrm{Na}^{+}, \\mathrm{Mg}^{2+}, \\mathrm{O}^{-}, \\mathrm{F}^{-}$$",
+            "D": "$$\\mathrm{Ca}^{2+}, \\mathrm{Ar}, \\mathrm{K}^{+}, \\mathrm{Cl}^{-}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lin8ot7t",
+        "question_number": 118,
+        "question_value": {
+            "text": "The correct van der Waals equation for 1 mole of a real gas is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{\\left(p+\\frac{a}{V^2}\\right)(V-b)=R T}$$",
+            "B": "$$\\mathrm{\\left(p+\\frac{V^2}{a}\\right)(V-b)=R T}$$",
+            "C": "$$\\mathrm{\\left(p+\\frac{a^2}{V^2}\\right)\\left(V^2-n b\\right)=R T}$$",
+            "D": "$$\\mathrm{\\left(p+\\frac{a n^2}{V}\\right)(V-n b)=n R T}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lin8qovk",
+        "question_number": 119,
+        "question_value": {
+            "text": "The correct option in which the density of argon (Atomic mass = 40) is highest:",
+            "img_url": null
+        },
+        "options": {
+            "A": "STP",
+            "B": "0$$^\\circ$$C, 2 atm",
+            "C": "0$$^\\circ$$C, 4 atm",
+            "D": "273$$^\\circ$$C, 4 atm"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lin8syzp",
+        "question_number": 120,
+        "question_value": {
+            "text": "Which of the following is correctly matched?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Basic oxides $$\\Rightarrow \\mathrm{In}_2 \\mathrm{O}_3, \\mathrm{~K}_2 \\mathrm{O}, \\mathrm{SnO}_2$$",
+            "B": "Neutral oxides $$\\Rightarrow \\mathrm{CO}, \\mathrm{NO}_2, \\mathrm{~N}_2 \\mathrm{O}$$",
+            "C": "Acidic oxides $$\\Rightarrow \\mathrm{Mn}_2 \\mathrm{O}_7, \\mathrm{SO}_2, \\mathrm{TeO}_3$$",
+            "D": "Amphoteric oxides $$\\Rightarrow \\mathrm{BeO}, \\mathrm{Ga}_2 \\mathrm{O}_3, \\mathrm{GeO}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lin8u7d0",
+        "question_number": 121,
+        "question_value": {
+            "text": "Which of the following is a positively charged sol?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Methylene blue sol",
+            "B": "Congo red sol",
+            "C": "Silver sol",
+            "D": "Sb$$_2$$S$$_3$$ sol"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lin9zcg1",
+        "question_number": 125,
+        "question_value": {
+            "text": "Which one of the following statements is incorrect related to Molecular Orbital Theory?",
+            "img_url": null
+        },
+        "options": {
+            "A": "The $$\\pi^*$$ antibonding molecular orbital has a node between the nuclei.",
+            "B": "In the formation of bonding molecular orbital, the two electron waves of the bonding atoms reinforce each other.",
+            "C": "Molecular orbitals obtained from $$2 \\mathrm{P}_{\\mathrm{x}}$$ and $$2 \\mathrm{P}_{\\mathrm{y}}$$ orbitals are symmetrical around the bond axis.",
+            "D": "A $$\\pi$$-bonding molecular orbital has larger electron density above and below the internuclear axis."
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lina1k91",
+        "question_number": 126,
+        "question_value": {
+            "text": "An acidic buffer is prepared by mixing :",
+            "img_url": null
+        },
+        "options": {
+            "A": "weak acid and it's salt with strong base",
+            "B": "equal volumes of equimolar solutions of weak acid and weak base",
+            "C": "strong acid and it's salt with strong base",
+            "D": "strong acid and it's salt with weak base (The pK$$_a$$ of acid = pK$$_b$$ of the base)"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lina68zr",
+        "question_number": 128,
+        "question_value": {
+            "text": "Select the element (M) whose trihalides cannot be hydrolysed to produce an ion of the form [M(H$$_2$$O$$_6$$]$$^{3+}$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "Ga",
+            "B": "In",
+            "C": "Al",
+            "D": "B"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lina8w63",
+        "question_number": 129,
+        "question_value": {
+            "text": "The correct options for the rate law that corresponds to overall first order reaction is",
+            "img_url": null
+        },
+        "options": {
+            "A": "Rate $$=\\mathrm{k}[\\mathrm{A}]^0[\\mathrm{~B}]^2$$",
+            "B": "Rate $$=\\mathrm{k}[\\mathrm{A}][\\mathrm{B}]$$",
+            "C": "Rate $$=\\mathrm{k}[\\mathrm{A}]^{1 / 2}[\\mathrm{~B}]^2$$",
+            "D": "Rate $$=\\mathrm{k}[\\mathrm{A}]^{-1 / 2}[\\mathrm{~B}]^{3 / 2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1linaabyi",
+        "question_number": 130,
+        "question_value": {
+            "text": "Which amongst the following compounds/species is least basic?",
+            "img_url": null
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litn0utq/0d0b7ff4-617e-4e1c-9592-be168e27f567/4764d2e0-098e-11ee-a44e-8b2ccbee719a/file-6y3zli1litn0utr.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litn0r8n/9937be1d-b907-470e-8112-ed74e945d11d/449fbf70-098e-11ee-a44e-8b2ccbee719a/file-6y3zli1litn0r8o.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litn0nlq/6848d721-4db1-4b5c-9943-7cfbba45d91d/41d099e0-098e-11ee-a44e-8b2ccbee719a/file-6y3zli1litn0nlr.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litn0jz4/54873064-e0bb-4f6f-81d9-70bb3c7a5b4a/3f032200-098e-11ee-a44e-8b2ccbee719a/file-6y3zli1litn0jz5.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1linadubr",
+        "question_number": 131,
+        "question_value": {
+            "text": "Which of the following forms a set of complex and a double salt, respectively?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{CuSO}_4 \\cdot 5 \\mathrm{H}_2 \\mathrm{O}$$ and $$\\mathrm{CuCl}_2, 4 \\mathrm{NH}_3$$",
+            "B": "$$\\mathrm{PtCl}_2 \\cdot 2 \\mathrm{NH}_3$$ and $$\\mathrm{PtCl}_4 \\cdot 2 \\mathrm{HCl}$$",
+            "C": "$$\\mathrm{K}_2 \\mathrm{PtCl}_2 \\cdot 2 \\mathrm{NH}_3$$ and $$\\mathrm{KAl}\\left(\\mathrm{SO}_4\\right)_2 \\cdot 12 \\mathrm{H}_2 \\mathrm{O}$$",
+            "D": "$$\\mathrm{NiCl}_2 \\cdot 6 \\mathrm{H}_2 \\mathrm{O}$$ and $$\\mathrm{NiCl}_2\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_4$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1linahwzl",
+        "question_number": 133,
+        "question_value": {
+            "text": "Which amongst the following compounds will show geometrical isomerism?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Pent-1-ene",
+            "B": "2, 3-Dimethylbut-2-ene",
+            "C": "2-Methylprop-1-ene",
+            "D": "3, 4-Dimethylhex-3-ene"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1linamyhh",
+        "question_number": 135,
+        "question_value": {
+            "text": "The correct order for the rate of $$\\alpha,\\beta$$-dehydrohalogenation for the following compounds is _________.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litmw2xz/2570fc81-e3eb-4d4b-b5db-cdaa110aac14/c29e7f70-098d-11ee-a44e-8b2ccbee719a/file-6y3zli1litmw2y0.png?format=png"
+        },
+        "options": {
+            "A": "(i) < (ii) < (iii)",
+            "B": "(ii) < (i) < (iii)",
+            "C": "(iii) < (ii) < (i)",
+            "D": "(ii) < (iii) < (i)"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1linarcj1",
+        "question_number": 136,
+        "question_value": {
+            "text": "How many number of tetrahedral voids are formed in $$5 \\mathrm{~mol}$$ of a compound having cubic close packed structure? (Choose the correct option)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1.550 \\times 10^{24}$$",
+            "B": "$$3.011 \\times 10^{25}$$",
+            "C": "$$3.011 \\times 10^{24}$$",
+            "D": "$$6.022 \\times 10^{24}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1linauxe1",
+        "question_number": 137,
+        "question_value": {
+            "text": "Type of isomerism exhibited by compounds\n$$\n\\left[\\mathrm{Cr}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_6 \\mathrm{Cl}_3,\\left[\\mathrm{Cr}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_5 \\mathrm{Cl}_2 \\mathrm{Cl}_2 \\cdot \\mathrm{H}_2 \\mathrm{O}\\right.\\right.,\\left[\\mathrm{Cr}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_4 \\mathrm{Cl}_2\\right] \\mathrm{Cl} .2 \\mathrm{H}_2 \\mathrm{O}$$ and the value of coordination number $$(\\mathrm{CN})$$ of central metal ion in all these compounds, respectively is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Geometrical isomerism, CN = 2",
+            "B": "Optical isomerism, CN = 4",
+            "C": "Ionisation isomerism, CN = 4",
+            "D": "Solvate isomerism, CN = 6"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1linawu7r",
+        "question_number": 138,
+        "question_value": {
+            "text": "The correct sequence given below containing neutral, acidic, basic and amphoteric oxide each, respectively, is",
+            "img_url": null
+        },
+        "options": {
+            "A": "NO, ZnO, CO$$_2$$, CaO",
+            "B": "ZnO, NO, CaO, CO$$_2$$",
+            "C": "NO, CO$$_2$$, ZnO, CaO",
+            "D": "NO, CO$$_2$$, CaO, ZnO"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1linb1kn4",
+        "question_number": 140,
+        "question_value": {
+            "text": "Choose the correct sequence of reagents in the conversion of 4-nitrotoluene to 2-bromotoluene.",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{NaNO}_2 / \\mathrm{HCl} ; \\mathrm{Sn} / \\mathrm{HCl} ; \\mathrm{Br}_2 ; \\mathrm{H}_2 \\mathrm{O} / \\mathrm{H}_3 \\mathrm{PO}_2$$",
+            "B": "$$\\mathrm{Sn} / \\mathrm{HCl} ; \\mathrm{NaNO}_2 / \\mathrm{HCl} ; \\mathrm{Br}_2 ; \\mathrm{H}_2 \\mathrm{O} / \\mathrm{H}_3 \\mathrm{PO}_2$$",
+            "C": "$$\\mathrm{Br}_2 ; \\mathrm{Sn} / \\mathrm{HCl} ; \\mathrm{NaNO}_2 / \\mathrm{HCl} ; \\mathrm{H}_2 \\mathrm{O} / \\mathrm{H}_3 \\mathrm{PO}_2$$",
+            "D": "$$\\mathrm{Sn} / \\mathrm{HCl} ; \\mathrm{Br}_2 ; \\mathrm{NaNO}_2 / \\mathrm{HCl} ; \\mathrm{H}_2 \\mathrm{O} / \\mathrm{H}_3 \\mathrm{PO}_2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1linb3u8u",
+        "question_number": 141,
+        "question_value": {
+            "text": "How are edge length '$$a$$' of the unit cell and radius '$$r$$' of the sphere related to each other in ccp structure? (Choose correct option for your answer)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$a=2 r$$",
+            "B": "$$a=r / 2 \\sqrt{2}$$",
+            "C": "$$\\mathrm{a}=4 \\mathrm{r} / \\sqrt{3}$$",
+            "D": "$$\\mathrm{a}=2 \\sqrt{2} \\mathrm{r}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1linb4lyl",
+        "question_number": 142,
+        "question_value": {
+            "text": "Identify the product in the following reaction",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litmm9wg/6d508cc8-cdd1-4ffb-8819-647e0fe32e05/b1e6fa00-098c-11ee-a44e-8b2ccbee719a/file-6y3zli1litmm9wh.png?format=png"
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litmmd9s/d77895fd-986d-4c07-80de-3e63049cc7a3/b4817b00-098c-11ee-a44e-8b2ccbee719a/file-6y3zli1litmmd9t.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litmmh15/27e727fd-e155-4ce8-b64f-7bfe15c88dc1/b7690a90-098c-11ee-a44e-8b2ccbee719a/file-6y3zli1litmmh16.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litmmkyt/5b1db6be-0a41-47ac-8dd5-6ae9133b77b5/ba733d50-098c-11ee-a44e-8b2ccbee719a/file-6y3zli1litmmkyu.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1litmmpae/49ce096b-888f-41e0-ace6-205b197a2d7d/bdc9e260-098c-11ee-a44e-8b2ccbee719a/file-6y3zli1litmmpaf.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1linb8lyd",
+        "question_number": 144,
+        "question_value": {
+            "text": "The correct option for a redox couple is:",
+            "img_url": null
+        },
+        "options": {
+            "A": "Both are oxidised forms involving same element.",
+            "B": "Both are reduced forms involving same element.",
+            "C": "Both the reduced and oxidised forms involve same element.",
+            "D": "Cathode and anode together."
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1linbgnm7",
+        "question_number": 147,
+        "question_value": {
+            "text": "Which statement is not true about photochemical smog?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Photochemical smog is harmful to humans but has no effect on plants.",
+            "B": "Plants like Pinus, Juniparus can help in reducing the photochemical smog.",
+            "C": "Photochemical smog occurs in warm, dry and sunny climate.",
+            "D": "Common components of Photochemical smog are ozone, nitric oxide, acrolein, formaldehyde and peroxyacetyl nitrate."
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1linbls8b",
+        "question_number": 148,
+        "question_value": {
+            "text": "Which amongst the following aqueous solution of electrolytes will have minimum elevation in boiling point? Choose the correct option :-",
+            "img_url": null
+        },
+        "options": {
+            "A": "0.05 M NaCl",
+            "B": "0.1 M KCl",
+            "C": "0.1 M MgSO$$_4$$",
+            "D": "1 M NaCl"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1linbmfxg",
+        "question_number": 149,
+        "question_value": {
+            "text": "Identify 'X' in the following reaction.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1litm3f7f/021710c4-0f85-4df2-b4ed-0329ab38d5bb/a5a058b0-098a-11ee-a943-d566c9aa4314/file-1litm3f7g.png?format=png"
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1litm3hp4/4e51decb-c33d-447a-accd-91fabb4b314d/a78d0d80-098a-11ee-a943-d566c9aa4314/file-1litm3hp5.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1litm3kbv/a5465657-5bf2-45e1-a5da-3a968240b7fd/a99587b0-098a-11ee-a943-d566c9aa4314/file-1litm3kbw.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1litm3n1h/c57e1dc0-201e-4456-b0a0-2bd9aedc9f90/abadb950-098a-11ee-a943-d566c9aa4314/file-1litm3n1i.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1litm3pro/8502dd8b-0310-4611-ae3e-941a797422d6/adc94650-098a-11ee-a943-d566c9aa4314/file-1litm3prp.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1linbn7g0",
+        "question_number": 150,
+        "question_value": {
+            "text": "The major product formed in the following conversion is ___________.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1litloerb/91121160-f2e4-49d7-b1b1-25655e3a3b70/0425a6d0-0989-11ee-90c9-d3acb705bb8a/file-1litloerh.png?format=png"
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1litlohwk/fbfd9da9-0e94-4549-9b4a-b2b1efae2762/0692d640-0989-11ee-90c9-d3acb705bb8a/file-1litlohwl.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1litlol1g/50620acd-d951-445d-ad50-bb0986941b89/08fef440-0989-11ee-90c9-d3acb705bb8a/file-1litlol1h.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1litloob9/c545754c-757c-4cdd-8a7d-5e3ce7e5a741/0b861450-0989-11ee-90c9-d3acb705bb8a/file-1litlooba.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1litlorq2/659ad4bb-143a-4f71-b205-01550ab1d8ee/0e28aba0-0989-11ee-90c9-d3acb705bb8a/file-1litlorq3.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lilv7v6o",
+        "question_number": 151,
+        "question_value": {
+            "text": "The variation of susceptibility $$(\\chi)$$ with absolute temperature ( $$\\mathrm{T}$$ ) for a paramagnetic material is represented as :",
+            "img_url": null
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipz4w6l/72c8eac3-3e8c-4933-bc5b-63465da4cee3/82a162c0-078a-11ee-b7c8-a98448959a38/file-1lipz4w6m.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipz57z6/e077a3da-fe60-4187-b4e7-b4c076dee94b/8bbdd820-078a-11ee-b7c8-a98448959a38/file-1lipz57z7.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipz5k1i/71769fba-ea7b-46c4-8f64-6a209a08eb7c/950fb560-078a-11ee-b7c8-a98448959a38/file-1lipz5k1j.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipz5ye2/5ca121af-5b5d-4fc3-b094-1a650f57b350/a0253ba0-078a-11ee-b7c8-a98448959a38/file-1lipz5ye3.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lilva8yg",
+        "question_number": 152,
+        "question_value": {
+            "text": "A bullet of mass $$m$$ hits a block of mass $$M$$ elastically. The transfer of energy is the maximum, when :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$M=m$$",
+            "B": "$$M=2 m$$",
+            "C": "$$M < < m$$",
+            "D": "$$M >> m$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lilvkz8y",
+        "question_number": 154,
+        "question_value": {
+            "text": "The escape velocity of a body on the earth surface is $$11.2 \\mathrm{~km} / \\mathrm{s}$$. If the same body is projected upward with velocity $$22.4 \\mathrm{~km} / \\mathrm{s}$$, the velocity of this body at infinite distance from the centre of the earth will be:",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$11.2 \\sqrt{2} \\mathrm{~km} / \\mathrm{s}$$",
+            "B": "Zero",
+            "C": "$$11.2 \\mathrm{~km} / \\mathrm{s}$$",
+            "D": "$$11.2 \\sqrt{3} \\mathrm{~km} / \\mathrm{s}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilvzt37",
+        "question_number": 155,
+        "question_value": {
+            "text": "A lens is made up of 3 different transparent media as shown in figure. A point object O is placed on its axis beyond $$2f$$. How many real images will be obtained on the other side?",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipz7lh1/b9a62ff6-9dd9-4c5c-b879-40c1e4f12ff1/cdc90a50-078a-11ee-b7c8-a98448959a38/file-1lipz7lh2.png?format=png"
+        },
+        "options": {
+            "A": "2",
+            "B": "1",
+            "C": "No image will be formed",
+            "D": "3"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilw2iqa",
+        "question_number": 156,
+        "question_value": {
+            "text": "The diameter of a spherical bob, when measured with vernier callipers yielded the following values : $$3.33 \\mathrm{~cm}, 3.32 \\mathrm{~cm}, 3.34 \\mathrm{~cm}, 3.33 \\mathrm{~cm}$$ and $$3.32 \\mathrm{~cm}$$. The mean diameter to appropriate significant figures is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$3.328 \\mathrm{~cm}$$",
+            "B": "$$3.3 \\mathrm{~cm}$$",
+            "C": "$$3.33 \\mathrm{~cm}$$",
+            "D": "$$3.32 \\mathrm{~cm}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lilw3rc9",
+        "question_number": 157,
+        "question_value": {
+            "text": "On the basis of electrical conductivity, which one of the following material has the smallest resistivity?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Germanium",
+            "B": "Silver",
+            "C": "Glass",
+            "D": "Silicon"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lilw7jq5",
+        "question_number": 158,
+        "question_value": {
+            "text": "The mechanical quantity, which has dimensions of reciprocal of mass $$(\\mathrm{M}^{-1})$$ is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "angular momentum",
+            "B": "coefficient of thermal conductivity",
+            "C": "torque",
+            "D": "gravitational constant"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilwhwio",
+        "question_number": 160,
+        "question_value": {
+            "text": "For the given cycle, the work done during isobaric process is:",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipz9v4g/2273e1ae-0a56-4126-a391-6f5faff8165b/0cdbbd00-078b-11ee-b7c8-a98448959a38/file-1lipz9v4h.png?format=png"
+        },
+        "options": {
+            "A": "200 J",
+            "B": "Zero",
+            "C": "400 J",
+            "D": "600 J"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilwjjhk",
+        "question_number": 161,
+        "question_value": {
+            "text": "The equivalent capacitance of the arrangement shown in figure is:",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipzcryw/6cd2c736-c5ee-4103-8490-58c01fd42b9b/5dd96180-078b-11ee-b7c8-a98448959a38/file-1lipzcryx.png?format=png"
+        },
+        "options": {
+            "A": "30 $$\\mu$$F",
+            "B": "15 $$\\mu$$F",
+            "C": "25 $$\\mu$$F",
+            "D": "20 $$\\mu$$F"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilwmwh5",
+        "question_number": 162,
+        "question_value": {
+            "text": "An ac source is connected in the given circuit. The value of $\\phi$ will be :",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipzeee8/68ad67fd-1948-409b-b7a7-c87f7fb9987b/8afb5600-078b-11ee-b7c8-a98448959a38/file-1lipzeee9.png?format=png"
+        },
+        "options": {
+            "A": "$$60^{\\circ}$$",
+            "B": "$$90^{\\circ}$$",
+            "C": "$$30^{\\circ}$$",
+            "D": "$$45^{\\circ}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilwq1b9",
+        "question_number": 163,
+        "question_value": {
+            "text": "The given circuit is equivalent to:",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipzfs5u/d95596d0-382e-4180-af0a-44636aa4bad9/b16cf320-078b-11ee-b7c8-a98448959a38/file-1lipzfs5v.png?format=png"
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipzhshb/21ad9794-aca2-4cfb-b7d5-4418ee912258/e94a3ff0-078b-11ee-b7c8-a98448959a38/file-1lipzhshc.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipzi3ck/3b475934-536f-4e98-84d3-0fa4a9472a88/f1af7340-078b-11ee-b7c8-a98448959a38/file-1lipzi3cl.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipzid4t/d1f99ee6-e15b-4457-babf-06478660ca7a/f93e6ad0-078b-11ee-b7c8-a98448959a38/file-1lipzid4u.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipzimpe/a57365f6-5d47-4465-841a-5f49db4fdae0/00a34520-078c-11ee-b7c8-a98448959a38/file-1lipzimpf.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilwt3rh",
+        "question_number": 164,
+        "question_value": {
+            "text": "A particle moves with a velocity $$(5 \\hat{i}-3 \\hat{j}+6 \\hat{k}) ~\\mathrm{ms}^{-1}$$ horizontally under the action of constant force $$(10 \\hat{\\mathrm{i}}+10 \\hat{\\mathrm{j}}+20 \\hat{\\mathrm{k}}) \\mathrm{N}$$. The instantaneous power supplied to the particle is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$200 \\mathrm{~W}$$",
+            "B": "Zero",
+            "C": "$$100 \\mathrm{~W}$$",
+            "D": "$$140 \\mathrm{~W}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilwzak0",
+        "question_number": 165,
+        "question_value": {
+            "text": "A certain wire $$\\mathrm{A}$$ has resistance $$81 ~\\Omega$$. The resistance of another wire $$\\mathrm{B}$$ of same material and equal length but of diameter thrice the diameter of A will be :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$81 ~\\Omega$$",
+            "B": "$$9 ~\\Omega$$",
+            "C": "$$729 ~\\Omega$$",
+            "D": "$$243 ~\\Omega$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lilx1rid",
+        "question_number": 166,
+        "question_value": {
+            "text": "$$\\epsilon_0$$ and $$\\mu_0$$ are the electric permittivity and magnetic permeability of free space respectively. If the corresponding quantities of a medium are $$2 ~\\epsilon_0$$ and $$1.5 ~\\mu_0$$ respectively, the refractive index of the medium will nearly be :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sqrt{2}$$",
+            "B": "$$\\sqrt{3}$$",
+            "C": "3",
+            "D": "2"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lilx4s93",
+        "question_number": 167,
+        "question_value": {
+            "text": "The amount of elastic potential energy per unit volume (in SI unit) of a steel wire of length $$100 \\mathrm{~cm}$$ to stretch it by $$1 \\mathrm{~mm}$$ is (if Young's modulus of the wire $$=2.0 \\times 10^{11} \\mathrm{Nm}^{-2}$$ ) :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$10^{11}$$",
+            "B": "$$10^{17}$$",
+            "C": "$$10^7$$",
+            "D": "$$10^5$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilx79td",
+        "question_number": 168,
+        "question_value": {
+            "text": "The $$4^{\\text {th }}$$ overtone of a closed organ pipe is same as that of $$3^{\\text {rd }}$$ overtone of an open pipe. The ratio of the length of the closed pipe to the length of the open pipe is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "8 : 9",
+            "B": "9 : 7",
+            "C": "9 : 8",
+            "D": "7 : 9"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lilxajum",
+        "question_number": 169,
+        "question_value": {
+            "text": "A long straight wire of length $$2 \\mathrm{~m}$$ and mass $$250 \\mathrm{~g}$$ is suspended horizontally in a uniform horizontal magnetic field of $$0.7 \\mathrm{~T}$$. The amount of current flowing through the wire will be $$\\left(\\mathrm{g}=9.8 \\mathrm{~ms}^{-2}\\right)$$ :",
+            "img_url": null
+        },
+        "options": {
+            "A": "2.45 A",
+            "B": "2.25 A",
+            "C": "2.75 A",
+            "D": "1.75 A"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilxcsbz",
+        "question_number": 170,
+        "question_value": {
+            "text": "According to Gauss law of electrostatics, electric flux through a closed surface depends on :",
+            "img_url": null
+        },
+        "options": {
+            "A": "the area of the surface",
+            "B": "the quantity of charges enclosed by the surface",
+            "C": "the shape of the surface",
+            "D": "the volume enclosed by the surface"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1lilxhbdg",
+        "question_number": 171,
+        "question_value": {
+            "text": "A ball is projected from point A with velocity $$20 \\mathrm{~m} \\mathrm{~s}^{-1}$$ at an angle $$60^{\\circ}$$ to the horizontal direction. At the highest point $$\\mathrm{B}$$ of the path (as shown in figure), the velocity $$\\mathrm{v} \\mathrm{m} \\mathrm{s}^{-1}$$ of the ball will be:",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipzmw8m/6793f539-c54d-4e07-b402-0eb8965d3c5e/773d5c70-078c-11ee-b7c8-a98448959a38/file-1lipzmw8n.png?format=png"
+        },
+        "options": {
+            "A": "20",
+            "B": "$$10 \\sqrt{3}$$",
+            "C": "Zero",
+            "D": "10"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilxif9e",
+        "question_number": 172,
+        "question_value": {
+            "text": "Which of the following statement is not true?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Coefficient of viscosity is a scalar quantity",
+            "B": "Surface tension is a scalar quantity",
+            "C": "Pressure is a vector quantity",
+            "D": "Relative density is a scalar quantity"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lilxojl5",
+        "question_number": 173,
+        "question_value": {
+            "text": "A uniform electric field and a uniform magnetic field are acting along the same direction in a certain region. If an electron is projected in the region such that its velocity is pointed along the direction of fields, then the electron:",
+            "img_url": null
+        },
+        "options": {
+            "A": "will turn towards right of direction of motion",
+            "B": "will turn towards left of direction of motion",
+            "C": "speed will decrease",
+            "D": "speed will increase"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lily1a3o",
+        "question_number": 174,
+        "question_value": {
+            "text": "A horizontal ray of light is incident on the right angled prism with prism angle $$6^{\\circ}$$. If the refractive index of the material of the prism is 1.5 , then the angle of emergence will be:",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipzr0f1/d212e4d1-7264-4b22-98dd-ad27dc6dcae9/e9b408d0-078c-11ee-b7c8-a98448959a38/file-1lipzr0f2.png?format=png"
+        },
+        "options": {
+            "A": "$$9^{\\circ}$$",
+            "B": "$$10^{\\circ}$$",
+            "C": "$$4^{\\circ}$$",
+            "D": "$$6^{\\circ}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lily3dg9",
+        "question_number": 175,
+        "question_value": {
+            "text": "A p-type extrinsic semiconductor is obtained when Germanium is doped with:",
+            "img_url": null
+        },
+        "options": {
+            "A": "Antimony",
+            "B": "Phosphorous",
+            "C": "Arsenic",
+            "D": "Boron"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lily5wg6",
+        "question_number": 176,
+        "question_value": {
+            "text": "Which set of colours will come out in air for a situation shown in figure?",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipzs8rv/7021d24b-f687-44cd-9cea-7b05a4fe83c6/0bf7b3b0-078d-11ee-b7c8-a98448959a38/file-1lipzs8rw.png?format=png"
+        },
+        "options": {
+            "A": "Yellow, Orange and Red",
+            "B": "All",
+            "C": "Orange, Red and Violet",
+            "D": "Blue, Green and Yellow"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lilyfb0g",
+        "question_number": 177,
+        "question_value": {
+            "text": "If Z$$_1$$ and Z$$_2$$ are the impedances of the given circuits (a) and (b) as shown in figures, then choose the correct option",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liq0opiz/92ac58dc-cdc8-49c4-96ee-1c54d198b260/92cd09a0-0790-11ee-b304-83fbcc01520c/file-1liq0opj0.png?format=png"
+        },
+        "options": {
+            "A": "Z$$_1$$ < Z$$_2$$",
+            "B": "Z$$_1$$ + Z$$_2$$ = 20 $$\\Omega$$",
+            "C": "Z$$_1$$ = Z$$_2$$",
+            "D": "Z$$_1$$ > Z$$_2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lilym57f",
+        "question_number": 178,
+        "question_value": {
+            "text": "The wavelength of Lyman series of hydrogen atom appears in:",
+            "img_url": null
+        },
+        "options": {
+            "A": "visible region",
+            "B": "far infrared region",
+            "C": "ultraviolet region",
+            "D": "infrared region"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1lilyuczn",
+        "question_number": 180,
+        "question_value": {
+            "text": "The de Broglie wavelength associated with an electron, accelerated by a potential difference of 81 V is given by:",
+            "img_url": null
+        },
+        "options": {
+            "A": "13.6 nm",
+            "B": "136 nm",
+            "C": "1.36 nm",
+            "D": "0.136 nm"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1lilyviqk",
+        "question_number": 181,
+        "question_value": {
+            "text": "The maximum power is dissipated for an ac in a/an:",
+            "img_url": null
+        },
+        "options": {
+            "A": "resistive circuit",
+            "B": "LC circuit",
+            "C": "inductive circuit",
+            "D": "capacitive circuit"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1lilywy4i",
+        "question_number": 182,
+        "question_value": {
+            "text": "The maximum kinetic energy of the emitted photoelectrons in photoelectric effect is independent of:",
+            "img_url": null
+        },
+        "options": {
+            "A": "work function of material",
+            "B": "intensity of incident radiation",
+            "C": "frequency of incident radiation",
+            "D": "wavelength of incident radiation"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1limhx2t8",
+        "question_number": 183,
+        "question_value": {
+            "text": "Two particles A and B initially at rest, move towards each other under mutual force of attraction. At an instance when the speed of A is v and speed of B is 3v, the speed of centre of mass is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "2v",
+            "B": "zero",
+            "C": "v",
+            "D": "4v"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1limi13p3",
+        "question_number": 184,
+        "question_value": {
+            "text": "A charge $$\\mathrm{Q} ~\\mu \\mathrm{C}$$ is placed at the centre of a cube. The flux coming out from any one of its faces will be (in SI unit) :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{Q}{\\epsilon_0} \\times 10^{-6}$$",
+            "B": "$$\\frac{2 \\mathrm{Q}}{3 \\epsilon_0} \\times 10^{-3}$$",
+            "C": "$$\\frac{\\mathrm{Q}}{6 \\epsilon_0} \\times 10^{-3}$$",
+            "D": "$$\\frac{\\mathrm{Q}}{6 \\epsilon_0} \\times 10^{-6}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1limi45j5",
+        "question_number": 185,
+        "question_value": {
+            "text": "The viscous drag acting on a metal sphere of diameter $$1 \\mathrm{~mm}$$, falling through a fluid of viscosity $$0.8 \\mathrm{~Pa}$$ s with a velocity of $$2 \\mathrm{~m} \\mathrm{~s}^{-1}$$ is equal to :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$15 \\times 10^{-3} \\mathrm{~N}$$",
+            "B": "$$30 \\times 10^{-3} \\mathrm{~N}$$",
+            "C": "$$1.5 \\times 10^{-3} \\mathrm{~N}$$",
+            "D": "$$20 \\times 10^{-3} \\mathrm{~N}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1limi6hoz",
+        "question_number": 186,
+        "question_value": {
+            "text": "If $$\\mathrm{R}$$ is the radius of the earth and $$\\mathrm{g}$$ is the acceleration due to gravity on the earth surface. Then the mean density of the earth will be :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\pi \\mathrm{RG}}{12 \\mathrm{~g}}$$",
+            "B": "$$\\frac{3 \\pi R}{4 g G}$$",
+            "C": "$$\\frac{3 g}{4 \\pi R G}$$",
+            "D": "$$\\frac{4 \\pi \\mathrm{G}}{3 g R}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1limi9nox",
+        "question_number": 187,
+        "question_value": {
+            "text": "A copper wire of radius $$1 \\mathrm{~mm}$$ contains $$10^{22}$$ free electrons per cubic metre. The drift velocity for free electrons when $$10 \\mathrm{~A}$$ current flows through the wire will be (Given, charge on electron $$=1.6 \\times 10^{-19} \\mathrm{C}$$ ) :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{6.25 \\times 10^4}{\\pi} \\mathrm{ms}^{-1}$$",
+            "B": "$$\\frac{6.25}{\\pi} \\times 10^3 \\mathrm{~ms}^{-1}$$",
+            "C": "$$\\frac{6.25}{\\pi} \\mathrm{ms}^{-1}$$",
+            "D": "$$\\frac{6.25 \\times 10^5}{\\pi} \\mathrm{ms}^{-1}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1limic9kx",
+        "question_number": 188,
+        "question_value": {
+            "text": "An object is mounted on a wall. Its image of equal size is to be obtained on a parallel wall with the help of a convex lens placed between these walls. The lens is kept at distance x in front of the second wall. The required focal length of the lens will be :",
+            "img_url": null
+        },
+        "options": {
+            "A": "less than $$\\frac{x}{4}$$",
+            "B": "more than $$\\frac{x}{4}$$ but less than $$\\frac{x}{2}$$",
+            "C": "$$\\frac{x}{2}$$",
+            "D": "$$\\frac{x}{4}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1limieqnp",
+        "question_number": 189,
+        "question_value": {
+            "text": "If a conducting sphere of radius $$\\mathrm{R}$$ is charged. Then the electric field at a distance $$\\mathrm{r}(\\mathrm{r} > \\mathrm{R})$$ from the centre of the sphere would be, $$(\\mathrm{V}=$$ potential on the surface of the sphere)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{r V}{R^2}$$",
+            "B": "$$\\frac{R^2 V}{r^3}$$",
+            "C": "$$\\frac{R V}{r^2}$$",
+            "D": "$$\\frac{\\mathrm{V}}{\\mathrm{r}}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1limiic8x",
+        "question_number": 190,
+        "question_value": {
+            "text": "A block of mass 2 kg is placed on inclined rough surface AC (as shown in figure) of coefficient of friction $$\\mu$$. If g = 10 m s$$^{-2}$$, the net force (in N) on the block will be:",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1lipzyl5g/6327c86f-c8bf-4c23-ad5d-39b8ce7c9615/bc623540-078d-11ee-b7c8-a98448959a38/file-1lipzyl5h.png?format=png"
+        },
+        "options": {
+            "A": "10$$\\sqrt3$$",
+            "B": "zero",
+            "C": "10",
+            "D": "20"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1limim9cr",
+        "question_number": 191,
+        "question_value": {
+            "text": "A container of volume $$200 \\mathrm{~cm}^3$$ contains 0.2 mole of hydrogen gas and 0.3 mole of argon gas. The pressure of the system at temperature $$200 \\mathrm{~K}$$ ($$\\mathrm{R}=8.3 \\mathrm{JK}^{-1} \\mathrm{~mol}^{-1}$$) will be :-",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$6.15 \\times 10^5 \\mathrm{~Pa}$$",
+            "B": "$$6.15 \\times 10^4 \\mathrm{~Pa}$$",
+            "C": "$$4.15 \\times 10^5 \\mathrm{~Pa}$$",
+            "D": "$$4.15 \\times 10^6 \\mathrm{~Pa}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1limiozxh",
+        "question_number": 192,
+        "question_value": {
+            "text": "To produce an instantaneous displacement current of $$2 \\mathrm{~mA}$$ in the space between the parallel plates of a capacitor of capacitance $$4 ~\\mu \\mathrm{F}$$, the rate of change of applied variable potential difference $$\\left(\\frac{\\mathrm{dV}}{\\mathrm{dt}}\\right)$$ must be :-",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$800 \\mathrm{~V} / \\mathrm{s}$$",
+            "B": "$$500 \\mathrm{~V} / \\mathrm{s}$$",
+            "C": "$$200 \\mathrm{~V} / \\mathrm{s}$$",
+            "D": "$$400 \\mathrm{~V} / \\mathrm{s}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1limiso5o",
+        "question_number": 193,
+        "question_value": {
+            "text": "An emf is generated by an ac generator having 100 turn coil, of loop area $$1 \\mathrm{~m}^2$$. The coil rotates at a speed of one revolution per second and placed in a uniform magnetic field of $$0.05 \\mathrm{~T}$$ perpendicular to the axis of rotation of the coil. The maximum value of emf is :-",
+            "img_url": null
+        },
+        "options": {
+            "A": "3.14 V",
+            "B": "31.4 V",
+            "C": "62.8 V",
+            "D": "6.28 V"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1limivqsa",
+        "question_number": 194,
+        "question_value": {
+            "text": "For very high frequencies, the effective impedance of the circuit (shown in the figure) will be:-",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liq01cpj/e5c136aa-e777-4287-8ded-0fb25f74055d/094a2a70-078e-11ee-b7c8-a98448959a38/file-1liq01cpk.png?format=png"
+        },
+        "options": {
+            "A": "4 $$\\Omega$$",
+            "B": "6 $$\\Omega$$",
+            "C": "1 $$\\Omega$$",
+            "D": "3 $$\\Omega$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "1limiyyco",
+        "question_number": 195,
+        "question_value": {
+            "text": "A constant torque of $$100 \\mathrm{~N} \\mathrm{~m}$$ turns a wheel of moment of inertia $$300 \\mathrm{~kg} \\mathrm{~m}^2$$ about an axis passing through its centre. Starting from rest, its angular velocity after $$3 \\mathrm{~s}$$ is :-",
+            "img_url": null
+        },
+        "options": {
+            "A": "1 rad/s",
+            "B": "5 rad/s",
+            "C": "10 rad/s",
+            "D": "15 rad/s"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1limj1y5e",
+        "question_number": 196,
+        "question_value": {
+            "text": "The emf of a cell having internal resistance $$1 \\Omega$$ is balanced against a length of $$330 \\mathrm{~cm}$$ on a potentiometer wire. When an external resistance of $$2 \\Omega$$ is connected across the cell, the balancing length will be :",
+            "img_url": null
+        },
+        "options": {
+            "A": "220 cm",
+            "B": "330 cm",
+            "C": "115 cm",
+            "D": "332 cm"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1limj5b49",
+        "question_number": 197,
+        "question_value": {
+            "text": "A $$1 \\mathrm{~kg}$$ object strikes a wall with velocity $$1 \\mathrm{~m} \\mathrm{~s}^{-1}$$ at an angle of $$60^{\\circ}$$ with the wall and reflects at the same angle. If it remains in contact with wall for $$0.1 \\mathrm{~s}$$, then the force exerted on the wall is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$30 \\sqrt{3} \\mathrm{~N}$$",
+            "B": "Zero",
+            "C": "$$10 \\sqrt{3} \\mathrm{~N}$$",
+            "D": "$$20 \\sqrt{3} \\mathrm{~N}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "1limj8io0",
+        "question_number": 198,
+        "question_value": {
+            "text": "The angular momentum of an electron moving in an orbit of hydrogen atom is $$\\mathrm{1.5\\left(\\frac{h}{\\pi}\\right)}$$. The energy in the same orbit is nearly.",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$-1.5$$ eV",
+            "B": "$$-1.6$$ eV",
+            "C": "$$-1.3$$ eV",
+            "D": "$$-1.4$$ eV"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "1limjc44u",
+        "question_number": 199,
+        "question_value": {
+            "text": "A particle is executing uniform circular motion with velocity $$\\vec{v}$$ and acceleration $$\\vec{a}$$. Which of the following is true?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\vec{v}$$ is a constant; $$\\vec{a}$$ is not a constant",
+            "B": "$$\\vec{v}$$ is not a constant; $$\\vec{a}$$ is not a constant",
+            "C": "$$\\vec{v}$$ is a constant; $$\\vec{a}$$ is a constant",
+            "D": "$$\\vec{v}$$ is not a constant; $$\\vec{a}$$ is a constant"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "1limjh3rj",
+        "question_number": 200,
+        "question_value": {
+            "text": "A simple pendulum oscillating in air has a period of $$\\sqrt{3} \\mathrm{~s}$$. If it is completely immersed in non-viscous liquid, having density $$\\left(\\frac{1}{4}\\right)^{\\text {th }}$$ of the material of the bob, the new period will be :-",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$2 \\sqrt{3}$$ s",
+            "B": "$$\\frac{2}{\\sqrt{3}} \\mathrm{~s}$$",
+            "C": "$$2 \\mathrm{~s}$$",
+            "D": "$$\\frac{\\sqrt{3}}{2} \\mathrm{~s}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    }
+]

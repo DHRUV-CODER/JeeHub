@@ -1,12 +1,20 @@
 "use client";
+
 import React, { useEffect, useState } from "react";
+
 import ExamQuestion from "@/components/ExamQuestion";
 import Loader from "@/components/ui/loader";
 
 export default function Page({ params }: { params: { slug: string } }) {
+  const [examData, setExamData] = useState<any[]>([]);
+
+  useEffect(() => {
+    fetchData();
+  }, [params.slug]);
+
   async function fetchData() {
     try {
-      const response = await fetch(`/${params.slug}.json`);
+      const response = await fetch(`/sqp/${params.slug}.json`);
       if (response.ok) {
         const data = await response.json();
         console.log("Fetched data:", data);
@@ -18,11 +26,6 @@ export default function Page({ params }: { params: { slug: string } }) {
       console.error("Error fetching data:", error);
     }
   }
-  
-  const [examData, setExamData] = useState<any[]>([]); // Initialize with an empty array
-  useEffect(() => {
-    fetchData(); // Call fetchData inside useEffect
-  }, [params.slug]); // Add params.slug to the dependency array
 
   return (
     <div>
@@ -30,17 +33,17 @@ export default function Page({ params }: { params: { slug: string } }) {
         <h1>
           {examData.length === 0 && (
             <div className="min-h-screen flex justify-center items-center overscroll-none">
-              <Loader />
+              <Loader TextValue=" is Loading..." />
             </div>
-          ) }
+          )}
         </h1>
         {examData.map((question) => (
           <ExamQuestion
             key={question.qid}
-            QuestionId={question.qid} // Assuming qid is unique
+            QuestionId={question.qid}
             Question={question.question_value}
             QuestionNumber={question.question_number}
-            Options={question.options || {}} // Handle empty options
+            Options={question.options || {}}
             CorrectAnswer={question.correct_answer}
           />
         ))}

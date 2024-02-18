@@ -1,0 +1,2274 @@
+[
+    {
+        "qid": "jaoe38c1lqxa3lio",
+        "question_number": 1,
+        "question_value": {
+            "text": "Which from following molecules does NOT contain nitrogen in it?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Pyrrole",
+            "B": "Piperidine",
+            "C": "Pyridine",
+            "D": "Pyran"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxa6a37",
+        "question_number": 2,
+        "question_value": {
+            "text": "Calculate the volume of unit cell if an element having molar mass $$56 \\mathrm{~g} \\mathrm{~mol}^{-1}$$ that forms bcc unit cells.$$\\left[\\rho \\cdot \\mathrm{N}_{\\mathrm{A}}=4: 8 \\times 10^{24} \\mathrm{~g} \\mathrm{~cm}^{-3} \\mathrm{~mol}^{-1}\\right]$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1.17 \\times 10^{-23} \\mathrm{~cm}^3$$",
+            "B": "$$4.79 \\times 10^{-23} \\mathrm{~cm}^3$$",
+            "C": "$$3.31 \\times 10^{-23} \\mathrm{~cm}^3$$",
+            "D": "$$2.33 \\times 10^{-23} \\mathrm{~cm}^3$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxahly9",
+        "question_number": 3,
+        "question_value": {
+            "text": "Find the number of orbitals and maximum electrons respectively present in $$\\mathrm{M}$$-shell?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$4,8$$",
+            "B": "$$9,18$$",
+            "C": "$$16,32$$",
+            "D": "$$1,2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxal646",
+        "question_number": 4,
+        "question_value": {
+            "text": "Which from following expressions is used to find the cell potential of $$\\mathrm{Cd}_{(\\mathrm{s})}\\left|\\mathrm{Cd}_{(\\mathrm{aq})}^{++}\\right|\\left|\\mathrm{Cu}_{(\\mathrm{aq})}^{+}\\right| \\mathrm{Cu}_{(\\mathrm{s})}$$ cell at $$25^{\\circ} \\mathrm{C}$$ ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{E}_{\\text {cell }}=\\mathrm{E}_{\\text {cell }}^o-0.0296 \\log \\frac{\\left[\\mathrm{Cd}^{++}\\right]}{\\left[\\mathrm{Cu}^{++}\\right]}$$",
+            "B": "$$\\mathrm{E}_{\\text {cell }}=\\mathrm{E}_{\\text {cell }}^o+0.0296 \\log \\frac{\\left[\\mathrm{Cd}^{++}\\right]}{\\left[\\mathrm{Cu}^{++}\\right]}$$",
+            "C": "$$\\mathrm{E}_{\\text {cell }}=\\mathrm{E}_{\\text {cell }}^o-0.0592 \\log \\frac{\\left[\\mathrm{Cu}^{++}\\right]}{\\left[\\mathrm{Cd}^{++}\\right]}$$",
+            "D": "$$\\mathrm{E}_{\\text {cell }}=\\mathrm{E}_{\\text {cell }}^{\\circ}+0.0592 \\log \\frac{\\left[\\mathrm{Cu}^{++}\\right]}{\\left[\\mathrm{Cd}^{++}\\right]}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxapcuw",
+        "question_number": 5,
+        "question_value": {
+            "text": "Which of the following is formed when propene is heated with bromine at high temperature?",
+            "img_url": null
+        },
+        "options": {
+            "A": "1,2-Dibromopropane",
+            "B": "1-Bromopropane",
+            "C": "2-Bromopropene",
+            "D": "3-Bromopropene"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxawi08",
+        "question_number": 8,
+        "question_value": {
+            "text": "What is the value of $$\\angle \\mathrm{S}-\\mathrm{S}-\\mathrm{S}$$ in puckered $$\\mathrm{S}_8$$ rhombic sulfur?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$107^{\\circ}$$",
+            "B": "$$120^{\\circ}$$",
+            "C": "$$104.5^{\\circ}$$",
+            "D": "$$60^{\\circ}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxb02dy",
+        "question_number": 10,
+        "question_value": {
+            "text": "Which activity from following is exhibited by Lewis base according to definition?",
+            "img_url": null
+        },
+        "options": {
+            "A": "accept a pair of electron",
+            "B": "donate a pair of electron",
+            "C": "accept $$\\mathrm{H}^{+}$$ ions",
+            "D": "donate $$\\mathrm{OH}^{-}$$ ions"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxb1y6j",
+        "question_number": 11,
+        "question_value": {
+            "text": "Which of the following ion has greater coagulating power for negatively charged sol?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{Fe}(\\mathrm{CN})_6^4$$",
+            "B": "$$\\mathrm{PO}_4^{3-}$$",
+            "C": "$$\\mathrm{Ba}^{2+}$$",
+            "D": "$$\\mathrm{Al}^{3+}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxb4xs6",
+        "question_number": 12,
+        "question_value": {
+            "text": "If enthalpy change for following reaction at $$300 \\mathrm{~K}$$ is $$+7 \\mathrm{~kJ} \\mathrm{~mol}^{-1}$$ find the entropy change of surrounding?$$\\mathrm{H}_2 \\mathrm{O}_{(\\mathrm{s})} \\longrightarrow \\mathrm{H}_2 \\mathrm{O}_{(\\ell)}$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$-42.8 \\mathrm{~J} \\mathrm{~K}^{-1}$$",
+            "B": "$$-23.3 \\mathrm{~J} \\mathrm{~K}^{-1}$$",
+            "C": "$$-30.7 \\mathrm{~J} \\mathrm{~K}^{-1}$$",
+            "D": "$$-110.0 \\mathrm{~J} \\mathrm{~K}^{-1}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxb6hjw",
+        "question_number": 13,
+        "question_value": {
+            "text": "Identify the polymer obtained from",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lrwhlfkf/cfcc66c2-ce30-4163-8aed-b320f23ab52d/592eb9f0-bd4d-11ee-9b7d-9b2b887afc0f/file-6y3zli1lrwhlfkg.png?format=png"
+        },
+        "options": {
+            "A": "Polyacrylamide",
+            "B": "Buna $$\\mathrm{N}$$",
+            "C": "Glyptal",
+            "D": "Perspex"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxb7rco",
+        "question_number": 14,
+        "question_value": {
+            "text": "What is IUPAC name of the following compound?",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lrwhmjp1/8682f82d-714f-4f16-8be6-162ec8815b7f/782e3650-bd4d-11ee-9b7d-9b2b887afc0f/file-6y3zli1lrwhmjp2.png?format=png"
+        },
+        "options": {
+            "A": "3-Bromo-4-ethylbut-3-ene",
+            "B": "3-Bromo-4-methylhex-3-ene",
+            "C": "4-Bromo-3-methylhex-3-ene",
+            "D": "4-Bromo-4-ethyl-3-methylbul-3-eue"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxbbe3k",
+        "question_number": 15,
+        "question_value": {
+            "text": "Calculate the $$\\mathrm{pH}$$ of $$0.01 \\mathrm{~M}$$ strong dibasic acid.",
+            "img_url": null
+        },
+        "options": {
+            "A": "5.5",
+            "B": "2.5",
+            "C": "2.0",
+            "D": "1.7"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxbf9j9",
+        "question_number": 16,
+        "question_value": {
+            "text": "Which among the following cations produces colourless aqueous solution in their respective oxidation state?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{Ti}^{3+}$$",
+            "B": "$$\\mathrm{V}^{3+}$$",
+            "C": "$$\\mathrm{Sc}^{3+}$$",
+            "D": "$$\\mathrm{Cu}^{2+}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxboltl",
+        "question_number": 18,
+        "question_value": {
+            "text": "Find the temperature in degree Celsius if volume and pressure of 2 mole ideal gas is $$20 \\mathrm{~dm}^3$$ and $$4.926 \\mathrm{~atmospheres}$$ respectively. ($$\\mathrm{R}=0.0821 \\mathrm{~dm}^3 \\mathrm{~atm} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1})$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "273",
+            "B": "327",
+            "C": "600",
+            "D": "453"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxbqryo",
+        "question_number": 19,
+        "question_value": {
+            "text": "What is the geometry of $$\\mathrm{PCl}_5$$ molecule as per VSEPR?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Trigonal bipyramidal",
+            "B": "Octahedral",
+            "C": "Tetrahedral",
+            "D": "Square pyramidal"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxcml59",
+        "question_number": 20,
+        "question_value": {
+            "text": "What is coordination number of central metal ion in $$\\left[\\mathrm{Fe}\\left(\\mathrm{C}_2 \\mathrm{O}_4\\right)_3\\right]^{3-}$$ ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "4",
+            "D": "6"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxco1sn",
+        "question_number": 21,
+        "question_value": {
+            "text": "Which among the following is NOT a true statement for enantiomers?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Enantiomers have identical refractive index.",
+            "B": "Enantiomers are superimposable mirror images of each other.",
+            "C": "Enantiomers have same chemical properties.",
+            "D": "Enantiomers have equal but opposite optical ration."
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxec9l4",
+        "question_number": 22,
+        "question_value": {
+            "text": "Which from following formulae is of sodium hexanitrocobaltate(III)?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{Na}_3\\left[\\mathrm{Co}\\left(\\mathrm{NO}_2\\right)_6\\right]$$",
+            "B": "$$\\mathrm{Na}_2\\left[\\mathrm{Co}\\left(\\mathrm{NO}_2\\right)_6\\right]$$",
+            "C": "$$\\left[\\mathrm{Co}\\left(\\mathrm{NaNO}_2\\right)_6\\right]$$",
+            "D": "$$\\mathrm{Na}_3\\left[\\mathrm{Co}(\\mathrm{ONO})_6\\right]$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxfw23v",
+        "question_number": 23,
+        "question_value": {
+            "text": "Which isomer among the following has the highest boiling point?",
+            "img_url": null
+        },
+        "options": {
+            "A": "n-Butylaminc",
+            "B": "tert-Butylamine",
+            "C": "Ehyldimethylamine",
+            "D": "Diethylamine"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxfx7es",
+        "question_number": 24,
+        "question_value": {
+            "text": "Which element from following exhibits the highest number of allotropes?",
+            "img_url": null
+        },
+        "options": {
+            "A": "O",
+            "B": "S",
+            "C": "Se",
+            "D": "Te"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxfynr0",
+        "question_number": 25,
+        "question_value": {
+            "text": "Which of the following is a pair of dihydric phenols?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Resorcinol and Pyrogallol",
+            "B": "Quinol and Phloroglucinol",
+            "C": "Phloroglucinol and Pyrogallol",
+            "D": "Catechol and Quinol"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxg5vty",
+        "question_number": 27,
+        "question_value": {
+            "text": "What is number of atoms present in $$2.24 \\mathrm{~dm}^3 \\mathrm{~NH}_{3(\\mathrm{~g})}$$ at STP?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$6.022 \\times 10^{22}$$",
+            "B": "$$2.4088 \\times 10^{23}$$",
+            "C": "$$1.8066 \\times 10^{22}$$",
+            "D": "$$6.022 \\times 10^{23}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxg6uh5",
+        "question_number": 28,
+        "question_value": {
+            "text": "What is the number of moles of tertiary carbon atoms in a molecule of isobutane?",
+            "img_url": null
+        },
+        "options": {
+            "A": "One",
+            "B": "Two",
+            "C": "Three",
+            "D": "Four"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxg8j05",
+        "question_number": 29,
+        "question_value": {
+            "text": "According to carbinol system, name of isopropyl alcohol is",
+            "img_url": null
+        },
+        "options": {
+            "A": "Methyl carbinol",
+            "B": "Ethyl carbinol",
+            "C": "Dimethyl carbinol",
+            "D": "Isopropyl carbinol"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxgamsh",
+        "question_number": 30,
+        "question_value": {
+            "text": "Calculate the relative lowering of vapour pressure if the vapour pressure of benzene and vapour pressure of solution of non-volatile solute in benzene are $$640 \\mathrm{~mmHg}$$ and $$590 \\mathrm{~mmHg}$$ respectively at same temperature.",
+            "img_url": null
+        },
+        "options": {
+            "A": "0.078",
+            "B": "0.175",
+            "C": "0.061",
+            "D": "0.092"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxgbq20",
+        "question_number": 31,
+        "question_value": {
+            "text": "Which from following is NOT true about voltaic cell?",
+            "img_url": null
+        },
+        "options": {
+            "A": "The anode acts as negative electrode.",
+            "B": "The cathode acts as a positive electrode.",
+            "C": "It converts electrical energy into chemical energy",
+            "D": "Dry cell is an example of voltaic cell."
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxhqpwg",
+        "question_number": 32,
+        "question_value": {
+            "text": "Calculate the percent atom economy when a product of formula weight $$175 \\mathrm{u}$$ is obtained in a chemical reaction using $$225 \\mathrm{u}$$ formula weight reactant.",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$70.1 \\%$$",
+            "B": "$$77.7 \\%$$",
+            "C": "$$90.5 \\%$$",
+            "D": "$$95.0 \\%$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxhrsgh",
+        "question_number": 33,
+        "question_value": {
+            "text": "Identify false statement regarding isothermal process from following.",
+            "img_url": null
+        },
+        "options": {
+            "A": "System can exchange heat energy with the surrounding.",
+            "B": "Enthalpy of system remains constant.",
+            "C": "Temperature of systems remains constant",
+            "D": "Internal energy of system remint constant"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxhul1r",
+        "question_number": 34,
+        "question_value": {
+            "text": "Calculate dissociation constant of $$0.001 \\mathrm{M}$$ weak monoacidic base undergoing $$2 \\%$$ dissociation.",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$4 \\times 10^{-7}$$",
+            "B": "$$2 \\times 10^{-6}$$",
+            "C": "$$2 \\times 10^{-7}$$",
+            "D": "$$1 \\times 10^{-7}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxhy047",
+        "question_number": 35,
+        "question_value": {
+            "text": "Find the rate law for the reaction, $$\\mathrm{CHCl}_{3(\\mathrm{~g})}+\\mathrm{Cl}_{2(\\mathrm{~g})} \\rightarrow \\mathrm{CCl}_{4(\\mathrm{~g})}+\\mathrm{HCl}_{(\\mathrm{g})}$$ if order of reaction with respect to $$\\mathrm{CHCl}_{\\mathrm{a}(\\mathrm{g})}$$ is one and $$\\frac{1}{2}$$ with $$\\mathrm{Cl}_{2(\\mathrm{~g})}$$.",
+            "img_url": null
+        },
+        "options": {
+            "A": "Rate $$=\\mathrm{k}\\left[\\mathrm{CHCl}_3\\right]\\left[\\mathrm{Cl}_2\\right]^{1 / 2}$$",
+            "B": "Rate $$=\\mathrm{k}\\left[\\mathrm{CHCl}_3\\right]^2\\left[\\mathrm{Cl}_2\\right]^{1 / 2}$$",
+            "C": "Rate $$=\\mathrm{k}\\left[\\mathrm{CHCl}_3\\right]^{3 / 2}\\left[\\mathrm{Cl}_2\\right]$$",
+            "D": "Rate $$=\\mathrm{k}\\left[\\mathrm{CHCl}_3\\right]^{1 / 2}\\left[\\mathrm{Cl}_2\\right]$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxi2uad",
+        "question_number": 36,
+        "question_value": {
+            "text": "The rate for reaction $$2 \\mathrm{~A}+\\mathrm{B} \\rightarrow$$ product is $$6 \\times 10^{-4} \\mathrm{~mol} \\mathrm{~dm}^{-3} \\mathrm{~s}^{-1}$$ Calculate the rate constant if the reaction is first order in $$\\mathrm{A}$$ and zeroth order in $$\\mathrm{B}$$. [Given $$[\\mathrm{A}]=[\\mathrm{B}]=0.3 \\mathrm{M}]$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1 \\times 10^{-3} \\mathrm{~s}^{-1}$$",
+            "B": "$$2 \\times 10^{-3} \\mathrm{~s}^{-1}$$",
+            "C": "$$3 \\times 10^{-3} \\mathrm{~s}^{-1}$$",
+            "D": "$$4 \\times 10^{-3} \\mathrm{~s}^{-1}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxidfm8",
+        "question_number": 37,
+        "question_value": {
+            "text": "Calculate molar conductivity of $$\\mathrm{NH}_4 \\mathrm{OH}$$ at infinite dilution if molar conductivities of $$\\mathrm{Ba}(\\mathrm{OH})_2$$ \n $$\\mathrm{BaCl}_2$$ and $$\\mathrm{NH}_4 \\mathrm{Cl}$$ at infinite dilution are $$520,280,129 \\Omega^{-1} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}$$ respectively.",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$249.0 ~\\Omega^{-1} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}$$",
+            "B": "$$498.0 ~\\Omega^{-1} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}$$",
+            "C": "$$125.0 ~\\Omega^{-1} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}$$",
+            "D": "$$369.0 ~\\Omega^{-1} \\mathrm{~cm}^2 \\mathrm{~mol}^{-1}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxifzbq",
+        "question_number": 38,
+        "question_value": {
+            "text": "Calculate radius of third orbit of $$\\mathrm{He}^{+}$$.",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$52.9 \\mathrm{~pm}$$",
+            "B": "$$105.8 \\mathrm{~pm}$$",
+            "C": "$$238.1 \\mathrm{~pm}$$",
+            "D": "$$423.2 \\mathrm{~pm}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxijlp2",
+        "question_number": 39,
+        "question_value": {
+            "text": "Calculate the depression in freezing point of solution when $$4 \\mathrm{~g}$$ nonvolatile solute of molar mass $$126 \\mathrm{~g} \\mathrm{~mol}^{-1}$$ dissolved in $$80 \\mathrm{~mL}$$ water [Cryoscopic constant of water $$=1.86 \\mathrm{~K} \\mathrm{~kg} \\mathrm{~mol}^{-1}$$ ]",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$0.55 \\mathrm{~K}$$",
+            "B": "$$0.74 \\mathrm{~K}$$",
+            "C": "$$0.86 \\mathrm{~K}$$",
+            "D": "$$0.86 \\mathrm{~K}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxin5g0",
+        "question_number": 40,
+        "question_value": {
+            "text": "In an ionic crystalline solid, atoms of element Y forms hep structure. The atoms of element X occupy one third of tetrahedral voids. What is the formula of compound?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{X}_2 \\mathrm{Y}_3$$",
+            "B": "$$\\mathrm{XY}$$",
+            "C": "$$\\mathrm{X}_3 \\mathrm{Y}_3$$",
+            "D": "$$\\mathrm{XY}_2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxinszl",
+        "question_number": 41,
+        "question_value": {
+            "text": "What is total number of crystal systems associated with 14 Bravais lattices?",
+            "img_url": null
+        },
+        "options": {
+            "A": "7",
+            "B": "14",
+            "C": "1",
+            "D": "3"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxipliw",
+        "question_number": 42,
+        "question_value": {
+            "text": "Which from following catalyst is used in decomposition of $$\\mathrm{KCl}_3$$ ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Platinized asbestos",
+            "B": "$$\\mathrm{Fe}$$-$$\\mathrm{Cr}$$ catalyst",
+            "C": "$$\\mathrm{Ni}$$",
+            "D": "$$\\mathrm{MnO}_2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxiqgtl",
+        "question_number": 43,
+        "question_value": {
+            "text": "Which from following polymers is used to obtain plastic dinner ware?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Backelite",
+            "B": "Teflon",
+            "C": "Melamine-formaldehyde",
+            "D": "Polyacrylonitrile"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxirfr2",
+        "question_number": 44,
+        "question_value": {
+            "text": "Identify non reducing sugar from following.",
+            "img_url": null
+        },
+        "options": {
+            "A": "Sucrose",
+            "B": "Maltose",
+            "C": "Lactose",
+            "D": "Glucose"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxiw6fq",
+        "question_number": 45,
+        "question_value": {
+            "text": "In which of the following carbohydrate, molecular mass increases by $$84 \\mathrm{u}$$ after complete acetylation?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Aldotriose",
+            "B": "Aldotetrose",
+            "C": "Ketotetrose",
+            "D": "Ketopentose"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxixfn3",
+        "question_number": 46,
+        "question_value": {
+            "text": "Which element from following exhibits common oxidation state +2 ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Sr",
+            "B": "Rb",
+            "C": "Na",
+            "D": "Li"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxiytlh",
+        "question_number": 47,
+        "question_value": {
+            "text": "Calculate half life of first order reaction if rate constant of reaction is $$2.772 \\times 10^{-3} \\mathrm{~s}^{-1}$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "125 s",
+            "B": "250 s",
+            "C": "100 s",
+            "D": "150 s"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxizzpt",
+        "question_number": 48,
+        "question_value": {
+            "text": "Which among the following is NOT colligative property?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Vapour pressure lowering",
+            "B": "Boiling point",
+            "C": "Freezing point depression",
+            "D": "Osmotic pressure"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxj1tn0",
+        "question_number": 49,
+        "question_value": {
+            "text": "Identify the reaction in which carbonyl group of aldehydes and ketones is reduced to methylene group on treatment with hydrazine followed by heating with sodium hydroxide in ethylene glycol.",
+            "img_url": null
+        },
+        "options": {
+            "A": "Wolf-Kishner reduction",
+            "B": "Clemmensen reduction.",
+            "C": "Stephen reaction",
+            "D": "Etard reaction"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxj4moi",
+        "question_number": 50,
+        "question_value": {
+            "text": "Identify the product '$$\\mathrm{B}$$' in the following reaction. Toluene $$\\xrightarrow[\\mathrm{CS}_2]{\\text { Chromylchloride }} \\mathrm{A} \\xrightarrow{\\mathrm{H}_3 \\mathrm{O}^{+}}\\mathrm{B}$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "Benzal chloride",
+            "B": "Benzaldehyde",
+            "C": "Benzyl alcohol",
+            "D": "Benzoic acid"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxjgus0",
+        "question_number": 52,
+        "question_value": {
+            "text": "Two cards are drawn successively with replacement from well shuffled pack of 52 cards, then the probability distribution of number of queens is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{X}=x$$012$$\\mathrm{P[X=}x]$$$$\\frac{144}{169}$$$$\\frac{24}{169}$$$$\\frac{1}{169}$$",
+            "B": "$$\\mathrm{X}=x$$012$$\\mathrm{P[X=}x]$$$$\\frac{1}{169}$$$$\\frac{24}{169}$$$$\\frac{144}{169}$$",
+            "C": "$$\\mathrm{X}=x$$012$$\\mathrm{P[X=}x]$$$$\\frac{24}{169}$$$$\\frac{1}{169}$$$$\\frac{144}{169}$$",
+            "D": "$$\\mathrm{X}=x$$012$$\\mathrm{P[X=}x]$$$$\\frac{1}{169}$$$$\\frac{25}{169}$$$$\\frac{143}{169}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxmj1h4",
+        "question_number": 53,
+        "question_value": {
+            "text": "For an initial screening of an entrance exam, a candidate is given fifty problems to solve. If the probability that the candidate can solve any problem is $$\\frac{4}{5}$$, then the probability, that he is unable to solve less than two problems, is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{201}{5}\\left(\\frac{1}{5}\\right)^{49}$$",
+            "B": "$$\\frac{316}{25}\\left(\\frac{4}{5}\\right)^{48}$$",
+            "C": "$$\\frac{54}{5}\\left(\\frac{4}{5}\\right)^{49}$$",
+            "D": "$$\\frac{164}{25}\\left(\\frac{1}{5}\\right)^{48}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxmvhtv",
+        "question_number": 54,
+        "question_value": {
+            "text": "General solution of the differential equation $$\\cos x(1+\\cos y) \\mathrm{d} x-\\sin y(1+\\sin x) \\mathrm{d} y=0$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$(1+\\cos x)(1+\\sin y)=\\mathrm{c}$$, where $$\\mathrm{c}$$ is a constant of integration.",
+            "B": "$$1+\\sin x+\\cos y=\\mathrm{c}$$, where $$\\mathrm{c}$$ is a constant of integration.",
+            "C": "$$(1+\\sin x)(1+\\cos y)=\\mathrm{c}$$, where $$\\mathrm{c}_{\\text {is }}$$ constant of integration.",
+            "D": "$$1+\\sin x \\cos y=\\mathrm{c}$$, where $$\\mathrm{c}$$ is a constant of integration."
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxnjesg",
+        "question_number": 56,
+        "question_value": {
+            "text": "The statement $$[(p \\rightarrow q) \\wedge \\sim q] \\rightarrow r$$ is tautology, when $$r$$ is equivalent to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{p} \\wedge \\sim \\mathrm{q}$$",
+            "B": "$$q \\vee p$$",
+            "C": "$$\\mathrm{p} \\wedge \\mathrm{q}$$",
+            "D": "$$\\sim q$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxnm8it",
+        "question_number": 57,
+        "question_value": {
+            "text": "The solution set of the inequalities $$4 x+3 y \\leq 60, y \\geq 2 x, x \\geq 3, x, y \\geq 0$$ is represented by region",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lrwie2tg/a523d01a-daf8-4b22-8821-3dbdc95b7159/75cc9840-bd50-11ee-9b7d-9b2b887afc0f/file-6y3zli1lrwie2th.png?format=png"
+        },
+        "options": {
+            "A": "$$\\mathrm{S}_2$$ region",
+            "B": "$$\\mathrm{S}_1$$ region",
+            "C": "$$\\mathrm{S}_3$$ region",
+            "D": "$$\\mathrm{S}_4$$ region"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxnqfmr",
+        "question_number": 58,
+        "question_value": {
+            "text": "If the line $$x-2 y=\\mathrm{m}(\\mathrm{m} \\in \\mathrm{Z})$$ intersects the circle $$x^2+y^2=2 x+4 y$$ at two distinct points, then the number of possible values of $m$ are",
+            "img_url": null
+        },
+        "options": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxnvk4f",
+        "question_number": 59,
+        "question_value": {
+            "text": "If $$\\bar{a}, \\bar{b}, \\bar{c}$$ are three vectors such that $$|\\bar{a}+\\bar{b}+\\bar{c}|=1, \\overline{\\mathrm{c}}=\\lambda(\\overline{\\mathrm{a}} \\times \\overline{\\mathrm{b}})$$ and $$|\\overline{\\mathrm{a}}|=\\frac{1}{\\sqrt{3}},|\\overline{\\mathrm{b}}|=\\frac{1}{\\sqrt{2}},|\\overline{\\mathrm{c}}|=\\frac{1}{\\sqrt{6}}$$, then the angle between $$\\bar{a}$$ and $$\\bar{b}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\pi}{6}$$",
+            "B": "$$\\frac{\\pi}{4}$$",
+            "C": "$$\\frac{\\pi}{3}$$",
+            "D": "$$\\frac{\\pi}{2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxo3phx",
+        "question_number": 60,
+        "question_value": {
+            "text": "The equation $$x^3+x-1=0$$ has",
+            "img_url": null
+        },
+        "options": {
+            "A": "no real root.",
+            "B": "exactly two real roots.",
+            "C": "exactly one real root.",
+            "D": "more than two real roots."
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxp4ffu",
+        "question_number": 61,
+        "question_value": {
+            "text": "Let $$\\bar{a}, \\bar{b}, \\bar{c}$$ be three vectors such that $$|\\bar{a}|=\\sqrt{3}, |\\bar{b}|=5, \\bar{b} \\cdot \\bar{c}=10$$ and the angle between $$\\bar{b}$$ and $$\\bar{c}$$ is $$\\frac{\\pi}{3}$$. If $$\\bar{a}$$ is perpendicular to the vector $$\\bar{b} \\times \\bar{c}$$, then $$|\\bar{a} \\times(\\bar{b} \\times \\bar{c})|$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$10 \\sqrt{3}$$",
+            "B": "$$5 \\sqrt{3}$$",
+            "C": "60",
+            "D": "30"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxp9pe6",
+        "question_number": 62,
+        "question_value": {
+            "text": "Let $$A=\\left[\\begin{array}{cc}2 & -1 \\\\ 0 & 2\\end{array}\\right].$$ If $$B=I-{ }^3 C_1(\\operatorname{adj} A)+{ }^3 C_2(\\operatorname{adj} A)^2-{ }^3 C_3(\\operatorname{adj} A)^3$$, then the sum of all elements of the matrix B is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$-$$1",
+            "B": "$$-$$3",
+            "C": "$$-$$4",
+            "D": "$$-$$5"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxpca7b",
+        "question_number": 63,
+        "question_value": {
+            "text": "If $$\\triangle \\mathrm{ABC}$$ is right angled at $$\\mathrm{A}$$, where $$A \\equiv(4,2, x), \\mathrm{B} \\equiv(3,1,8)$$ and $$C \\equiv(2,-1,2)$$, then the value of $$x$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "4",
+            "B": "2",
+            "C": "3",
+            "D": "1"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxpgnwu",
+        "question_number": 64,
+        "question_value": {
+            "text": "The angle between the lines, whose direction cosines $$l, \\mathrm{~m}, \\mathrm{n}$$ satisfy the equations $$l+\\mathrm{m}+\\mathrm{n}=0$$ and $$2 l^2+2 \\mathrm{~m}^2-\\mathrm{n}^2=0$$, is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$60^{\\circ}$$",
+            "B": "$$180^{\\circ}$$",
+            "C": "$$90^{\\circ}$$",
+            "D": "$$30^{\\circ}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxpli4a",
+        "question_number": 65,
+        "question_value": {
+            "text": "Let $$f: R \\rightarrow R$$ be a function such that $$\\mathrm{f}(x)=x^3+x^2 \\mathrm{f}^{\\prime}(1)+x \\mathrm{f}^{\\prime \\prime}(2)+6, x \\in \\mathrm{R}$$, then $$\\mathrm{f}(2)$$ equals",
+            "img_url": null
+        },
+        "options": {
+            "A": "30",
+            "B": "$$-$$4",
+            "C": "$$-$$2",
+            "D": "8"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxptxv6",
+        "question_number": 66,
+        "question_value": {
+            "text": "If $$\\sin (\\theta-\\alpha), \\sin \\theta$$ and $$\\sin (\\theta+\\alpha)$$ are in H.P., then the value of $$\\cos 2 \\theta$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1+4 \\cos ^2 \\frac{\\alpha}{2}$$",
+            "B": "$$1-4 \\cos ^2 \\frac{\\alpha}{2}$$",
+            "C": "$$-1-4 \\cos ^2 \\frac{\\alpha}{2}$$",
+            "D": "$$-1+4 \\cos ^2 \\frac{\\alpha}{2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxpwbjs",
+        "question_number": 67,
+        "question_value": {
+            "text": "$$\\text { If } y=\\left(\\sin ^{-1} x\\right)^2+\\left(\\cos ^{-1} x\\right)^2, \\text { then }\\left(1-x^2\\right) y_2-x y_1=$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "1",
+            "B": "4",
+            "C": "$$-$$4",
+            "D": "$$-$$1"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxpzi9c",
+        "question_number": 68,
+        "question_value": {
+            "text": "If $$a>0$$ and $$z=\\frac{(1+i)^2}{a-i}, i=\\sqrt{-1}$$, has magnitude $$\\frac{2}{\\sqrt{5}}$$, then $$\\bar{z}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$-\\frac{2}{5}-\\frac{4}{5} \\mathrm{i}$$",
+            "B": "$$-\\frac{2}{5}+\\frac{4}{5} \\mathrm{i}$$",
+            "C": "$$\\frac{2}{5}-\\frac{4}{5} \\mathrm{i}$$",
+            "D": "$$\\frac{2}{5}+\\frac{4}{5} \\mathrm{i}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxqfd4g",
+        "question_number": 69,
+        "question_value": {
+            "text": "In $$\\triangle \\mathrm{ABC}$$, with usual notations, $$2 \\mathrm{ac} \\sin \\left(\\frac{1}{2}(\\mathrm{~A}-\\mathrm{B}+\\mathrm{C})\\right)$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{a^2+b^2-c^2}$$",
+            "B": "$$\\mathrm{c}^2+\\mathrm{a}^2-\\mathrm{b}^2$$",
+            "C": "$$\\mathrm{b}^2-\\mathrm{c}^2-\\mathrm{a}^2$$",
+            "D": "$$\\mathrm{c}^2-\\mathrm{a}^2-\\mathrm{b}^2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxqjkrr",
+        "question_number": 70,
+        "question_value": {
+            "text": "$$\\int \\frac{\\sin 2 x\\left(1-\\frac{3}{2} \\cos x\\right)}{e^{\\sin ^2 x+\\cos ^3 x}} d x=$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{e}^{\\sin ^2 x+\\cos ^3 x}+\\mathrm{c}$$, where $$\\mathrm{c}$$ is a constant of integration.",
+            "B": "$$\\mathrm{-e}^{-(\\sin ^2 x+\\cos ^3 x)}+\\mathrm{c}$$, where $$\\mathrm{c}$$ is a constant of integration.",
+            "C": "$$\\mathrm{e}^{-(\\sin ^2 x+\\cos ^3 x)^2}+\\mathrm{c}$$, where $$\\mathrm{c}$$ is a constant of integration.",
+            "D": "$$\\mathrm{e}^{\\sin ^2 x+\\cos  x}+\\mathrm{c}$$, where $$\\mathrm{c}$$ is a constant of integration."
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxqofyi",
+        "question_number": 71,
+        "question_value": {
+            "text": "If $$\\mathrm{f}^{\\prime}(x)=\\tan ^{-1}(\\sec x+\\tan x),-\\frac{\\pi}{2} < x < \\frac{\\pi}{2}$$ and $$f(0)=0$$, then $$\\mathrm{f}(1)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\pi+1}{4}$$",
+            "B": "$$\\frac{\\pi+2}{4}$$",
+            "C": "$$\\pi+\\frac{1}{4}$$",
+            "D": "$$\\frac{\\pi-1}{4}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxqtpl5",
+        "question_number": 72,
+        "question_value": {
+            "text": "If $$\\int \\frac{\\cos \\theta}{5+7 \\sin \\theta-2 \\cos ^2 \\theta} d \\theta=A \\log _e|f(\\theta)|+c$$ (where $$c$$ is a constant of integration), then $$\\frac{f(\\theta)}{A}$$ can be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{2 \\sin \\theta+1}{\\sin \\theta+3}$$",
+            "B": "$$\\frac{2 \\sin \\theta+1}{5(\\sin \\theta+3)}$$",
+            "C": "$$\\frac{5(\\sin \\theta+3)}{2 \\sin \\theta+1}$$",
+            "D": "$$\\frac{5(2 \\sin \\theta+1)}{\\sin \\theta+3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxqwgfa",
+        "question_number": 73,
+        "question_value": {
+            "text": "If $$\\overline{\\mathrm{a}}, \\overline{\\mathrm{b}}, \\overline{\\mathrm{c}}$$ are unit vectors and $$\\theta$$ is angle between $$\\overline{\\mathrm{a}}$$ and $$\\bar{c}$$ and $$\\bar{a}+2 \\bar{b}+2 \\bar{c}=\\overline{0}$$, then $$|\\bar{a} \\times \\bar{c}|=$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\sqrt{15}}{2}$$",
+            "B": "$$\\frac{\\sqrt{15}}{4}$$",
+            "C": "$$\\sqrt{15}$$",
+            "D": "$$\\frac{\\sqrt{15}}{3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxr3dk1",
+        "question_number": 74,
+        "question_value": {
+            "text": "The integral $$\\int_\\limits{\\frac{\\pi}{6}}^{\\frac{\\pi}{3}} \\sec ^{\\frac{2}{3}} x \\operatorname{cosec}^{\\frac{4}{3}} x d x$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$3^{\\frac{5}{6}}-3^{\\frac{2}{3}}$$",
+            "B": "$$3^{\\frac{7}{6}}-3^{\\frac{5}{6}}$$",
+            "C": "$$3^{\\frac{5}{3}}-3^{\\frac{1}{3}}$$",
+            "D": "$$3^{\\frac{4}{3}}-3^{\\frac{1}{3}}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxr6yho",
+        "question_number": 75,
+        "question_value": {
+            "text": "The principal solutions of the equation $$\\sec x+\\tan x=2 \\cos x$$ are",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\pi}{6}, \\frac{5 \\pi}{6}$$",
+            "B": "$$\\frac{\\pi}{6}, \\frac{\\pi}{20}$$",
+            "C": "$$\\frac{\\pi}{6}, \\frac{2 \\pi}{3}$$",
+            "D": "$$\\frac{\\pi}{6}, \\frac{\\pi}{12}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxrenms",
+        "question_number": 76,
+        "question_value": {
+            "text": "If $$\\bar{a}, \\bar{b}, \\bar{c}$$ are three vectors with magnitudes $$\\sqrt{3}$$, 1, 2 respectively, such that $$\\bar{a} \\times(\\bar{a} \\times \\bar{c})+3 \\bar{b}=\\overline{0}$$, if $$\\theta$$ is the angle between $$\\bar{a}$$ and $$\\bar{c}$$, then $$\\sec ^2 \\theta$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "1",
+            "B": "$$\\frac{3}{2}$$",
+            "C": "$$\\frac{4}{3}$$",
+            "D": "$$\\frac{2}{\\sqrt{3}}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxrj4jv",
+        "question_number": 77,
+        "question_value": {
+            "text": "Let the curve be represented by $$x=2(\\cos t+t \\sin t), y=2(\\sin t-t \\cos t)$$. Then normal at any point '$$t$$' of the curve is at a distance of ______ units from the origin.",
+            "img_url": null
+        },
+        "options": {
+            "A": "1",
+            "B": "0",
+            "C": "2",
+            "D": "4"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxrooei",
+        "question_number": 78,
+        "question_value": {
+            "text": "Equation of the plane passing through $$(1,-1,2)$$ and perpendicular to the planes $$x+2 y-2 z=4$$ and $$3 x+2 y+z=6$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$6 x-7 y-4 z-5=0$$",
+            "B": "$$6 x+7 y-4 z+5=0$$",
+            "C": "$$6 x-7 y+4 z+5=0$$",
+            "D": "$$6 x+7 y+4 z-5=0$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxrxuji",
+        "question_number": 79,
+        "question_value": {
+            "text": "If $$\\cos ^{-1} x+\\cos ^{-1} y+\\cos ^{-1} z=3 \\pi$$, then the value of $$x^{2025}+x^{2026}+x^{2027}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$-$$1",
+            "B": "0",
+            "C": "1",
+            "D": "3"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxs0eyd",
+        "question_number": 80,
+        "question_value": {
+            "text": "$$\\mathrm{p}$$ is the length of perpendicular from the origin to the line whose intercepts on the axes are a and $$\\mathrm{b}$$ respectively, then $$\\frac{1}{\\mathrm{a}^2}+\\frac{1}{\\mathrm{~b}^2}$$ equals",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{p}^2$$",
+            "B": "$$\\frac{2}{\\mathrm{p}^2}$$",
+            "C": "$$\\frac{1}{\\mathrm{p}^2}$$",
+            "D": "$$\\frac{1}{2 \\mathrm{p}^2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxsmbmk",
+        "question_number": 81,
+        "question_value": {
+            "text": "$$\\text { If } f(x)= \\begin{cases}3\\left(1-2 x^2\\right) & ; 0< x < 1 \\\\ 0 & ; \\text { otherwise }\\end{cases}$$ is a probability density function of $$\\mathrm{X}$$, then $$\\mathrm{P}\\left(\\frac{1}{4} < x < \\frac{1}{3}\\right)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{75}{243}$$",
+            "B": "$$\\frac{23}{96}$$",
+            "C": "$$\\frac{179}{864}$$",
+            "D": "$$\\frac{52}{243}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxsqz8e",
+        "question_number": 82,
+        "question_value": {
+            "text": "$$\\int \\frac{\\sin x+\\sin ^3 x}{\\cos 2 x} d x=A \\cos x+B \\log \\mathrm{f}(x)+c$$\n(where $$\\mathrm{c}$$ is a constant of integration). Then values of $$\\mathrm{A}, \\mathrm{B}$$ and $$\\mathrm{f}(x)$$ are",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{A}=\\frac{1}{2}, \\mathrm{~B}=\\frac{-3}{4 \\sqrt{2}}, \\mathrm{f}(x)=\\frac{\\sqrt{2} \\cos x-1}{\\sqrt{2} \\cos x+1}$$",
+            "B": "$$A=-\\frac{1}{2}, B=\\frac{-3}{4 \\sqrt{2}}, \\mathrm{f}(x)=\\frac{\\sqrt{2} \\cos x+1}{\\sqrt{2} \\cos x-1}$$",
+            "C": "$$\\mathrm{A}=\\frac{1}{2}, \\mathrm{~B}=\\frac{-3}{4 \\sqrt{2}}, \\mathrm{f}(x)=\\frac{\\sqrt{2} \\cos x+1}{\\sqrt{2} \\cos x-1}$$",
+            "D": "$$\\mathrm{A}=\\frac{3}{2}, \\mathrm{~B}=\\frac{1}{2}, \\mathrm{f}(x)=\\frac{\\sqrt{2} \\cos x-1}{\\sqrt{2} \\cos x+1}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxsy8zt",
+        "question_number": 83,
+        "question_value": {
+            "text": "If $$y=[(x+1)(2 x+1)(3 x+1) \\ldots \\ldots(\\mathrm{n} x+1)]^n$$, then $$\\frac{\\mathrm{d} y}{\\mathrm{~d} x}$$ at $$x=0$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\mathrm{n}(\\mathrm{n}+1)}{2}$$",
+            "B": "$$\\frac{\\mathrm{n}^2(\\mathrm{n}+1)}{2}$$",
+            "C": "$$\\frac{\\mathrm{n}(\\mathrm{n}+1)}{4}$$",
+            "D": "$$\\frac{\\mathrm{n}^2(\\mathrm{n}-1)}{2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxta0aw",
+        "question_number": 84,
+        "question_value": {
+            "text": "Let $$\\mathrm{B} \\equiv(0,3)$$ and $$\\mathrm{C} \\equiv(4,0)$$. The point $$\\mathrm{A}$$ is moving on the line $$y=2 x$$ at the rate of 2 units/second. The area of $$\\triangle \\mathrm{ABC}$$ is increasing at the rate of",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{11}{\\sqrt{5}}$$ (units)$$^2$$/ $$\\mathrm{sec}$$",
+            "B": "$$\\frac{11}{5}$$ (units)$$^2$$/ $$\\mathrm{sec}$$",
+            "C": "$$\\frac{13}{\\sqrt{5}}$$ (units)$$^2$$/ $$\\mathrm{sec}$$",
+            "D": "$$\\frac{13}{5}$$ (units)$$^2$$/ $$\\mathrm{sec}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxtkxfz",
+        "question_number": 85,
+        "question_value": {
+            "text": "$$\\lim _\\limits{x \\rightarrow \\infty} x^3\\left\\{\\sqrt{x^2+\\sqrt{1+x^4}}-x \\sqrt{2}\\right\\}=$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{1}{\\sqrt{2}}$$",
+            "B": "$$\\frac{1}{4 \\sqrt{2}}$$",
+            "C": "$$\\frac{-1}{4 \\sqrt{2}}$$",
+            "D": "$$\\frac{-1}{\\sqrt{2}}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxtmohr",
+        "question_number": 86,
+        "question_value": {
+            "text": "The money invested in a company is compounded continuously. If \u20b9 200 invested today becomes \u20b9 400 in 6 years, then at the end of 33 years it will become \u20b9",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1600 \\sqrt{2}$$",
+            "B": "$$3200 \\sqrt{2}$$",
+            "C": "$$12800 \\sqrt{2}$$",
+            "D": "$$6400 \\sqrt{2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxtpedf",
+        "question_number": 87,
+        "question_value": {
+            "text": "The range of the function $$\\mathrm{f}(x)=\\frac{x^2}{x^2+1}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$(0,1)$$",
+            "B": "$$[0,1)$$",
+            "C": "$$(0,1]$$",
+            "D": "$$[0,1]$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxtsruq",
+        "question_number": 88,
+        "question_value": {
+            "text": "The differential equation of $$y=\\mathrm{e}^x(\\mathrm{a} \\cos x+\\mathrm{b} \\sin x)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\mathrm{d}^2 y}{\\mathrm{~d} x^2}-2 \\frac{\\mathrm{d} y}{\\mathrm{~d} x}-y=0$$",
+            "B": "$$\\frac{\\mathrm{d}^2 y}{\\mathrm{~d} x^2}+2 \\frac{\\mathrm{d} y}{\\mathrm{~d} x}+2 y=0$$",
+            "C": "$$\\frac{\\mathrm{d}^2 y}{\\mathrm{~d} x^2}-2 \\frac{\\mathrm{d} y}{\\mathrm{~d} x}+y=0$$",
+            "D": "$$\\frac{\\mathrm{d}^2 y}{\\mathrm{~d} x^2}-2 \\frac{\\mathrm{d} y}{\\mathrm{~d} x}+2 y=0$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxtuyc6",
+        "question_number": 89,
+        "question_value": {
+            "text": "If $$\\int \\frac{x^3 \\mathrm{~d} x}{\\sqrt{1+x^2}}=\\mathrm{a}\\left(1+x^2\\right) \\sqrt{1+x^2}+\\mathrm{b} \\sqrt{1+x^2}+\\mathrm{c}$$\n(where $$\\mathrm{c}$$ is a constant of integration), then the value of $$3 \\mathrm{ab}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$-$$3",
+            "B": "$$-$$1",
+            "C": "1",
+            "D": "3"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqxtz5jy",
+        "question_number": 90,
+        "question_value": {
+            "text": "The perpendiculars are drawn to lines $$L_1$$ and $$L_2$$ from the origin making an angle $$\\frac{\\pi}{4}$$ and $$\\frac{3 \\pi}{4}$$ respectively with positive direction of $$\\mathrm{X}$$-axis. If both the lines are at unit distance from the origin, then their joint equation is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$x^2-y^2+2 \\sqrt{2} y+2=0$$",
+            "B": "$$x^2-y^2-2 \\sqrt{2} y-2=0$$",
+            "C": "$$x^2-y^2+2 \\sqrt{2} y-2=0$$",
+            "D": "$$x^2-y^2-2 \\sqrt{2} y+2=0$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxu1umb",
+        "question_number": 91,
+        "question_value": {
+            "text": "The function $$\\mathrm{f}(x)=[x] \\cdot \\cos \\left(\\frac{2 x-1}{2}\\right) \\pi$$, where $$[\\cdot]$$ denotes the greatest integer function, is discontinuous at",
+            "img_url": null
+        },
+        "options": {
+            "A": "all irrational numbers $$x$$.",
+            "B": "no $$x$$.",
+            "C": "all integer points.",
+            "D": "every rational $$x$$ which is not an integer."
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxu7ty5",
+        "question_number": 92,
+        "question_value": {
+            "text": "A line with positive direction cosines passes through the point $$\\mathrm{P}(2,-1,2)$$ and makes equal angles with the co-ordinate axes. The line meets the plane $$2 x+y+z=9$$ at point $$\\mathrm{Q}$$. The length of the line segment $$P Q$$ equals",
+            "img_url": null
+        },
+        "options": {
+            "A": "3",
+            "B": "$$\\sqrt{2}$$",
+            "C": "$$\\sqrt{3}$$",
+            "D": "2"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxubtfv",
+        "question_number": 93,
+        "question_value": {
+            "text": "If the shortest distance between the lines $$\\frac{x-1}{2}=\\frac{y-2}{3}=\\frac{z-3}{\\lambda}$$ and $$\\frac{x-2}{1}=\\frac{y-4}{4}=\\frac{z-5}{5}$$ is $$\\frac{1}{\\sqrt{3}}$$, then sum of possible values of $$\\lambda$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "16",
+            "B": "11",
+            "C": "12",
+            "D": "15"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxughha",
+        "question_number": 94,
+        "question_value": {
+            "text": "If the angles $$\\mathrm{A}, \\mathrm{B}$$, and $$\\mathrm{C}$$ of a triangle are in an Arithmetic Progression and if $$\\mathrm{a}, \\mathrm{b}$$ and $$\\mathrm{c}$$ denote the lengths of the sides opposite to A, B and C respectively, then the value of the expression $$\\frac{\\mathrm{a}}{\\mathrm{c}} \\sin 2 \\mathrm{C}+\\frac{\\mathrm{c}}{\\mathrm{a}} \\sin 2 \\mathrm{~A}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{1}{2}$$",
+            "B": "$$\\frac{\\sqrt{3}}{2}$$",
+            "C": "1",
+            "D": "$$\\sqrt{3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxukcr3",
+        "question_number": 95,
+        "question_value": {
+            "text": "A linguistic club consists of 6 girls and 4 boys. A team of 4 members is to be selected from this group including the selection of a leader (from among these 4 members) for the team. If the team has to include at most one boy, the number of ways of selecting the team is",
+            "img_url": null
+        },
+        "options": {
+            "A": "140",
+            "B": "320",
+            "C": "76",
+            "D": "380"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxuombp",
+        "question_number": 96,
+        "question_value": {
+            "text": "The maximum value of the function $$f(x)=3 x^3-18 x^2+27 x-40$$ on the set $$\\mathrm{S}=\\left\\{x \\in \\mathrm{R} / x^2+30 \\leq 11 x\\right\\}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "122",
+            "B": "$$-$$122",
+            "C": "$$-$$222",
+            "D": "222"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqxuqw1q",
+        "question_number": 97,
+        "question_value": {
+            "text": "Let $$f(x)=\\int \\frac{x^2-3 x+2}{x^4+1} \\mathrm{~d} x$$, then function decreases in the interval",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$(-\\infty,-2)$$",
+            "B": "$$(-2,-1)$$",
+            "C": "$$(1,2)$$",
+            "D": "$$(2, \\infty)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxuvi3w",
+        "question_number": 98,
+        "question_value": {
+            "text": "Three critics review a book. For the three critics the odds in favour of the book are $$2: 5, 3: 4$$ and $$4: 3$$ respectively. The probability that the majority is in favour of the book, is given by",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{183}{343}$$",
+            "B": "$$\\frac{160}{343}$$",
+            "C": "$$\\frac{209}{343}$$",
+            "D": "$$\\frac{134}{343}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqxv2r05",
+        "question_number": 100,
+        "question_value": {
+            "text": "The area bounded by the curves $$y=(x-1)^2, y=(x+1)^2$$ and $$y=\\frac{1}{4}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{1}{3}$$ sq. units.",
+            "B": "$$\\frac{2}{3}$$ sq. units.",
+            "C": "$$\\frac{1}{4}$$ sq. units.",
+            "D": "$$\\frac{1}{5}$$ sq. units."
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqwc42ry",
+        "question_number": 101,
+        "question_value": {
+            "text": "A sphere and a cube, both of copper have equal volumes and are black. They are allowed to cool at same temperature and in same atmosphere. The ratio of their rate of loss of heat will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1: 1$$",
+            "B": "$$\\left(\\frac{\\pi}{6}\\right)^{\\frac{2}{3}}$$",
+            "C": "$$\\left(\\frac{\\pi}{6}\\right)^{\\frac{1}{3}}$$",
+            "D": "$$\\frac{4 \\pi}{3}: 1$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqwc6rgm",
+        "question_number": 102,
+        "question_value": {
+            "text": "An alternating voltage is applied to a series LCR circuit. If the current leads the voltage by $$45^{\\circ}$$, then $$\\left(\\tan 45^{\\circ}=1\\right)$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{X}_{\\mathrm{L}}=\\mathrm{X}_{\\mathrm{C}}-\\mathrm{R}$$",
+            "B": "$$\\mathrm{X}_{\\mathrm{L}}=\\mathrm{X}_{\\mathrm{C}}+\\mathrm{R}$$",
+            "C": "$$\\mathrm{X}_{\\mathrm{C}}=\\sqrt{\\mathrm{X}_{\\mathrm{L}}^2+\\mathrm{R}^2}$$",
+            "D": "$$\\mathrm{X}_{\\mathrm{L}}=\\sqrt{\\mathrm{X}_{\\mathrm{C}}^2+\\mathrm{R}^2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqwcbtry",
+        "question_number": 103,
+        "question_value": {
+            "text": "A horizontal wire of mass '$$m$$', length '$$l$$' and resistance '$$R$$' is sliding on the vertical rails on which uniform magnetic field '$$B$$' is directed perpendicular. The terminal speed of the wire as it falls under the force of gravity is ( $$\\mathrm{g}=$$ acceleration due to gravity)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\mathrm{mg} l}{\\mathrm{BR}}$$",
+            "B": "$$\\frac{\\mathrm{B}^2 l^2}{\\mathrm{mgR}}$$",
+            "C": "$$\\frac{\\mathrm{mgR}}{\\mathrm{Bl}}$$",
+            "D": "$$\\frac{\\mathrm{mgR}}{\\mathrm{B}^2 l^2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqwcit1c",
+        "question_number": 104,
+        "question_value": {
+            "text": "Frequency of the series limit of Balmer series of hydrogen atom in terms of Rydberg's constant (R) and velocity of light (c) is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$4 \\mathrm{Rc}$$",
+            "B": "$$\\frac{4}{\\mathrm{Rc}}$$",
+            "C": "$$\\mathrm{Rc}$$",
+            "D": "$$\\frac{\\mathrm{Rc}}{4}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqwcotka",
+        "question_number": 105,
+        "question_value": {
+            "text": "A string is stretched between two rigid supports separated by $$75 \\mathrm{~cm}$$. There are no resonant frequencies between $$420 \\mathrm{~Hz}$$ and $$315 \\mathrm{~Hz}$$. The lowest resonant frequency for the string is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$210 \\mathrm{~Hz}$$",
+            "B": "$$180 \\mathrm{~Hz}$$",
+            "C": "$$105 \\mathrm{~Hz}$$",
+            "D": "$$1050 \\mathrm{~Hz}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqwcrolp",
+        "question_number": 106,
+        "question_value": {
+            "text": "A straight wire carrying a current (I) is turned into a circular loop. If the magnitude of the magnetic moment associated with it is '$$M$$', then the length of the wire will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\mathrm{M} \\pi}{4 \\mathrm{I}}$$",
+            "B": "$$\\left[\\frac{4 \\pi I}{M}\\right]^{\\frac{1}{2}}$$",
+            "C": "$$\\left[\\frac{4 \\mathrm{M} \\pi}{\\mathrm{I}}\\right]^{\\frac{1}{2}}$$",
+            "D": "$$4 \\pi \\mathrm{MI}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqwcslu8",
+        "question_number": 107,
+        "question_value": {
+            "text": "The diffraction fringes obtained by a single slit are of",
+            "img_url": null
+        },
+        "options": {
+            "A": "equal width",
+            "B": "equal width and unequal intensity",
+            "C": "unequal width but equal intensity",
+            "D": "unequal width and unequal intensity"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqwfr5b6",
+        "question_number": 108,
+        "question_value": {
+            "text": "A particle moves around a circular path of radius '$$r$$' with uniform speed '$$V$$'. After moving half the circle, the average acceleration of the particle is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\mathrm{V}^2}{\\mathrm{r}}$$",
+            "B": "$$\\frac{2 V^2}{r}$$",
+            "C": "$$\\frac{2 V^2}{\\pi r}$$",
+            "D": "$$\\frac{\\mathrm{V}^2}{\\pi \\mathrm{r}}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqwfzrel",
+        "question_number": 109,
+        "question_value": {
+            "text": "On dry road, the maximum speed of a vehicle along a circular path is '$$V$$'. When the road becomes wet, maximum speed becomes $$\\frac{\\mathrm{V}}{2}$$. If coefficient of friction of dry road is '$$\\mu$$' then that of wet road is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{2 \\mu}{3}$$",
+            "B": "$$\\frac{\\mu}{4}$$",
+            "C": "$$\\frac{\\mu}{3}$$",
+            "D": "$$\\frac{3 \\mu}{4}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqwg3934",
+        "question_number": 110,
+        "question_value": {
+            "text": "A wire of length $$3 \\mathrm{~m}$$ connected in the left gap of a meter-bridge balances $$8 \\Omega$$ resistance in the right gap at a point, which divides the bridge wire in the ratio $$3: 2$$. The length of the wire corresponding to resistance of $$1 \\Omega$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1 \\mathrm{~m}$$",
+            "B": "$$0.75 \\mathrm{~m}$$",
+            "C": "$$0.5 \\mathrm{~m}$$",
+            "D": "$$0.25 \\mathrm{~m}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqwg4isc",
+        "question_number": 111,
+        "question_value": {
+            "text": "By adding soluble impurity in a liquid, angle of contact",
+            "img_url": null
+        },
+        "options": {
+            "A": "decreases",
+            "B": "increases",
+            "C": "remains unchanged",
+            "D": "first increases and then decreases"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqwg7i2f",
+        "question_number": 112,
+        "question_value": {
+            "text": "For a common emitter configuration, if '$$\\alpha$$' and '$$\\beta$$' have their usual meanings, the incorrect relation between '$$\\alpha$$' and '$$\\beta$$' is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{1}{\\alpha}=\\frac{1}{\\beta}+1$$",
+            "B": "$$\\alpha=\\frac{\\beta}{1-\\beta}$$",
+            "C": "$$\\alpha=\\frac{\\beta}{1+\\beta}$$",
+            "D": "$$\\frac{1}{\\beta}=\\frac{1}{\\alpha}-1$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqwgj6o6",
+        "question_number": 113,
+        "question_value": {
+            "text": "A simple pendulum of length '$$l$$' and a bob of mass '$$\\mathrm{m}$$' is executing S.H.M. of small amplitude '$$A$$'. The maximum tension in the string will be ($$\\mathrm{g}=$$ acceleration due to gravity)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$2 \\mathrm{~mg}$$",
+            "B": "$$\\mathrm{mg}\\left[1+\\left(\\frac{\\mathrm{A}}{\\ell}\\right)^2\\right]$$",
+            "C": "$$\\mathrm{mg}\\left[1+\\left(\\frac{\\mathrm{A}}{\\ell}\\right)\\right]^2$$",
+            "D": "$$m g\\left[1+\\left(\\frac{\\mathrm{A}}{\\ell}\\right)\\right]$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqwh31cw",
+        "question_number": 114,
+        "question_value": {
+            "text": "Which of the following combination of 7 identical capacitors each of $$2 \\mu \\mathrm{F}$$ gives a capacitance of $$\\frac{10}{11} \\mu \\mathrm{F}$$ ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "5 in parallel and 2 in series",
+            "B": "4 in parallel and 3 in series",
+            "C": "3 in parallel and 4 in series",
+            "D": "2 in parallel and 5 in series"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqwh3ycp",
+        "question_number": 115,
+        "question_value": {
+            "text": "The potential energy of a molecule on the surface of a liquid compared to the molecules inside the liquid is",
+            "img_url": null
+        },
+        "options": {
+            "A": "zero",
+            "B": "less",
+            "C": "same",
+            "D": "large"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqwhqdwb",
+        "question_number": 116,
+        "question_value": {
+            "text": "A progressive wave is given by, $$\\mathrm{Y}=12 \\sin (5 \\mathrm{t}-4 \\mathrm{x})$$. On this wave, how far away are the two points having a phase difference of $$90^{\\circ}$$ ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\pi}{4}$$",
+            "B": "$$\\frac{\\pi}{8}$$",
+            "C": "$$\\frac{\\pi}{16}$$",
+            "D": "$$\\frac{\\pi}{32}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqwhtlhg",
+        "question_number": 117,
+        "question_value": {
+            "text": "The de-Broglie wavelength $$(\\lambda)$$ of a particle is related to its kinetic energy (E) as",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\lambda \\propto \\mathrm{E}$$",
+            "B": "$$\\lambda \\propto \\mathrm{E}^{-1}$$",
+            "C": "$$\\lambda \\propto \\mathrm{E}^{\\frac{1}{2}}$$",
+            "D": "$$\\lambda \\propto \\mathrm{E}^{-\\frac{1}{2}}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqwhui7s",
+        "question_number": 118,
+        "question_value": {
+            "text": "For a purely inductive or a purely capacitive circuit, the power factor is",
+            "img_url": null
+        },
+        "options": {
+            "A": "zero",
+            "B": "0.5",
+            "C": "1",
+            "D": "$$\\infty$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqwhxzrb",
+        "question_number": 119,
+        "question_value": {
+            "text": "The electric field intensity on the surface of a solid charged sphere of radius '$$r$$' and volume charge density '$$\\rho$$' is ($$\\varepsilon_0=$$ permittivity of free space)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\rho r}{3 \\varepsilon_0}$$",
+            "B": "$$\\frac{\\rho}{4 \\pi \\varepsilon_0 \\mathrm{r}}$$",
+            "C": "zero",
+            "D": "$$\\frac{5 \\rho \\mathrm{r}}{6 \\varepsilon_0}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqwi0g92",
+        "question_number": 120,
+        "question_value": {
+            "text": "A body is said to be opaque to the radiation if (a, r and t are coefficient of absorption, reflection and transmission respectively)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{t}=0$$ and $$\\mathrm{a}+\\mathrm{r}=1$$",
+            "B": "$$\\mathrm{a}=\\mathrm{r}=\\mathrm{t}$$",
+            "C": "$$t \\neq 0$$",
+            "D": "$$\\mathrm{a}=0, \\mathrm{r}=1, \\mathrm{t}=1$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqwi3dgx",
+        "question_number": 121,
+        "question_value": {
+            "text": "In a thermodynamic system, $$\\Delta U$$ represents the increases in its internal energy and dW is the work done by the system then correct statement out of the following is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\Delta \\mathrm{U}=\\mathrm{dW}$$ is an isothermal process",
+            "B": "$$\\Delta \\mathrm{U}=-\\mathrm{dW}$$ is an adiabatic process",
+            "C": "$$\\Delta \\mathrm{U}=-\\mathrm{dW}$$ is an isothermal process",
+            "D": "$$\\Delta \\mathrm{U}=\\mathrm{dW}$$ is an adiabatic process"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqwi7fiq",
+        "question_number": 122,
+        "question_value": {
+            "text": "A combination of two thin lenses in contact have power $$+10 \\mathrm{D}$$. The power reduces to $$+6 \\mathrm{D}$$ when the lenses are $$0.25 \\mathrm{~m}$$ apart. The power of individual lens is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$5 \\mathrm{D}, 5 \\mathrm{D}$$",
+            "B": "$$6 \\mathrm{D}, 4 \\mathrm{D}$$",
+            "C": "$$7 \\mathrm{D}, 3 \\mathrm{D}$$",
+            "D": "$$8 \\mathrm{D}, 2 \\mathrm{D}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqwi8c2h",
+        "question_number": 123,
+        "question_value": {
+            "text": "The reciprocal of the total effective resistance of LCR a.c. circuit is called",
+            "img_url": null
+        },
+        "options": {
+            "A": "impedance",
+            "B": "admittance",
+            "C": "resistance",
+            "D": "inductive and capacitive reactance"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqwibsdj",
+        "question_number": 124,
+        "question_value": {
+            "text": "If the radius of the first Bohr orbit is '$$r$$' then the de-Broglie wavelength of the electron in the $$4^{\\text {th }}$$ orbit will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$4 \\pi \\mathrm{r}$$",
+            "B": "$$6 \\pi \\mathrm{r}$$",
+            "C": "$$8 \\pi \\mathrm{r}$$",
+            "D": "$$\\frac{\\pi r}{4}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqx74btr",
+        "question_number": 125,
+        "question_value": {
+            "text": "A string of length '$$L$$' fixed at one end carries a body of mass '$$\\mathrm{m}$$' at the other end. The mass is revolved in a circle in the horizontal plane about a vertical axis passing through the fixed end of the string. The string makes angle '$$\\theta$$' with the vertical. The angular frequency of the body is '$$\\omega$$'. The tension in the string is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{mL}^2 \\omega$$",
+            "B": "$$\\mathrm{mL} \\omega^2$$",
+            "C": "$$\\frac{\\omega^2}{\\mathrm{~mL}}$$",
+            "D": "$$\\frac{\\mathrm{m} \\omega^2}{\\mathrm{~L}}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqx775nt",
+        "question_number": 126,
+        "question_value": {
+            "text": "The temperature of a gas is $$-68^{\\circ} \\mathrm{C}$$. To what temperature should it be heated, so that the r.m.s. velocity of the molecules be doubled?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$357^{\\circ} \\mathrm{C}$$",
+            "B": "$$457^{\\circ} \\mathrm{C}$$",
+            "C": "$$547^{\\circ} \\mathrm{C}$$",
+            "D": "$$820^{\\circ} \\mathrm{C}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqx7b6xo",
+        "question_number": 127,
+        "question_value": {
+            "text": "The displacement of a particle executing S.H.M. is $$x=\\mathrm{a} \\sin (\\omega t-\\phi)$$. Velocity of the particle at time $$\\mathrm{t}=\\frac{\\phi}{\\omega}$$ is $$\\left(\\cos 0^{\\circ}=1\\right)$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\omega \\cos \\phi$$",
+            "B": "$$\\mathrm{a} \\omega$$",
+            "C": "$$\\omega \\cos 2 \\phi$$",
+            "D": "$$-\\mathrm{a} \\omega \\cos 2 \\phi$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqx7dket",
+        "question_number": 128,
+        "question_value": {
+            "text": "A uniformly charged semicircular arc of radius '$$r$$' has linear charge density '$$\\lambda$$'. The electric field at its centre is ( $$\\varepsilon_0=$$ permittivity of free space)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\lambda}{4 \\varepsilon_0}$$",
+            "B": "$$\\frac{2 \\varepsilon_0}{\\lambda}$$",
+            "C": "$$\\frac{\\lambda}{4 \\varepsilon_0 \\mathrm{r}}$$",
+            "D": "$$\\frac{2 \\pi \\varepsilon_0}{\\lambda}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqx7goy8",
+        "question_number": 129,
+        "question_value": {
+            "text": "A sphere, a cube and a thin circular plate all made of same material and having the same mass are heated to same temperature of $$200^{\\circ} \\mathrm{C}$$. When these are left in a room.",
+            "img_url": null
+        },
+        "options": {
+            "A": "the sphere reaches room temperature fast",
+            "B": "the cube reaches room temperature fast",
+            "C": "the circular plate reaches room temperature fast",
+            "D": "all will reach the room temperature simultaneously"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqx7hwzr",
+        "question_number": 130,
+        "question_value": {
+            "text": "For emission of light, a light emitting diode (LED) is",
+            "img_url": null
+        },
+        "options": {
+            "A": "always used in reverse biased condition",
+            "B": "never used in forward or reserve biased condition",
+            "C": "used both in forward and reverse biased condition depending upon its application",
+            "D": "always used in forward biased condition"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqx7ldh4",
+        "question_number": 131,
+        "question_value": {
+            "text": "A solenoid of length $$0.4 \\mathrm{~m}$$ and having 500 turns of wire carries a current $$3 \\mathrm{~A}$$. A thin coil having 10 turns of wire and radius $$0.1 \\mathrm{~m}$$ carries current $$0.4 \\mathrm{~A}$$. the torque required to hold the coil in the middle of the solenoid with its axis perpendicular to the axis of the solenoid is $$\\left(\\mu_0=4 \\pi \\times 10^{-7}\\right.$$ SI units, $$\\left.\\pi^2=10\\right)\\left(\\sin 90^{\\circ}=1\\right)$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$3 \\times 10^{-6} \\mathrm{~Nm}$$",
+            "B": "$$12 \\times 10^{-6} \\mathrm{~Nm}$$",
+            "C": "$$6 \\times 10^{-4} \\mathrm{~Nm}$$",
+            "D": "$$24 \\times 10^{-6} \\mathrm{~Nm}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqx7mwqw",
+        "question_number": 132,
+        "question_value": {
+            "text": "In semiconductors at room temperature,",
+            "img_url": null
+        },
+        "options": {
+            "A": "the valence band is completely filled",
+            "B": "the conduction band is completely filled",
+            "C": "the condition band is partially filled and valence band is partially empty",
+            "D": "the valence band is completely filled and the conduction band is partially filled"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqx7rash",
+        "question_number": 133,
+        "question_value": {
+            "text": "Considering earth to be a sphere of radius '$$R$$' having uniform density '$$\\rho$$', then value of acceleration due to gravity '$$g$$' in terms of $$R, \\rho$$ and $$\\mathrm{G}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$g=\\sqrt{\\frac{3 \\pi R}{\\rho G}}$$",
+            "B": "$$\\mathrm{g}=\\sqrt{\\frac{4}{3} \\pi \\rho \\mathrm{GR}}$$",
+            "C": "$$\\mathrm{g}=\\frac{4}{3} \\pi \\rho \\mathrm{GR}$$",
+            "D": "$$g=\\frac{G M}{\\rho R^2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqx7uhio",
+        "question_number": 134,
+        "question_value": {
+            "text": "The equation of the wave is $$\\mathrm{Y}=10 \\sin \\left(\\frac{2 \\pi \\mathrm{t}}{30}+\\alpha\\right)$$ If the displacement is $$5 \\mathrm{~cm}$$ at $$\\mathrm{t}=0$$ then the total phase at $$\\mathrm{t}=7.5 \\mathrm{~s}$$ will be $$\\left(\\sin 30^{\\circ}=0.5\\right)$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\pi}{3} \\mathrm{~rad}$$",
+            "B": "$$\\frac{\\pi}{2} \\mathrm{~rad}$$",
+            "C": "$$\\frac{2 \\pi}{5} \\mathrm{~rad}$$",
+            "D": "$$\\frac{2 \\pi}{3} \\mathrm{~rad}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqx7yg6f",
+        "question_number": 135,
+        "question_value": {
+            "text": "The bob of simple pendulum of length '$$L$$' is released from a position of small angular displacement $$\\theta$$. Its linear displacement at time '$$\\mathrm{t}$$' is ( $$\\mathrm{g}=$$ acceleration due to gravity)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$L \\theta \\cos \\left[\\sqrt{\\frac{g}{L}} \\cdot t\\right]$$",
+            "B": "$$L \\theta \\sin \\left[2 \\pi \\sqrt{\\frac{g}{L}} \\cdot t\\right]$$",
+            "C": "$$L \\theta \\cos \\left[2 \\pi \\sqrt{\\frac{g}{L}} \\cdot t\\right]$$",
+            "D": "$$L \\theta \\sin \\left[\\sqrt{\\frac{g}{L}} \\cdot t\\right]$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lqx8056h",
+        "question_number": 136,
+        "question_value": {
+            "text": "The value of acceleration due to gravity at a depth '$$d$$' from the surface of earth and at an altitude '$$h$$' from the surface of earth are in the ratio",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1: 1$$",
+            "B": "$$\\frac{R-2 h}{R-d}$$",
+            "C": "$$\\frac{R-d}{R-2 h}$$",
+            "D": "$$\\frac{\\mathrm{R}-\\mathrm{d}}{\\mathrm{R}-\\mathrm{h}}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqx8kdli",
+        "question_number": 137,
+        "question_value": {
+            "text": "A magnetic field of $$2 \\times 10^{-2} \\mathrm{~T}$$ acts at right angles to a coil of area $$100 \\mathrm{~cm}^2$$ with 50 turns. The average e.m.f. induced in the coil is $$0.1 \\mathrm{~V}$$, when it is removed from the field in time '$$t$$'. The value of '$$t$$' is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$2 \\times 10^{-3} \\mathrm{~s}$$",
+            "B": "$$0.5 \\mathrm{~s}$$",
+            "C": "$$0.1 \\mathrm{~s}$$",
+            "D": "$$1 \\mathrm{~s}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqx8n33u",
+        "question_number": 138,
+        "question_value": {
+            "text": "In Young's double slit experiment, $$8^{\\text {th }}$$ maximum with wavelength '$$\\lambda_1$$' is at a distance '$$d_1$$' from the central maximum and $$6^{\\text {th }}$$ maximum with wavelength '$$\\lambda_2$$' is at a distance '$$\\mathrm{d}_2$$'. Then $$\\frac{\\mathrm{d}_2}{\\mathrm{~d}_1}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{3 \\lambda_1}{4 \\lambda_2}$$",
+            "B": "$$\\frac{3 \\lambda_2}{4 \\lambda_1}$$",
+            "C": "$$\\frac{4 \\lambda_1}{3 \\lambda_2}$$",
+            "D": "$$\\frac{4 \\lambda_2}{3 \\lambda_1}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqx8p0dv",
+        "question_number": 139,
+        "question_value": {
+            "text": "The alternating e.m.f. induced in the secondary coil of a transformer is mainly due to",
+            "img_url": null
+        },
+        "options": {
+            "A": "varying electric field",
+            "B": "varying magnetic field",
+            "C": "the iron core",
+            "D": "heat produced in the coil"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqx8r4er",
+        "question_number": 140,
+        "question_value": {
+            "text": "The efficiency of a heat engine is '$$\\eta$$' and the coefficient of performance of a refrigerator is '$$\\beta$$'. Then",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\eta=\\frac{1}{\\beta}$$",
+            "B": "$$\\eta=\\frac{1}{\\beta+1}$$",
+            "C": "$$\\eta \\beta=\\frac{1}{2}$$",
+            "D": "$$\\eta=\\frac{1}{\\beta-1}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqx94zey",
+        "question_number": 141,
+        "question_value": {
+            "text": "A conducting sphere of radius $$0.1 \\mathrm{~m}$$ has uniform charge density $$1.8 \\mu \\mathrm{C} / \\mathrm{m}^2$$ on its surface. The electric field in free space at radial distance $$0.2 \\mathrm{~m}$$ from a point on the surface is ( $$\\varepsilon_0=$$ permittivity of free space)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{6 \\times 10^{-6}}{\\varepsilon_0} \\mathrm{Vm}^{-1}$$",
+            "B": "$$\\frac{6 \\times 10^{-8}}{\\varepsilon_0} \\mathrm{Vm}^{-1}$$",
+            "C": "$$\\frac{2 \\times 10^{-7}}{\\varepsilon_0} \\mathrm{Vm}^{-1}$$",
+            "D": "$$\\frac{1 \\times 10^{-7}}{\\varepsilon_0} \\mathrm{Vm}^{-1}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqx96zza",
+        "question_number": 142,
+        "question_value": {
+            "text": "If $$\\mathrm{I}_0$$ is the intensity of the principal maximum in the single slit diffraction pattern, then what will be the intensity when the slit width is doubled?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\mathrm{I}_0}{2}$$",
+            "B": "$$\\mathrm{I}_0$$",
+            "C": "$$4 \\mathrm{I}_0$$",
+            "D": "$$2 \\mathrm{I}_0$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqx9e192",
+        "question_number": 143,
+        "question_value": {
+            "text": "Two circular coils made from same wire but radius of $$1^{\\text {st }}$$ coil is twice that of $$2^{\\text {nd }}$$ coil. If magnetic field at their centres is same then ratio of potential difference applied across them is ($$1^{\\text {st }}$$ to $$2^{\\text {nd }}$$ coil)",
+            "img_url": null
+        },
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqx9gzzr",
+        "question_number": 144,
+        "question_value": {
+            "text": "Five current carrying conductors meet at point $$\\mathrm{P}$$. What is the magnitude and direction of the current in conductor $$\\mathrm{PQ}$$?",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lrwhgs5s/d4248b3c-8186-4aee-b8e6-f6bf6737c4c1/d7dd41f0-bd4c-11ee-9b7d-9b2b887afc0f/file-6y3zli1lrwhgs5t.png?format=png"
+        },
+        "options": {
+            "A": "1 A form Q to P",
+            "B": "1 A form P to Q",
+            "C": "3 A form P to Q",
+            "D": "2 A form Q to P"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqx9mos9",
+        "question_number": 145,
+        "question_value": {
+            "text": "Water rises in a capillary tube of radius '$$r$$' upto a height '$$h$$'. The mass of water in a capillary is '$$m$$'. The mass of water that will rise in a capillary tube of radius $$\\frac{'r'}{3}$$ will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$3 \\mathrm{~m}$$",
+            "B": "$$\\frac{\\mathrm{m}}{3}$$",
+            "C": "$$\\mathrm{m}$$",
+            "D": "$$\\frac{2 \\mathrm{~m}}{3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqx9owt8",
+        "question_number": 146,
+        "question_value": {
+            "text": "A person with machine gun can fire 50 g bullets with a velocity of $$240 \\mathrm{~m} / \\mathrm{s}$$. A $$60 \\mathrm{~kg}$$ tiger moves towards him with a velocity of $$12 \\mathrm{~m} / \\mathrm{s}$$. In order to stop the tiger in track, the number of bullets the person fires towards the tiger is",
+            "img_url": null
+        },
+        "options": {
+            "A": "50",
+            "B": "60",
+            "C": "70",
+            "D": "80"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lqx9rkik",
+        "question_number": 147,
+        "question_value": {
+            "text": "If '$$l$$' is the length of the open pipe, '$$r$$' is the internal radius of the pipe and '$V$ ' is the velocity of sound in air then fundamental frequency of open pipe is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\mathrm{V}}{(l+0.3 \\mathrm{r})}$$",
+            "B": "$$\\frac{\\mathrm{V}}{(l+1.2 \\mathrm{r})}$$",
+            "C": "$$\\frac{\\mathrm{V}}{(l+0.6 \\mathrm{r})}$$",
+            "D": "$$\\frac{\\mathrm{V}}{2(l+1.2 \\mathrm{r})}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqx9w9vx",
+        "question_number": 148,
+        "question_value": {
+            "text": "The angle of deviation produced by a thin prism when placed in air is '$$\\delta_1$$' and that when immersed in water is '$$\\delta_2$$'. The refractive index of glass and water are $$\\frac{3}{2}$$ and $$\\frac{4}{3}$$ respectively. The ratio $$\\delta_1: \\delta_2$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1: 2$$",
+            "B": "$$2: 1$$",
+            "C": "$$1: 4$$",
+            "D": "$$4: 1$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lqx9z05q",
+        "question_number": 149,
+        "question_value": {
+            "text": "A thin uniform rod of mass '$$m$$' and length '$$P$$' is suspended from one end which can oscillate in a vertical plane about the point of intersection. It is pulled to one side and then released. It passes through the equilibrium position with angular speed '$$\\omega$$'. The kinetic energy while passing through mean position is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{ml}{ }^2 \\omega^2$$",
+            "B": "$$\\frac{\\mathrm{m} l^2 \\omega^2}{4}$$",
+            "C": "$$\\frac{\\mathrm{m} l^2 \\omega^2}{6}$$",
+            "D": "$$\\frac{\\mathrm{m} \\mathrm{l}^2 \\omega^2}{12}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lqxa20qo",
+        "question_number": 150,
+        "question_value": {
+            "text": "Magnetic field at the centre of the hydrogen atom due to motion of electron in $$\\mathrm{n}^{\\text {th }}$$ orbit is proportional to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{n}^4$$",
+            "B": "$$\\mathrm{n}^{-3}$$",
+            "C": "$$n^3$$",
+            "D": "$$\\mathrm{n}^{-5}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    }
+]

@@ -1,0 +1,1026 @@
+[
+    {
+        "qid": "jaoe38c1lse739kk",
+        "question_number": 2,
+        "question_value": {
+            "text": "Consider the oxides of group 14 elements\n$$\\mathrm{SiO}_2, \\mathrm{GeO}_2, \\mathrm{SnO}_2, \\mathrm{PbO}_2, \\mathrm{CO}$$ and $$\\mathrm{GeO}$$. The amphoteric oxides are",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{SnO}_2, \\mathrm{CO}$$",
+            "B": "$$\\mathrm{SiO}_2, \\mathrm{GeO}_2$$",
+            "C": "$$\\mathrm{SnO}_2, \\mathrm{PbO}_2$$",
+            "D": "$$\\mathrm{GeO}, \\mathrm{GeO}_2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse73zy3",
+        "question_number": 3,
+        "question_value": {
+            "text": "The compound that is white in color is",
+            "img_url": null
+        },
+        "options": {
+            "A": "ammonium sulphide",
+            "B": "ammonium arsinomolybdate",
+            "C": "lead iodide",
+            "D": "lead sulphate"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lse75vwi",
+        "question_number": 5,
+        "question_value": {
+            "text": "A species having carbon with sextet of electrons and can act as electrophile is called",
+            "img_url": null
+        },
+        "options": {
+            "A": "pentavalent carbon",
+            "B": "carbon free radical",
+            "C": "carbanion",
+            "D": "carbocation"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lse76yow",
+        "question_number": 6,
+        "question_value": {
+            "text": "Identify the mixture that shows positive deviations from Raoult's Law",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\left(\\mathrm{CH}_3\\right)_2 \\mathrm{CO}+\\mathrm{CS}_2$$",
+            "B": "$$\\left(\\mathrm{CH}_3\\right)_2 \\mathrm{CO}+\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{NH}_2$$",
+            "C": "$$\\mathrm{CHCl}_3+\\mathrm{C}_6 \\mathrm{H}_6$$",
+            "D": "$$\\mathrm{CHCl}_3+\\left(\\mathrm{CH}_3\\right)_2 \\mathrm{CO}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lse7d2mp",
+        "question_number": 10,
+        "question_value": {
+            "text": "Identify the factor from the following that does not affect electrolytic conductance of a solution.",
+            "img_url": null
+        },
+        "options": {
+            "A": "The nature of solvent used.",
+            "B": "The nature of the electrolyte added.",
+            "C": "The nature of the electrode used.",
+            "D": "Concentration of the electrolyte."
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse7exen",
+        "question_number": 11,
+        "question_value": {
+            "text": "Integrated rate law equation for a first order gas phase reaction is given by (where $$\\mathrm{P}_{\\mathrm{i}}$$ is initial pressure and $$\\mathrm{P}_{\\mathrm{t}}$$ is total pressure at time $$t$$)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$k=\\frac{2.303}{t} \\times \\log \\frac{P_i}{\\left(2 P_i-P_t\\right)}$$",
+            "B": "$$\\mathrm{k}=\\frac{2.303}{\\mathrm{t}} \\times \\log \\frac{\\left(2 \\mathrm{P}_{\\mathrm{i}}-\\mathrm{P}_{\\mathrm{t}}\\right)}{\\mathrm{P}_{\\mathrm{i}}}$$",
+            "C": "$$k=\\frac{2.303}{t} \\times \\frac{P_i}{\\left(2 P_i-P_t\\right)}$$",
+            "D": "$$\\mathrm{k}=\\frac{2.303}{\\mathrm{t}} \\times \\log \\frac{2 \\mathrm{P}_{\\mathrm{i}}}{\\left(2 \\mathrm{P}_{\\mathrm{i}}-\\mathrm{P}_{\\mathrm{t}}\\right)}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lse7imu1",
+        "question_number": 13,
+        "question_value": {
+            "text": "The linear combination of atomic orbitals to form molecular orbitals takes place only when the combining atomic orbitalsA. have the same energyB. have the minimum overlapC. have same symmetry about the molecular axisD. have different symmetry about the molecular axisChoose the most appropriate from the options given below:",
+            "img_url": null
+        },
+        "options": {
+            "A": "B, C, D only",
+            "B": "A, B, C only",
+            "C": "B and D only",
+            "D": "A and C only"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lse7p62x",
+        "question_number": 17,
+        "question_value": {
+            "text": "'Adsorption' principle is used for which of the following purification method?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Chromatography",
+            "B": "Sublimation",
+            "C": "Distillation",
+            "D": "Extraction"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lse8bprp",
+        "question_number": 21,
+        "question_value": {
+            "text": "Consider the following reaction at $$298 \\mathrm{~K} \\cdot \\frac{3}{2} \\mathrm{O}_{2(g)} \\rightleftharpoons \\mathrm{O}_{3(g)} \\cdot \\mathrm{K}_{\\mathrm{P}}=2.47 \\times 10^{-29}$$. $$\\Delta_r G^{\\ominus}$$ for the reaction is _________ $$\\mathrm{kJ}$$. (Given $$\\mathrm{R}=8.314 \\mathrm{~JK}^{-1} \\mathrm{~mol}^{-1}$$)",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 163.0
+    },
+    {
+        "qid": "jaoe38c1lse8d793",
+        "question_number": 23,
+        "question_value": {
+            "text": "The ionization energy of sodium in $$\\mathrm{~kJ} \\mathrm{~mol}^{-1}$$, if electromagnetic radiation of wavelength $$242 \\mathrm{~nm}$$ is just sufficient to ionize sodium atom is _______.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 494.0
+    },
+    {
+        "qid": "jaoe38c1lse8dput",
+        "question_number": 24,
+        "question_value": {
+            "text": "Number of alkanes obtained on electrolysis of a mixture of $$\\mathrm{CH}_3 \\mathrm{COONa}$$ and $$\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{COONa}$$ is ________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lse8er57",
+        "question_number": 25,
+        "question_value": {
+            "text": "The 'Spin only' Magnetic moment for $$\\left[\\mathrm{Ni}\\left(\\mathrm{NH}_3\\right)_6\\right]^{2+}$$ is _________ $$\\times 10^{-1} \\mathrm{~BM}$$. (given $$=$$ Atomic number of $$\\mathrm{Ni}: 28$$)",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 28.0
+    },
+    {
+        "qid": "jaoe38c1lse8fc6l",
+        "question_number": 26,
+        "question_value": {
+            "text": "One Faraday of electricity liberates $$x \\times 10^{-1}$$ gram atom of copper from copper sulphate. $$x$$ is ________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 5.0
+    },
+    {
+        "qid": "jaoe38c1lse8g5cf",
+        "question_number": 27,
+        "question_value": {
+            "text": "Number of moles of methane required to produce $$22 \\mathrm{~g} \\mathrm{~CO}_{2(\\mathrm{~g})}$$ after combustion is $$\\mathrm{x} \\times 10^{-2}$$ moles. The value of $$\\mathrm{x}$$ is _________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 50.0
+    },
+    {
+        "qid": "jaoe38c1lse8hulm",
+        "question_number": 28,
+        "question_value": {
+            "text": "Molar mass of the salt from $$\\mathrm{NaBr}, \\mathrm{NaNO}_3, \\mathrm{KI}$$ and $$\\mathrm{CaF}_2$$ which does not evolve coloured vapours on heating with concentrated $$\\mathrm{H}_2 \\mathrm{SO}_4$$ is ________ $$\\mathrm{g} \\mathrm{~mol}{ }^{-1}$$.(Molar mass in $$\\mathrm{g} \\mathrm{~mol}^{-1}: \\mathrm{Na}: 23, \\mathrm{~N}: 14, \\mathrm{~K}: 39, \\mathrm{O}: 16, \\mathrm{Br}: 80, \\mathrm{I}: 127, \\mathrm{~F}: 19, \\mathrm{Ca}: 40)$$",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 78.0
+    },
+    {
+        "qid": "jaoe38c1lse8isr0",
+        "question_number": 29,
+        "question_value": {
+            "text": "The total number of hydrogen atoms in product A and product B is _________.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsegqah7/d526edcb-0242-45ff-9706-2025b9576a4c/12db65b0-c730-11ee-8cb5-7deab4010c9e/file-6y3zli1lsegqah8.png?format=png"
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 10.0
+    },
+    {
+        "qid": "jaoe38c1lse8jox3",
+        "question_number": 30,
+        "question_value": {
+            "text": "The number of species from the following in which the central atom uses $$\\mathrm{sp}^3$$ hybrid orbitals in its bonding is __________.$$\\mathrm{NH}_3, \\mathrm{SO}_2, \\mathrm{SiO}_2, \\mathrm{BeCl}_2, \\mathrm{CO}_2, \\mathrm{H}_2 \\mathrm{O}, \\mathrm{CH}_4, \\mathrm{BF}_3$$",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 4.0
+    },
+    {
+        "qid": "jaoe38c1lse4rgly",
+        "question_number": 31,
+        "question_value": {
+            "text": "$$\\lim _\\limits{x \\rightarrow 0} \\frac{e^{2|\\sin x|}-2|\\sin x|-1}{x^2}$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "is equal to 1",
+            "B": "does not exist",
+            "C": "is equal to $$-1$$",
+            "D": "is equal to 2"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lse4tf9q",
+        "question_number": 32,
+        "question_value": {
+            "text": "For $$\\alpha, \\beta, \\gamma \\neq 0$$, if $$\\sin ^{-1} \\alpha+\\sin ^{-1} \\beta+\\sin ^{-1} \\gamma=\\pi$$ and $$(\\alpha+\\beta+\\gamma)(\\alpha-\\gamma+\\beta)=3 \\alpha \\beta$$, then $$\\gamma$$ equals",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sqrt{3}$$",
+            "B": "$$\\frac{\\sqrt{3}}{2}$$",
+            "C": "$$\\frac{1}{\\sqrt{2}}$$",
+            "D": "$$\\frac{\\sqrt{3}-1}{2 \\sqrt{2}}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse4uha6",
+        "question_number": 33,
+        "question_value": {
+            "text": "Let $$\\mathrm{S}$$ be the set of positive integral values of $$a$$ for which $$\\frac{a x^2+2(a+1) x+9 a+4}{x^2-8 x+32} < 0, \\forall x \\in \\mathbb{R}$$. Then, the number of elements in $$\\mathrm{S}$$ is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "0",
+            "B": "$$\\infty$$",
+            "C": "3",
+            "D": "1"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lse4xwyu",
+        "question_number": 34,
+        "question_value": {
+            "text": "Let $$\\alpha, \\beta, \\gamma, \\delta \\in \\mathbb{Z}$$ and let $$A(\\alpha, \\beta), B(1,0), C(\\gamma, \\delta)$$ and $$D(1,2)$$ be the vertices of a parallelogram $$\\mathrm{ABCD}$$. If $$A B=\\sqrt{10}$$ and the points $$\\mathrm{A}$$ and $$\\mathrm{C}$$ lie on the line $$3 y=2 x+1$$, then $$2(\\alpha+\\beta+\\gamma+\\delta)$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "8",
+            "B": "5",
+            "C": "12",
+            "D": "10"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lse52f1r",
+        "question_number": 36,
+        "question_value": {
+            "text": "If $$f(x)=\\frac{4 x+3}{6 x-4}, x \\neq \\frac{2}{3}$$ and $$(f \\circ f)(x)=g(x)$$, where $$g: \\mathbb{R}-\\left\\{\\frac{2}{3}\\right\\} \\rightarrow \\mathbb{R}-\\left\\{\\frac{2}{3}\\right\\}$$, then $$(g ogog)(4)$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$-4$$",
+            "B": "$$\\frac{19}{20}$$",
+            "C": "$$-\\frac{19}{20}$$",
+            "D": "4"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lse53x0f",
+        "question_number": 37,
+        "question_value": {
+            "text": "Let $$y=y(x)$$ be the solution of the differential equation $$\\frac{d y}{d x}=\\frac{(\\tan x)+y}{\\sin x(\\sec x-\\sin x \\tan x)}, x \\in\\left(0, \\frac{\\pi}{2}\\right)$$ satisfying the condition $$y\\left(\\frac{\\pi}{4}\\right)=2$$. Then, $$y\\left(\\frac{\\pi}{3}\\right)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sqrt{3}\\left(2+\\log _e 3\\right)$$",
+            "B": "$$\\sqrt{3}\\left(1+2 \\log _e 3\\right)$$",
+            "C": "$$\\sqrt{3}\\left(2+\\log _e \\sqrt{3}\\right)$$",
+            "D": "$$\\frac{\\sqrt{3}}{2}\\left(2+\\log _e 3\\right)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse553je",
+        "question_number": 38,
+        "question_value": {
+            "text": "Three rotten apples are accidently mixed with fifteen good apples. Assuming the random variable $$x$$ to be the number of rotten apples in a draw of two apples, the variance of $$x$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{57}{153}$$",
+            "B": "$$\\frac{40}{153}$$",
+            "C": "$$\\frac{37}{153}$$",
+            "D": "$$\\frac{47}{153}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse565zc",
+        "question_number": 39,
+        "question_value": {
+            "text": "Let $$\\vec{a}=3 \\hat{i}+\\hat{j}-2 \\hat{k}, \\vec{b}=4 \\hat{i}+\\hat{j}+7 \\hat{k}$$ and $$\\vec{c}=\\hat{i}-3 \\hat{j}+4 \\hat{k}$$ be three vectors. If a vectors $$\\vec{p}$$ satisfies $$\\vec{p} \\times \\vec{b}=\\vec{c} \\times \\vec{b}$$ and $$\\vec{p} \\cdot \\vec{a}=0$$, then $$\\vec{p} \\cdot(\\hat{i}-\\hat{j}-\\hat{k})$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "24",
+            "B": "32",
+            "C": "36",
+            "D": "28"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse57f85",
+        "question_number": 40,
+        "question_value": {
+            "text": "The sum of the series $$\\frac{1}{1-3 \\cdot 1^2+1^4}+\\frac{2}{1-3 \\cdot 2^2+2^4}+\\frac{3}{1-3 \\cdot 3^2+3^4}+\\ldots$$ up to 10 -terms is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{45}{109}$$",
+            "B": "$$-\\frac{55}{109}$$",
+            "C": "$$\\frac{55}{109}$$",
+            "D": "$$-\\frac{45}{109}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse58eei",
+        "question_number": 41,
+        "question_value": {
+            "text": "Two marbles are drawn in succession from a box containing 10 red, 30 white, 2 blue and 15 orange marbles, with replacement being made after each drawing. Then the probability, that first drawn marble is red and second drawn marble is white, is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{4}{25}$$",
+            "B": "$$\\frac{2}{3}$$",
+            "C": "$$\\frac{2}{25}$$",
+            "D": "$$\\frac{4}{75}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lse59x61",
+        "question_number": 42,
+        "question_value": {
+            "text": "The distance of the point $$Q(0,2,-2)$$ form the line passing through the point $$P(5,-4, 3)$$ and perpendicular to the lines $$\\vec{r}=(-3 \\hat{i}+2 \\hat{k})+\\lambda(2 \\hat{i}+3 \\hat{j}+5 \\hat{k}), \\lambda \\in \\mathbb{R}$$ and $$\\vec{r}=(\\hat{i}-2 \\hat{j}+\\hat{k})+\\mu(-\\hat{i}+3 \\hat{j}+2 \\hat{k}), \\mu \\in \\mathbb{R}$$ is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sqrt{74}$$",
+            "B": "$$\\sqrt{86}$$",
+            "C": "$$\\sqrt{54}$$",
+            "D": "$$\\sqrt{20}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lse5crz0",
+        "question_number": 44,
+        "question_value": {
+            "text": "Let $$g(x)$$ be a linear function and $$f(x)=\\left\\{\\begin{array}{cl}g(x) & , x \\leq 0 \\\\ \\left(\\frac{1+x}{2+x}\\right)^{\\frac{1}{x}} & , x>0\\end{array}\\right.$$, is continuous at $$x=0$$. If $$f^{\\prime}(1)=f(-1)$$, then the value $$g(3)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\log _e\\left(\\frac{4}{9}\\right)-1$$",
+            "B": "$$\\frac{1}{3} \\log _e\\left(\\frac{4}{9 e^{1 / 3}}\\right)$$",
+            "C": "$$\\log _e\\left(\\frac{4}{9 e^{1 / 3}}\\right)$$",
+            "D": "$$\\frac{1}{3} \\log _e\\left(\\frac{4}{9}\\right)+1$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse5genw",
+        "question_number": 46,
+        "question_value": {
+            "text": "The solution curve of the differential equation \n$$y \\frac{d x}{d y}=x\\left(\\log _e x-\\log _e y+1\\right), x>0, y>0$$ passing through the point $$(e, 1)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\left|\\log _e \\frac{y}{x}\\right|=y^2$$",
+            "B": "$$\\left|\\log _e \\frac{y}{x}\\right|=x$$",
+            "C": "$$\\left|\\log _e \\frac{x}{y}\\right|=y$$",
+            "D": "$$2\\left|\\log _e \\frac{x}{y}\\right|=y+1$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse5mmmr",
+        "question_number": 47,
+        "question_value": {
+            "text": "Let $$a$$ be the sum of all coefficients in the expansion of $$\\left(1-2 x+2 x^2\\right)^{2023}\\left(3-4 x^2+2 x^3\\right)^{2024}$$ and $$b=\\lim _\\limits{x \\rightarrow 0}\\left(\\frac{\\int_0^x \\frac{\\log (1+t)}{t^{2024}+1} d t}{x^2}\\right)$$. If the equation $$c x^2+d x+e=0$$ and $$2 b x^2+a x+4=0$$ have a common root, where $$c, d, e \\in \\mathbb{R}$$, then $$\\mathrm{d}: \\mathrm{c}:$$ e equals",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$2: 1: 4$$",
+            "B": "$$1: 1: 4$$",
+            "C": "$$1: 2: 4$$",
+            "D": "$$4: 1: 4$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse5ndcf",
+        "question_number": 48,
+        "question_value": {
+            "text": "$$\\text { If } f(x)=\\left|\\begin{array}{ccc}\nx^3 & 2 x^2+1 & 1+3 x \\\\\n3 x^2+2 & 2 x & x^3+6 \\\\\nx^3-x & 4 & x^2-2\n\\end{array}\\right| \\text { for all } x \\in \\mathbb{R} \\text {, then } 2 f(0)+f^{\\prime}(0) \\text { is equal to }$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "24",
+            "B": "18",
+            "C": "42",
+            "D": "48"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse5ofy4",
+        "question_number": 49,
+        "question_value": {
+            "text": "If one of the diameters of the circle $$x^2+y^2-10 x+4 y+13=0$$ is a chord of another circle $$\\mathrm{C}$$, whose center is the point of intersection of the lines $$2 x+3 y=12$$ and $$3 x-2 y=5$$, then the radius of the circle $$\\mathrm{C}$$ is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "4",
+            "B": "3$$\\sqrt2$$",
+            "C": "6",
+            "D": "$$\\sqrt{20}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse5pw17",
+        "question_number": 50,
+        "question_value": {
+            "text": "If the foci of a hyperbola are same as that of the ellipse $$\\frac{x^2}{9}+\\frac{y^2}{25}=1$$ and the eccentricity of the hyperbola is $$\\frac{15}{8}$$ times the eccentricity of the ellipse, then the smaller focal distance of the point $$\\left(\\sqrt{2}, \\frac{14}{3} \\sqrt{\\frac{2}{5}}\\right)$$ on the hyperbola, is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$14 \\sqrt{\\frac{2}{5}}-\\frac{4}{3}$$",
+            "B": "$$7 \\sqrt{\\frac{2}{5}}+\\frac{8}{3}$$",
+            "C": "$$7 \\sqrt{\\frac{2}{5}}-\\frac{8}{3}$$",
+            "D": "$$14 \\sqrt{\\frac{2}{5}}-\\frac{16}{3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse5qzoe",
+        "question_number": 51,
+        "question_value": {
+            "text": "If $$\\alpha$$ denotes the number of solutions of $$|1-i|^x=2^x$$ and $$\\beta=\\left(\\frac{|z|}{\\arg (z)}\\right)$$, where $$z=\\frac{\\pi}{4}(1+i)\\left[\\frac{1-\\sqrt{\\pi} i}{\\sqrt{\\pi}+i}+\\frac{\\sqrt{\\pi}-i}{1+\\sqrt{\\pi} i}\\right], i=\\sqrt{-1}$$, then the distance of the point $$(\\alpha, \\beta)$$ from the line $$4 x-3 y=7$$ is __________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lse5rrmq",
+        "question_number": 52,
+        "question_value": {
+            "text": "In the expansion of $$(1+x)\\left(1-x^2\\right)\\left(1+\\frac{3}{x}+\\frac{3}{x^2}+\\frac{1}{x^3}\\right)^5, x \\neq 0$$, the sum of the coefficients of $x^3$ and $$x^{-13}$$ is equal to __________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 118.0
+    },
+    {
+        "qid": "jaoe38c1lse5sysr",
+        "question_number": 53,
+        "question_value": {
+            "text": "Let $$\\vec{a}$$ and $$\\vec{b}$$ be two vectors such that $$|\\vec{a}|=1,|\\vec{b}|=4$$, and $$\\vec{a} \\cdot \\vec{b}=2$$. If $$\\vec{c}=(2 \\vec{a} \\times \\vec{b})-3 \\vec{b}$$ and the angle between $$\\vec{b}$$ and $$\\vec{c}$$ is $$\\alpha$$, then $$192 \\sin ^2 \\alpha$$ is equal to ________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 48.0
+    },
+    {
+        "qid": "jaoe38c1lse5tymd",
+        "question_number": 54,
+        "question_value": {
+            "text": "If the integral $$525 \\int_\\limits0^{\\frac{\\pi}{2}} \\sin 2 x \\cos ^{\\frac{11}{2}} x\\left(1+\\operatorname{Cos}^{\\frac{5}{2}} x\\right)^{\\frac{1}{2}} d x$$ is equal to $$(n \\sqrt{2}-64)$$, then $$n$$ is equal to _________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 176.0
+    },
+    {
+        "qid": "jaoe38c1lse5wwlu",
+        "question_number": 56,
+        "question_value": {
+            "text": "Let $$\\mathrm{Q}$$ and $$\\mathrm{R}$$ be the feet of perpendiculars from the point $$\\mathrm{P}(a, a, a)$$ on the lines $$x=y, z=1$$ and $$x=-y, z=-1$$ respectively. If $$\\angle \\mathrm{QPR}$$ is a right angle, then $$12 a^2$$ is equal to _________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 12.0
+    },
+    {
+        "qid": "jaoe38c1lse5xrza",
+        "question_number": 57,
+        "question_value": {
+            "text": "Let the foci and length of the latus rectum of an ellipse $$\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1, a>b b e( \\pm 5,0)$$ and $$\\sqrt{50}$$, respectively. Then, the square of the eccentricity of the hyperbola $$\\frac{x^2}{b^2}-\\frac{y^2}{a^2 b^2}=1$$ equals",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 51.0
+    },
+    {
+        "qid": "jaoe38c1lse5y7d4",
+        "question_number": 58,
+        "question_value": {
+            "text": "The total number of words (with or without meaning) that can be formed out of the letters of the word 'DISTRIBUTION' taken four at a time, is equal to __________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 3734.0
+    },
+    {
+        "qid": "jaoe38c1lse5zdng",
+        "question_number": 59,
+        "question_value": {
+            "text": "Let $$A=\\{1,2,3,4\\}$$ and $$R=\\{(1,2),(2,3),(1,4)\\}$$ be a relation on $$\\mathrm{A}$$. Let $$\\mathrm{S}$$ be the equivalence relation on $$\\mathrm{A}$$ such that $$R \\subset S$$ and the number of elements in $$\\mathrm{S}$$ is $$\\mathrm{n}$$. Then, the minimum value of $$n$$ is __________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 16.0
+    },
+    {
+        "qid": "jaoe38c1lse60n68",
+        "question_number": 60,
+        "question_value": {
+            "text": "Let $$f: \\mathbb{R} \\rightarrow \\mathbb{R}$$ be a function defined by $$f(x)=\\frac{4^x}{4^x+2}$$ and $$M=\\int_\\limits{f(a)}^{f(1-a)} x \\sin ^4(x(1-x)) d x, N=\\int_\\limits{f(a)}^{f(1-a)} \\sin ^4(x(1-x)) d x ; a \\neq \\frac{1}{2}$$. If $$\\alpha M=\\beta N, \\alpha, \\beta \\in \\mathbb{N}$$, then the least value of $$\\alpha^2+\\beta^2$$ is equal to __________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 5.0
+    },
+    {
+        "qid": "jaoe38c1lse61sz2",
+        "question_number": 61,
+        "question_value": {
+            "text": "Four identical particles of mass $$m$$ are kept at the four corners of a square. If the gravitational force exerted on one of the masses by the other masses is $$\\left(\\frac{2 \\sqrt{2}+1}{32}\\right) \\frac{\\mathrm{Gm}^2}{L^2}$$, the length of the sides of the square is",
+            "img_url": null
+        },
+        "options": {
+            "A": "4L",
+            "B": "3L",
+            "C": "2L",
+            "D": "$$\\frac{L}{2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lse6341e",
+        "question_number": 62,
+        "question_value": {
+            "text": "Two charges $$q$$ and $$3 q$$ are separated by a distance '$$r$$' in air. At a distance $$x$$ from charge $$q$$, the resultant electric field is zero. The value of $$x$$ is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{r}{3(1+\\sqrt{3})}$$",
+            "B": "$$\\frac{(1+\\sqrt{3})}{r}$$",
+            "C": "$$\\frac{r}{(1+\\sqrt{3})}$$",
+            "D": "$$r(1+\\sqrt{3})$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse64544",
+        "question_number": 63,
+        "question_value": {
+            "text": "The given figure represents two isobaric processes for the same mass of an ideal gas, then",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsege4i4/aa4e3a85-6a8b-4bf3-9893-7b3be92c9ee2/c08811b0-c72e-11ee-8cb5-7deab4010c9e/file-6y3zli1lsege4i5.png?format=png"
+        },
+        "options": {
+            "A": "$$P_2>P_1$$",
+            "B": "$$P_1>P_2$$",
+            "C": "$$P_1=P_2$$",
+            "D": "$$P_2 \\geq P_1$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse65jrw",
+        "question_number": 64,
+        "question_value": {
+            "text": "In the given arrangement of a doubly inclined plane two blocks of masses $$M$$ and $$m$$ are placed. The blocks are connected by a light string passing over an ideal pulley as shown. The coefficient of friction between the surface of the plane and the blocks is 0.25. The value of $$m$$, for which $$M=10 \\mathrm{~kg}$$ will move down with an acceleration of $$2 \\mathrm{~m} / \\mathrm{s}^2$$, is: (take $$\\mathrm{g}=10 \\mathrm{~m} / \\mathrm{s}^2$$ and $$\\left.\\tan 37^{\\circ}=3 / 4\\right)$$",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsegetv9/4e7f812c-55e9-4490-a023-e811c35d14e0/d4203e50-c72e-11ee-8cb5-7deab4010c9e/file-6y3zli1lsegetva.png?format=png"
+        },
+        "options": {
+            "A": "4.5 kg",
+            "B": "6.5 kg",
+            "C": "9 kg",
+            "D": "2.25 kg"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lse66y4y",
+        "question_number": 65,
+        "question_value": {
+            "text": "The relation between time '$$t$$' and distance '$$x$$' is $$t=\\alpha x^2+\\beta x$$, where $$\\alpha$$ and $$\\beta$$ are constants. The relation between acceleration $$(a)$$ and velocity $$(v)$$ is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$a=-5 \\alpha v^5$$",
+            "B": "$$a=-3 \\alpha v^2$$",
+            "C": "$$a=-2 \\alpha v^3$$",
+            "D": "$$a=-4 \\alpha v^4$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse684ye",
+        "question_number": 66,
+        "question_value": {
+            "text": "An artillery piece of mass $$M_1$$ fires a shell of mass $$M_2$$ horizontally. Instantaneously after the firing, the ratio of kinetic energy of the artillery and that of the shell is:",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$M_1 /\\left(M_1+M_2\\right)$$",
+            "B": "$$\\frac{M_2}{M_1}$$",
+            "C": "$$\\frac{M_1}{M_2}$$",
+            "D": "$$M_2 /\\left(M_1+M_2\\right)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse68uaj",
+        "question_number": 67,
+        "question_value": {
+            "text": "The parameter that remains the same for molecules of all gases at a given temperature is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "kinetic energy",
+            "B": "mass",
+            "C": "momentum",
+            "D": "speed"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lse6aaap",
+        "question_number": 68,
+        "question_value": {
+            "text": "A rigid wire consists of a semicircular portion of radius $$R$$ and two straight sections. The wire is partially immerged in a perpendicular magnetic field $$B=B_0 \\hat{k}$$ as shown in figure. The magnetic force on the wire if it has a current $$i$$ is:",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lseghbhv/39180403-d934-45f8-8828-aa906dfefe20/195c8c30-c72f-11ee-8cb5-7deab4010c9e/file-6y3zli1lseghbhw.png?format=png"
+        },
+        "options": {
+            "A": "$$i B R \\hat{j}$$",
+            "B": "$$-2 i B R \\hat{j}$$",
+            "C": "$$2 i B R \\hat{j}$$",
+            "D": "$$-i B R \\hat{j}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse6bk56",
+        "question_number": 69,
+        "question_value": {
+            "text": "When a metal surface is illuminated by light of wavelength $$\\lambda$$, the stopping potential is $$8 \\mathrm{~V}$$. When the same surface is illuminated by light of wavelength $$3 \\lambda$$, stopping potential is $$2 \\mathrm{~V}$$. The threshold wavelength for this surface is:",
+            "img_url": null
+        },
+        "options": {
+            "A": "3$$\\lambda$$",
+            "B": "9$$\\lambda$$",
+            "C": "5$$\\lambda$$",
+            "D": "4.5$$\\lambda$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse6cweq",
+        "question_number": 70,
+        "question_value": {
+            "text": "The refractive index of a prism with apex angle $$A$$ is $$\\cot A / 2$$. The angle of minimum deviation is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\delta_m=180^{\\circ}-3 \\mathrm{~A}$$",
+            "B": "$$\\delta_m=180^{\\circ}-4 A$$",
+            "C": "$$\\delta_m=180^{\\circ}-2 A$$",
+            "D": "$$\\delta_m=180^{\\circ}-A$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse6e2vu",
+        "question_number": 71,
+        "question_value": {
+            "text": "The fundamental frequency of a closed organ pipe is equal to the first overtone frequency of an open organ pipe. If length of the open pipe is $$60 \\mathrm{~cm}$$, the length of the closed pipe will be:",
+            "img_url": null
+        },
+        "options": {
+            "A": "15 cm",
+            "B": "60 cm",
+            "C": "45 cm",
+            "D": "30 cm"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lse6f47l",
+        "question_number": 72,
+        "question_value": {
+            "text": "If the wavelength of the first member of Lyman series of hydrogen is $$\\lambda$$. The wavelength of the second member will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{27}{5} \\lambda$$",
+            "B": "$$\\frac{5}{27} \\lambda$$",
+            "C": "$$\\frac{27}{32} \\lambda$$",
+            "D": "$$\\frac{32}{27} \\lambda$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse6gmkn",
+        "question_number": 73,
+        "question_value": {
+            "text": "A coil is places perpendicular to a magnetic field of $$5000 \\mathrm{~T}$$. When the field is changed to $$3000 \\mathrm{~T}$$ in $$2 \\mathrm{~s}$$, an induced emf of $$22 \\mathrm{~V}$$ is produced in the coil. If the diameter of the coil is $$0.02 \\mathrm{~m}$$, then the number of turns in the coil is:",
+            "img_url": null
+        },
+        "options": {
+            "A": "35",
+            "B": "70",
+            "C": "7",
+            "D": "140"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse6hrcw",
+        "question_number": 74,
+        "question_value": {
+            "text": "A coin is placed on a disc. The coefficient of friction between the coin and the disc is $$\\mu$$. If the distance of the coin from the center of the disc is $$r$$, the maximum angular velocity which can be given to the disc, so that the coin does not slip away, is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sqrt{\\frac{r}{\\mu g}}$$",
+            "B": "$$\\sqrt{\\frac{\\mu g}{r}}$$",
+            "C": "$$\\frac{\\mu g}{r}$$",
+            "D": "$$\\frac{\\mu}{\\sqrt{r g}}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse6jbrc",
+        "question_number": 75,
+        "question_value": {
+            "text": "Two conductors have the same resistances at $$0^{\\circ} \\mathrm{C}$$ but their temperature coefficients of resistance are $$\\alpha_1$$ and $$\\alpha_2$$. The respective temperature coefficients for their series and parallel combinations are :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\alpha_1+\\alpha_2, \\frac{\\alpha_1 \\alpha_2}{\\alpha_1+\\alpha_2}$$",
+            "B": "$$\\frac{\\alpha_1+\\alpha_2}{2}, \\frac{\\alpha_1+\\alpha_2}{2}$$",
+            "C": "$$\\alpha_1+\\alpha_2, \\frac{\\alpha_1+\\alpha_2}{2}$$",
+            "D": "$$\\frac{\\alpha_1+\\alpha_2}{2}, \\alpha_1+\\alpha_2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse6k1yn",
+        "question_number": 76,
+        "question_value": {
+            "text": "If the percentage errors in measuring the length and the diameter of a wire are $$0.1 \\%$$ each. The percentage error in measuring its resistance will be:",
+            "img_url": null
+        },
+        "options": {
+            "A": "0.144%",
+            "B": "0.2%",
+            "C": "0.1%",
+            "D": "0.3%"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lse6knig",
+        "question_number": 77,
+        "question_value": {
+            "text": "A small steel ball is dropped into a long cylinder containing glycerine. Which one of the following is the correct representation of the velocity time graph for the transit of the ball?",
+            "img_url": null
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsegk5m8/fe78d00f-024b-49c9-8f0d-067457052cd5/683f8e10-c72f-11ee-8cb5-7deab4010c9e/file-6y3zli1lsegk5m9.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsegk0s4/e6c8b7e5-f8aa-4b19-9a24-ea439f0eb2bf/6482fb40-c72f-11ee-8cb5-7deab4010c9e/file-6y3zli1lsegk0s5.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsegjwff/bcf0a48f-0019-419a-86c3-0d018f9f8f57/61263bb0-c72f-11ee-8cb5-7deab4010c9e/file-6y3zli1lsegjwfg.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsegjrw2/003562de-4396-4300-a4f4-b99a47faff85/5da4dd20-c72f-11ee-8cb5-7deab4010c9e/file-6y3zli1lsegjrw3.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse6nvzl",
+        "question_number": 79,
+        "question_value": {
+            "text": "In a plane EM wave, the electric field oscillates sinusoidally at a frequency of $$5 \\times 10^{10} \\mathrm{~Hz}$$ and an amplitude of $$50 \\mathrm{~Vm}^{-1}$$. The total average energy density of the electromagnetic field of the wave is : [Use $$\\varepsilon_0=8.85 \\times 10^{-12} \\mathrm{C}^2 / \\mathrm{Nm}^2$$ ]",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$4.425 \\times 10^{-8} \\mathrm{Jm}^{-3}$$",
+            "B": "$$2.212 \\times 10^{-10} \\mathrm{Jm}^{-3}$$",
+            "C": "$$2.212 \\times 10^{-8} \\mathrm{Jm}^{-3}$$",
+            "D": "$$1.106 \\times 10^{-8} \\mathrm{Jm}^{-3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lse6okbg",
+        "question_number": 80,
+        "question_value": {
+            "text": "Identify the logic operation performed by the given circuit.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lseglsgi/edeb27ee-3d02-4a53-8b9b-466305c49bf4/95b37320-c72f-11ee-8cb5-7deab4010c9e/file-6y3zli1lseglsgj.png?format=png"
+        },
+        "options": {
+            "A": "AND",
+            "B": "NOR",
+            "C": "OR",
+            "D": "NAND"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse6pfvb",
+        "question_number": 81,
+        "question_value": {
+            "text": "A solid circular disc of mass $$50 \\mathrm{~kg}$$ rolls along a horizontal floor so that its center of mass has a speed of $$0.4 \\mathrm{~m} / \\mathrm{s}$$. The absolute value of work done on the disc to stop it is ________ J.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 6.0
+    },
+    {
+        "qid": "jaoe38c1lse6qgul",
+        "question_number": 82,
+        "question_value": {
+            "text": "An electron moves through a uniform magnetic field $$\\vec{B}=B_0 \\hat{i}+2 B_0 \\hat{j} T$$. At a particular instant of time, the velocity of electron is $$\\vec{u}=3 \\hat{i}+5 \\hat{j} \\mathrm{~m} / \\mathrm{s}$$. If the magnetic force acting on electron is $$\\vec{F}=5 e \\hat{k} N$$, where $$e$$ is the charge of electron, then the value of $$B_0$$ is _________ $$T$$.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 5.0
+    },
+    {
+        "qid": "jaoe38c1lse6r6dd",
+        "question_number": 83,
+        "question_value": {
+            "text": "A parallel plate capacitor with plate separation $$5 \\mathrm{~mm}$$ is charged up by a battery. It is found that on introducing a dielectric sheet of thickness $$2 \\mathrm{~mm}$$, while keeping the battery connections intact, the capacitor draws $$25 \\%$$ more charge from the battery than before. The dielectric constant of the sheet is _________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse6sd4s",
+        "question_number": 84,
+        "question_value": {
+            "text": "The depth below the surface of sea to which a rubber ball be taken so as to decrease its volume by $$0.02 \\%$$ is _______ $$m$$.(Take density of sea water $$=10^3 \\mathrm{kgm}^{-3}$$, Bulk modulus of rubber $$=9 \\times 10^8 \\mathrm{~Nm}^{-2}$$, and $$g=10 \\mathrm{~ms}^{-2}$$)",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 18.0
+    },
+    {
+        "qid": "jaoe38c1lse6t7e4",
+        "question_number": 85,
+        "question_value": {
+            "text": "A body starts falling freely from height $$H$$ hits an inclined plane in its path at height $$h$$. As a result of this perfectly elastic impact, the direction of the velocity of the body becomes horizontal. The value of $$\\frac{H}{h}$$ for which the body will take the maximum time to reach the ground is __________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lse6u1qm",
+        "question_number": 86,
+        "question_value": {
+            "text": "A particle performs simple harmonic motion with amplitude $$A$$. Its speed is increased to three times at an instant when its displacement is $$\\frac{2 A}{3}$$. The new amplitude of motion is $$\\frac{n A}{3}$$. The value of $$n$$ is ___________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 7.0
+    },
+    {
+        "qid": "jaoe38c1lse6vfvg",
+        "question_number": 87,
+        "question_value": {
+            "text": "The mass defect in a particular reaction is $$0.4 \\mathrm{~g}$$. The amount of energy liberated is $$n \\times 10^7 \\mathrm{~kWh}$$, where $$n=$$ __________. (speed of light $$\\left.=3 \\times 10^8 \\mathrm{~m} / \\mathrm{s}\\right)$$",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse6wdsx",
+        "question_number": 88,
+        "question_value": {
+            "text": "A small square loop of wire of side $$l$$ is placed inside a large square loop of wire of side $$L\\left(L=l^2\\right)$$. The loops are coplanar and their centers coincide. The value of the mutual inductance of the system is $$\\sqrt{x} \\times 10^{-7} \\mathrm{H}$$, where $$x=$$ _________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 128.0
+    },
+    {
+        "qid": "jaoe38c1lse6x19d",
+        "question_number": 89,
+        "question_value": {
+            "text": "Equivalent resistance of the following network is __________ $$\\Omega$$.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsegnh7a/89c3eced-5a26-4f76-a1e2-ac020df0f905/c49fc760-c72f-11ee-8cb5-7deab4010c9e/file-6y3zli1lsegnh7b.png?format=png"
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lse6y2to",
+        "question_number": 90,
+        "question_value": {
+            "text": "Two waves of intensity ratio $$1: 9$$ cross each other at a point. The resultant intensities at that point, when (a) Waves are incoherent is $$I_1$$ (b) Waves are coherent is $$I_2$$ and differ in phase by $$60^{\\circ}$$. If $$\\frac{I_1}{I_2}=\\frac{10}{x}$$ then $$x=$$ _________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 13.0
+    }
+]

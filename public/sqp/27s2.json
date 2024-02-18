@@ -2,7 +2,10 @@
     {
         "qid": "jaoe38c1lscqbsh5",
         "question_number": 1,
-        "question_value": "Identity the incorrect pair from the following :",
+        "question_value": {
+            "text": "Identity the incorrect pair from the following :",
+            "img_url": null
+        },
         "options": {
             "A": "Haber process - Iron",
             "B": "Polythene preparation - $$\\mathrm{TiCl}_4, \\mathrm{Al}\\left(\\mathrm{CH}_3\\right)_3$$",
@@ -15,7 +18,10 @@
     {
         "qid": "jaoe38c1lscqdzy7",
         "question_number": 3,
-        "question_value": "Major product formed in the following reaction is a mixture of :",
+        "question_value": {
+            "text": "Major product formed in the following reaction is a mixture of :",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsd2hvy1/36cead5c-3233-4d45-b124-639127bd9abd/a0b34e90-c66b-11ee-9e75-ed145f26bf63/file-6y3zli1lsd2hvy2.png?format=png"
+        },
         "options": {
             "A": {
                 "text": null,
@@ -40,7 +46,10 @@
     {
         "qid": "jaoe38c1lscqgzqj",
         "question_number": 5,
-        "question_value": "The technique used for purification of steam volatile water immiscible substances is :",
+        "question_value": {
+            "text": "The technique used for purification of steam volatile water immiscible substances is :",
+            "img_url": null
+        },
         "options": {
             "A": "Fractional distillation",
             "B": "Distillation",
@@ -53,7 +62,10 @@
     {
         "qid": "jaoe38c1lscqhxvw",
         "question_number": 6,
-        "question_value": "Which structure of protein remains intact after coagulation of egg white on boiling?",
+        "question_value": {
+            "text": "Which structure of protein remains intact after coagulation of egg white on boiling?",
+            "img_url": null
+        },
         "options": {
             "A": "Quaternary",
             "B": "Primary",
@@ -66,7 +78,10 @@
     {
         "qid": "jaoe38c1lscrbrsx",
         "question_number": 8,
-        "question_value": "Identify from the following species in which $$\\mathrm{d}^2 \\mathrm{sp}^3$$ hybridization is shown by central atom :",
+        "question_value": {
+            "text": "Identify from the following species in which $$\\mathrm{d}^2 \\mathrm{sp}^3$$ hybridization is shown by central atom :",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\left[\\mathrm{Co}\\left(\\mathrm{NH}_3\\right)_6\\right]^{3+}$$",
             "B": "$$\\mathrm{SF}_6$$",
@@ -79,7 +94,10 @@
     {
         "qid": "jaoe38c1lscrdfwx",
         "question_number": 9,
-        "question_value": "Phenolic group can be identified by a positive:",
+        "question_value": {
+            "text": "Phenolic group can be identified by a positive:",
+            "img_url": null
+        },
         "options": {
             "A": "Tollen's test",
             "B": "Phthalein dye test",
@@ -92,7 +110,10 @@
     {
         "qid": "jaoe38c1lscrpjrl",
         "question_number": 12,
-        "question_value": "Which of the following statements is not correct about rusting of iron?",
+        "question_value": {
+            "text": "Which of the following statements is not correct about rusting of iron?",
+            "img_url": null
+        },
         "options": {
             "A": "Rusting of iron is envisaged as setting up of electrochemical cell on the surface of iron object.",
             "B": "Dissolved acidic oxides $$\\mathrm{SO}_2, \\mathrm{NO}_2$$ in water act as catalyst in the process of rusting.",
@@ -105,7 +126,10 @@
     {
         "qid": "jaoe38c1lscrqpvw",
         "question_number": 13,
-        "question_value": "Which of the following cannot function as an oxidising agent?",
+        "question_value": {
+            "text": "Which of the following cannot function as an oxidising agent?",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\mathrm{SO}_4^{2-}$$",
             "B": "$$\\mathrm{MnO}_4^{-}$$",
@@ -118,7 +142,10 @@
     {
         "qid": "jaoe38c1lscruebh",
         "question_number": 15,
-        "question_value": "Choose the correct option having all the elements with $$\\mathrm{d}^{10}$$ electronic configuration from the following :",
+        "question_value": {
+            "text": "Choose the correct option having all the elements with $$\\mathrm{d}^{10}$$ electronic configuration from the following :",
+            "img_url": null
+        },
         "options": {
             "A": "$${ }^{46} \\mathrm{Pd},{ }^{28} \\mathrm{Ni},{ }^{26} \\mathrm{Fe},{ }^{24} \\mathrm{Cr}$$",
             "B": "$${ }^{29} \\mathrm{Cu},{ }^{30} \\mathrm{Zn},{ }^{48} \\mathrm{Cd},{ }^{47} \\mathrm{Ag}$$",
@@ -131,7 +158,10 @@
     {
         "qid": "jaoe38c1lscrvirz",
         "question_number": 16,
-        "question_value": "The incorrect statement regarding conformations of ethane is :",
+        "question_value": {
+            "text": "The incorrect statement regarding conformations of ethane is :",
+            "img_url": null
+        },
         "options": {
             "A": "The dihedral angle in staggered conformation is $$60^{\\circ}$$.",
             "B": "Ethane has infinite number of conformations.",
@@ -144,7 +174,10 @@
     {
         "qid": "jaoe38c1lscrx897",
         "question_number": 17,
-        "question_value": "The final product A, formed in the following reaction sequence is:",
+        "question_value": {
+            "text": "The final product A, formed in the following reaction sequence is:",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsd354zi/a9eedbd2-9454-49e3-acd9-0641e32853eb/274b69e0-c66e-11ee-9e75-ed145f26bf63/file-6y3zli1lsd354zj.png?format=png"
+        },
         "options": {
             "A": {
                 "text": null,
@@ -163,7 +196,10 @@
     {
         "qid": "jaoe38c1lscrxwbc",
         "question_number": 18,
-        "question_value": "Bond line formula of HOCH(CN)$$_2$$ is :",
+        "question_value": {
+            "text": "Bond line formula of HOCH(CN)$$_2$$ is :",
+            "img_url": null
+        },
         "options": {
             "A": {
                 "text": null,
@@ -188,7 +224,10 @@
     {
         "qid": "jaoe38c1lscryk9k",
         "question_number": 19,
-        "question_value": "The quantity which changes with temperature is :",
+        "question_value": {
+            "text": "The quantity which changes with temperature is :",
+            "img_url": null
+        },
         "options": {
             "A": "Molality",
             "B": "Molarity",
@@ -201,7 +240,10 @@
     {
         "qid": "jaoe38c1lscrzydm",
         "question_number": 20,
-        "question_value": "The molecular formula of second homologue in the homologous series of mono carboxylic acids is",
+        "question_value": {
+            "text": "The molecular formula of second homologue in the homologous series of mono carboxylic acids is",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\mathrm{C}_2 \\mathrm{H}_4 \\mathrm{O}_2$$",
             "B": "$$\\mathrm{C}_2 \\mathrm{H}_2 \\mathrm{O}_2$$",
@@ -214,7 +256,10 @@
     {
         "qid": "jaoe38c1lscs2ec1",
         "question_number": 21,
-        "question_value": "1 mole of $$\\mathrm{PbS}$$ is oxidised by \"$$\\mathrm{X}$$\" moles of $$\\mathrm{O}_3$$ to get \"$$\\mathrm{Y}$$\" moles of $$\\mathrm{O}_2$$. $$\\mathrm{X}+\\mathrm{Y}=$$ _________.",
+        "question_value": {
+            "text": "1 mole of $$\\mathrm{PbS}$$ is oxidised by \"$$\\mathrm{X}$$\" moles of $$\\mathrm{O}_3$$ to get \"$$\\mathrm{Y}$$\" moles of $$\\mathrm{O}_2$$. $$\\mathrm{X}+\\mathrm{Y}=$$ _________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 8.0
@@ -222,7 +267,10 @@
     {
         "qid": "jaoe38c1lscs47pm",
         "question_number": 22,
-        "question_value": "The Spin only magnetic moment value of square planar complex $$\\left[\\mathrm{Pt}\\left(\\mathrm{NH}_3\\right)_2 \\mathrm{Cl}\\left(\\mathrm{NH}_2 \\mathrm{CH}_3\\right)\\right] \\mathrm{Cl}$$ is _________ B.M. (Nearest integer)(Given atomic number for $$\\mathrm{Pt}=78$$)",
+        "question_value": {
+            "text": "The Spin only magnetic moment value of square planar complex $$\\left[\\mathrm{Pt}\\left(\\mathrm{NH}_3\\right)_2 \\mathrm{Cl}\\left(\\mathrm{NH}_2 \\mathrm{CH}_3\\right)\\right] \\mathrm{Cl}$$ is _________ B.M. (Nearest integer)(Given atomic number for $$\\mathrm{Pt}=78$$)",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 0.0
@@ -230,7 +278,10 @@
     {
         "qid": "jaoe38c1lscs5lq4",
         "question_number": 23,
-        "question_value": "Total number of compounds with Chiral carbon atoms from following is _________.",
+        "question_value": {
+            "text": "Total number of compounds with Chiral carbon atoms from following is _________.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsd3av21/56172f77-c528-4b5e-b660-83ff9e740831/c67a9a90-c66e-11ee-9e75-ed145f26bf63/file-6y3zli1lsd3av22.png?format=png"
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 5.0
@@ -238,7 +289,10 @@
     {
         "qid": "jaoe38c1lscs6fle",
         "question_number": 24,
-        "question_value": "Time required for completion of $$99.9 \\%$$ of a First order reaction is ________ times of half life $$\\left(t_{1 / 2}\\right)$$ of the reaction.",
+        "question_value": {
+            "text": "Time required for completion of $$99.9 \\%$$ of a First order reaction is ________ times of half life $$\\left(t_{1 / 2}\\right)$$ of the reaction.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 10.0
@@ -246,7 +300,10 @@
     {
         "qid": "jaoe38c1lscs7q96",
         "question_number": 25,
-        "question_value": "The hydrogen electrode is dipped in a solution of $$\\mathrm{pH}=3$$ at $$25^{\\circ} \\mathrm{C}$$. The potential of the electrode will be _________ $$\\times 10^{-2} \\mathrm{~V}$$.$$\\left(\\frac{2.303 \\mathrm{RT}}{\\mathrm{F}}=0.059 \\mathrm{~V}\\right)$$",
+        "question_value": {
+            "text": "The hydrogen electrode is dipped in a solution of $$\\mathrm{pH}=3$$ at $$25^{\\circ} \\mathrm{C}$$. The potential of the electrode will be _________ $$\\times 10^{-2} \\mathrm{~V}$$.$$\\left(\\frac{2.303 \\mathrm{RT}}{\\mathrm{F}}=0.059 \\mathrm{~V}\\right)$$",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 18.0
@@ -254,7 +311,10 @@
     {
         "qid": "jaoe38c1lscs8hzs",
         "question_number": 26,
-        "question_value": "The number of non-polar molecules from the following is _________. $$\\mathrm{HF}, \\mathrm{H}_2 \\mathrm{O}, \\mathrm{SO}_2, \\mathrm{H}_2, \\mathrm{CO}_2, \\mathrm{CH}_4, \\mathrm{NH}_3, \\mathrm{HCl}, \\mathrm{CHCl}_3, \\mathrm{BF}_3$$",
+        "question_value": {
+            "text": "The number of non-polar molecules from the following is _________. $$\\mathrm{HF}, \\mathrm{H}_2 \\mathrm{O}, \\mathrm{SO}_2, \\mathrm{H}_2, \\mathrm{CO}_2, \\mathrm{CH}_4, \\mathrm{NH}_3, \\mathrm{HCl}, \\mathrm{CHCl}_3, \\mathrm{BF}_3$$",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 4.0
@@ -262,7 +322,10 @@
     {
         "qid": "jaoe38c1lscsaedn",
         "question_number": 27,
-        "question_value": "$$9.3 \\mathrm{~g}$$ of aniline is subjected to reaction with excess of acetic anhydride to prepare acetanilide. The mass of acetanilide produced if the reaction is $$100 \\%$$ completed is _________ $$\\times 10^{-1} \\mathrm{~g}$$.(Given molar mass in $$\\mathrm{g} \\mathrm{~mol}^{-1}$$$$\\begin{aligned}\n& \\mathrm{N}: 14, \\mathrm{O}: 16, \\\\\n& \\mathrm{C}: 12, \\mathrm{H}: 1 \\text { ) }\n\\end{aligned}$$",
+        "question_value": {
+            "text": "$$9.3 \\mathrm{~g}$$ of aniline is subjected to reaction with excess of acetic anhydride to prepare acetanilide. The mass of acetanilide produced if the reaction is $$100 \\%$$ completed is _________ $$\\times 10^{-1} \\mathrm{~g}$$.(Given molar mass in $$\\mathrm{g} \\mathrm{~mol}^{-1}$$$$\\begin{aligned}\n& \\mathrm{N}: 14, \\mathrm{O}: 16, \\\\\n& \\mathrm{C}: 12, \\mathrm{H}: 1 \\text { ) }\n\\end{aligned}$$",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 135.0
@@ -270,7 +333,10 @@
     {
         "qid": "jaoe38c1lscsbmyf",
         "question_number": 28,
-        "question_value": "Volume of $$3 \\mathrm{M} \\mathrm{~NaOH}$$ (formula weight $$40 \\mathrm{~g} \\mathrm{~mol}^{-1}$$ ) which can be prepared from $$84 \\mathrm{~g}$$ of $$\\mathrm{NaOH}$$ is __________ $$\\times 10^{-1} \\mathrm{dm}^3$$.",
+        "question_value": {
+            "text": "Volume of $$3 \\mathrm{M} \\mathrm{~NaOH}$$ (formula weight $$40 \\mathrm{~g} \\mathrm{~mol}^{-1}$$ ) which can be prepared from $$84 \\mathrm{~g}$$ of $$\\mathrm{NaOH}$$ is __________ $$\\times 10^{-1} \\mathrm{dm}^3$$.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 7.0
@@ -278,7 +344,10 @@
     {
         "qid": "jaoe38c1lscscn43",
         "question_number": 29,
-        "question_value": "Total number of ions from the following with noble gas configuration is _________. $$\\mathrm{Sr}^{2+}(z=38), \\mathrm{Cs}^{+}(z=55), \\mathrm{La}^{2+}(z=57), \\mathrm{Pb}^{2+}(z=82), \\mathrm{Yb}^{2+}(z=70)$$ and $$\\mathrm{Fe}^{2+}(z=26)$$",
+        "question_value": {
+            "text": "Total number of ions from the following with noble gas configuration is _________. $$\\mathrm{Sr}^{2+}(z=38), \\mathrm{Cs}^{+}(z=55), \\mathrm{La}^{2+}(z=57), \\mathrm{Pb}^{2+}(z=82), \\mathrm{Yb}^{2+}(z=70)$$ and $$\\mathrm{Fe}^{2+}(z=26)$$",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 3.0
@@ -286,7 +355,10 @@
     {
         "qid": "jaoe38c1lscse7ge",
         "question_number": 30,
-        "question_value": "For a certain thermochemical reaction $$\\mathrm{M} \\rightarrow \\mathrm{N}$$ at $$\\mathrm{T}=400 \\mathrm{~K}, \\Delta \\mathrm{H}^{\\ominus}=77.2 \\mathrm{~kJ} \\mathrm{~mol}^{-1}, \\Delta \\mathrm{S}=122 \\mathrm{~JK}^{-1}, \\log$$ equilibrium constant $$(\\log K)$$ is __________ $$\\times 10^{-1}$$.",
+        "question_value": {
+            "text": "For a certain thermochemical reaction $$\\mathrm{M} \\rightarrow \\mathrm{N}$$ at $$\\mathrm{T}=400 \\mathrm{~K}, \\Delta \\mathrm{H}^{\\ominus}=77.2 \\mathrm{~kJ} \\mathrm{~mol}^{-1}, \\Delta \\mathrm{S}=122 \\mathrm{~JK}^{-1}, \\log$$ equilibrium constant $$(\\log K)$$ is __________ $$\\times 10^{-1}$$.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 37.0
@@ -294,7 +366,10 @@
     {
         "qid": "jaoe38c1lscmv27h",
         "question_number": 31,
-        "question_value": "Considering only the principal values of inverse trigonometric functions, the number of positive real values of $$x$$ satisfying $$\\tan ^{-1}(x)+\\tan ^{-1}(2 x)=\\frac{\\pi}{4}$$ is :",
+        "question_value": {
+            "text": "Considering only the principal values of inverse trigonometric functions, the number of positive real values of $$x$$ satisfying $$\\tan ^{-1}(x)+\\tan ^{-1}(2 x)=\\frac{\\pi}{4}$$ is :",
+            "img_url": null
+        },
         "options": {
             "A": "more than 2",
             "B": "2",
@@ -307,7 +382,10 @@
     {
         "qid": "jaoe38c1lscmwyjl",
         "question_number": 32,
-        "question_value": "Let the position vectors of the vertices $$\\mathrm{A}, \\mathrm{B}$$ and $$\\mathrm{C}$$ of a triangle be $$2 \\hat{i}+2 \\hat{j}+\\hat{k}, \\hat{i}+2 \\hat{j}+2 \\hat{k}$$ and $$2 \\hat{i}+\\hat{j}+2 \\hat{k}$$ respectively. Let $$l_1, l_2$$ and $$l_3$$ be the lengths of perpendiculars drawn from the ortho center of the triangle on the sides $$\\mathrm{AB}, \\mathrm{BC}$$ and $$\\mathrm{CA}$$ respectively, then $$l_1^2+l_2^2+l_3^2$$ equals:",
+        "question_value": {
+            "text": "Let the position vectors of the vertices $$\\mathrm{A}, \\mathrm{B}$$ and $$\\mathrm{C}$$ of a triangle be $$2 \\hat{i}+2 \\hat{j}+\\hat{k}, \\hat{i}+2 \\hat{j}+2 \\hat{k}$$ and $$2 \\hat{i}+\\hat{j}+2 \\hat{k}$$ respectively. Let $$l_1, l_2$$ and $$l_3$$ be the lengths of perpendiculars drawn from the ortho center of the triangle on the sides $$\\mathrm{AB}, \\mathrm{BC}$$ and $$\\mathrm{CA}$$ respectively, then $$l_1^2+l_2^2+l_3^2$$ equals:",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\frac{1}{4}$$",
             "B": "$$\\frac{1}{5}$$",
@@ -320,7 +398,10 @@
     {
         "qid": "jaoe38c1lscn03is",
         "question_number": 33,
-        "question_value": "Consider the function $$f:(0,2) \\rightarrow \\mathbf{R}$$ defined by $$f(x)=\\frac{x}{2}+\\frac{2}{x}$$ and the function $$g(x)$$ defined by$$g(x)=\\left\\{\\begin{array}{ll}\n\\min \\lfloor f(t)\\}, & 0<\\mathrm{t} \\leq x \\text { and } 0 < x \\leq 1 \\\\\n\\frac{3}{2}+x, & 1 < x < 2\n\\end{array} .\\right. \\text { Then, }$$",
+        "question_value": {
+            "text": "Consider the function $$f:(0,2) \\rightarrow \\mathbf{R}$$ defined by $$f(x)=\\frac{x}{2}+\\frac{2}{x}$$ and the function $$g(x)$$ defined by$$g(x)=\\left\\{\\begin{array}{ll}\n\\min \\lfloor f(t)\\}, & 0<\\mathrm{t} \\leq x \\text { and } 0 < x \\leq 1 \\\\\n\\frac{3}{2}+x, & 1 < x < 2\n\\end{array} .\\right. \\text { Then, }$$",
+            "img_url": null
+        },
         "options": {
             "A": "$$g$$ is continuous but not differentiable at $$x=1$$",
             "B": "$$g$$ is continuous and differentiable for all $$x \\in(0,2)$$",
@@ -333,7 +414,10 @@
     {
         "qid": "jaoe38c1lscn159w",
         "question_number": 34,
-        "question_value": "An urn contains 6 white and 9 black balls. Two successive draws of 4 balls are made without replacement. The probability, that the first draw gives all white balls and the second draw gives all black balls, is :",
+        "question_value": {
+            "text": "An urn contains 6 white and 9 black balls. Two successive draws of 4 balls are made without replacement. The probability, that the first draw gives all white balls and the second draw gives all black balls, is :",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\frac{3}{256}$$",
             "B": "$$\\frac{5}{256}$$",
@@ -346,7 +430,10 @@
     {
         "qid": "jaoe38c1lscn35vz",
         "question_number": 35,
-        "question_value": "Let the image of the point $$(1,0,7)$$ in the line $$\\frac{x}{1}=\\frac{y-1}{2}=\\frac{z-2}{3}$$ be the point $$(\\alpha, \\beta, \\gamma)$$. Then which one of the following points lies on the line passing through $$(\\alpha, \\beta, \\gamma)$$ and making angles $$\\frac{2 \\pi}{3}$$ and $$\\frac{3 \\pi}{4}$$ with $$y$$-axis and $$z$$-axis respectively and an acute angle with $$x$$-axis ?",
+        "question_value": {
+            "text": "Let the image of the point $$(1,0,7)$$ in the line $$\\frac{x}{1}=\\frac{y-1}{2}=\\frac{z-2}{3}$$ be the point $$(\\alpha, \\beta, \\gamma)$$. Then which one of the following points lies on the line passing through $$(\\alpha, \\beta, \\gamma)$$ and making angles $$\\frac{2 \\pi}{3}$$ and $$\\frac{3 \\pi}{4}$$ with $$y$$-axis and $$z$$-axis respectively and an acute angle with $$x$$-axis ?",
+            "img_url": null
+        },
         "options": {
             "A": "$$(1,-2,1+\\sqrt{2})$$",
             "B": "$$(3,-4,3+2 \\sqrt{2})$$",
@@ -359,7 +446,10 @@
     {
         "qid": "jaoe38c1lscn4dk2",
         "question_number": 36,
-        "question_value": "Let $$A$$ and $$B$$ be two finite sets with $$m$$ and $$n$$ elements respectively. The total number of subsets of the set $$A$$ is 56 more than the total number of subsets of $$B$$. Then the distance of the point $$P(m, n)$$ from the point $$Q(-2,-3)$$ is :",
+        "question_value": {
+            "text": "Let $$A$$ and $$B$$ be two finite sets with $$m$$ and $$n$$ elements respectively. The total number of subsets of the set $$A$$ is 56 more than the total number of subsets of $$B$$. Then the distance of the point $$P(m, n)$$ from the point $$Q(-2,-3)$$ is :",
+            "img_url": null
+        },
         "options": {
             "A": "8",
             "B": "10",
@@ -372,7 +462,10 @@
     {
         "qid": "jaoe38c1lscn5p78",
         "question_number": 37,
-        "question_value": "If $$\\alpha, \\beta$$ are the roots of the equation, $$x^2-x-1=0$$ and $$S_n=2023 \\alpha^n+2024 \\beta^n$$, then :",
+        "question_value": {
+            "text": "If $$\\alpha, \\beta$$ are the roots of the equation, $$x^2-x-1=0$$ and $$S_n=2023 \\alpha^n+2024 \\beta^n$$, then :",
+            "img_url": null
+        },
         "options": {
             "A": "$$2 S_{12}=S_{11}+S_{10}$$",
             "B": "$$S_{12}=S_{11}+S_{10}$$",
@@ -385,7 +478,10 @@
     {
         "qid": "jaoe38c1lscn7o5t",
         "question_number": 38,
-        "question_value": "Let $$e_1$$ be the eccentricity of the hyperbola $$\\frac{x^2}{16}-\\frac{y^2}{9}=1$$ and $$e_2$$ be the eccentricity of the ellipse $$\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1, \\mathrm{a} > \\mathrm{b}$$, which passes through the foci of the hyperbola. If $$\\mathrm{e}_1 \\mathrm{e}_2=1$$, then the length of the chord of the ellipse parallel to the $$x$$-axis and passing through $$(0,2)$$ is :",
+        "question_value": {
+            "text": "Let $$e_1$$ be the eccentricity of the hyperbola $$\\frac{x^2}{16}-\\frac{y^2}{9}=1$$ and $$e_2$$ be the eccentricity of the ellipse $$\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1, \\mathrm{a} > \\mathrm{b}$$, which passes through the foci of the hyperbola. If $$\\mathrm{e}_1 \\mathrm{e}_2=1$$, then the length of the chord of the ellipse parallel to the $$x$$-axis and passing through $$(0,2)$$ is :",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\frac{8 \\sqrt{5}}{3}$$",
             "B": "$$3 \\sqrt{5}$$",
@@ -398,7 +494,10 @@
     {
         "qid": "jaoe38c1lscn8k0e",
         "question_number": 39,
-        "question_value": "$$\\text { The } 20^{\\text {th }} \\text { term from the end of the progression } 20,19 \\frac{1}{4}, 18 \\frac{1}{2}, 17 \\frac{3}{4}, \\ldots,-129 \\frac{1}{4} \\text { is : }$$",
+        "question_value": {
+            "text": "$$\\text { The } 20^{\\text {th }} \\text { term from the end of the progression } 20,19 \\frac{1}{4}, 18 \\frac{1}{2}, 17 \\frac{3}{4}, \\ldots,-129 \\frac{1}{4} \\text { is : }$$",
+            "img_url": null
+        },
         "options": {
             "A": "$$-115$$",
             "B": "$$-100$$",
@@ -411,7 +510,10 @@
     {
         "qid": "jaoe38c1lscna9if",
         "question_number": 40,
-        "question_value": "Let $$f: \\mathbf{R}-\\left\\{\\frac{-1}{2}\\right\\} \\rightarrow \\mathbf{R}$$ and $$g: \\mathbf{R}-\\left\\{\\frac{-5}{2}\\right\\} \\rightarrow \\mathbf{R}$$ be defined as $$f(x)=\\frac{2 x+3}{2 x+1}$$ and $$g(x)=\\frac{|x|+1}{2 x+5}$$. Then, the domain of the function fog is :",
+        "question_value": {
+            "text": "Let $$f: \\mathbf{R}-\\left\\{\\frac{-1}{2}\\right\\} \\rightarrow \\mathbf{R}$$ and $$g: \\mathbf{R}-\\left\\{\\frac{-5}{2}\\right\\} \\rightarrow \\mathbf{R}$$ be defined as $$f(x)=\\frac{2 x+3}{2 x+1}$$ and $$g(x)=\\frac{|x|+1}{2 x+5}$$. Then, the domain of the function fog is :",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\mathbf{R}-\\left\\{-\\frac{7}{4}\\right\\}$$",
             "B": "$$\\mathbf{R}$$",
@@ -424,7 +526,10 @@
     {
         "qid": "jaoe38c1lscnb2gp",
         "question_number": 41,
-        "question_value": "$$\\text { If } \\lim _\\limits{x \\rightarrow 0} \\frac{3+\\alpha \\sin x+\\beta \\cos x+\\log _e(1-x)}{3 \\tan ^2 x}=\\frac{1}{3} \\text {, then } 2 \\alpha-\\beta \\text { is equal to : }$$",
+        "question_value": {
+            "text": "$$\\text { If } \\lim _\\limits{x \\rightarrow 0} \\frac{3+\\alpha \\sin x+\\beta \\cos x+\\log _e(1-x)}{3 \\tan ^2 x}=\\frac{1}{3} \\text {, then } 2 \\alpha-\\beta \\text { is equal to : }$$",
+            "img_url": null
+        },
         "options": {
             "A": "2",
             "B": "1",
@@ -437,7 +542,10 @@
     {
         "qid": "jaoe38c1lscnd6h3",
         "question_number": 42,
-        "question_value": "If $$y=y(x)$$ is the solution curve of the differential equation $$\\left(x^2-4\\right) \\mathrm{d} y-\\left(y^2-3 y\\right) \\mathrm{d} x=0, x>2, y(4)=\\frac{3}{2}$$ and the slope of the curve is never zero, then the value of $$y(10)$$ equals :",
+        "question_value": {
+            "text": "If $$y=y(x)$$ is the solution curve of the differential equation $$\\left(x^2-4\\right) \\mathrm{d} y-\\left(y^2-3 y\\right) \\mathrm{d} x=0, x>2, y(4)=\\frac{3}{2}$$ and the slope of the curve is never zero, then the value of $$y(10)$$ equals :",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\frac{3}{1+(8)^{1 / 4}}$$",
             "B": "$$\\frac{3}{1-(8)^{1 / 4}}$$",
@@ -450,7 +558,10 @@
     {
         "qid": "jaoe38c1lscnfni9",
         "question_number": 43,
-        "question_value": "If $$2 \\tan ^2 \\theta-5 \\sec \\theta=1$$ has exactly 7 solutions in the interval $$\\left[0, \\frac{n \\pi}{2}\\right]$$, for the least value of $$n \\in \\mathbf{N}$$, then $$\\sum_\\limits{k=1}^n \\frac{k}{2^k}$$ is equal to:",
+        "question_value": {
+            "text": "If $$2 \\tan ^2 \\theta-5 \\sec \\theta=1$$ has exactly 7 solutions in the interval $$\\left[0, \\frac{n \\pi}{2}\\right]$$, for the least value of $$n \\in \\mathbf{N}$$, then $$\\sum_\\limits{k=1}^n \\frac{k}{2^k}$$ is equal to:",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\frac{1}{2^{14}}\\left(2^{15}-15\\right)$$",
             "B": "$$1-\\frac{15}{2^{13}}$$",
@@ -463,7 +574,10 @@
     {
         "qid": "jaoe38c1lscngs3o",
         "question_number": 44,
-        "question_value": "Let $$g(x)=3 f\\left(\\frac{x}{3}\\right)+f(3-x)$$ and $$f^{\\prime \\prime}(x)>0$$ for all $$x \\in(0,3)$$. If $$g$$ is decreasing in $$(0, \\alpha)$$ and increasing in $$(\\alpha, 3)$$, then $$8 \\alpha$$ is :",
+        "question_value": {
+            "text": "Let $$g(x)=3 f\\left(\\frac{x}{3}\\right)+f(3-x)$$ and $$f^{\\prime \\prime}(x)>0$$ for all $$x \\in(0,3)$$. If $$g$$ is decreasing in $$(0, \\alpha)$$ and increasing in $$(\\alpha, 3)$$, then $$8 \\alpha$$ is :",
+            "img_url": null
+        },
         "options": {
             "A": "0",
             "B": "24",
@@ -476,7 +590,10 @@
     {
         "qid": "jaoe38c1lscnigca",
         "question_number": 45,
-        "question_value": "Let $$\\mathrm{R}$$ be the interior region between the lines $$3 x-y+1=0$$ and $$x+2 y-5=0$$ containing the origin. The set of all values of $$a$$, for which the points $$\\left(a^2, a+1\\right)$$ lie in $$R$$, is :",
+        "question_value": {
+            "text": "Let $$\\mathrm{R}$$ be the interior region between the lines $$3 x-y+1=0$$ and $$x+2 y-5=0$$ containing the origin. The set of all values of $$a$$, for which the points $$\\left(a^2, a+1\\right)$$ lie in $$R$$, is :",
+            "img_url": null
+        },
         "options": {
             "A": "$$(-3,0) \\cup\\left(\\frac{2}{3}, 1\\right)$$",
             "B": "$$(-3,0) \\cup\\left(\\frac{1}{3}, 1\\right)$$",
@@ -489,7 +606,10 @@
     {
         "qid": "jaoe38c1lscnqca5",
         "question_number": 46,
-        "question_value": "Let $$\\alpha=\\frac{(4 !) !}{(4 !)^{3 !}}$$ and $$\\beta=\\frac{(5 !) !}{(5 !)^{4 !}}$$. Then :",
+        "question_value": {
+            "text": "Let $$\\alpha=\\frac{(4 !) !}{(4 !)^{3 !}}$$ and $$\\beta=\\frac{(5 !) !}{(5 !)^{4 !}}$$. Then :",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\alpha \\in \\mathbf{N}$$ and $$\\beta \\in \\mathbf{N}$$",
             "B": "$$\\alpha \\in \\mathbf{N}$$ and $$\\beta \\notin \\mathbf{N}$$",
@@ -502,7 +622,10 @@
     {
         "qid": "jaoe38c1lscnrzev",
         "question_number": 47,
-        "question_value": "$$\\text { The integral } \\int \\frac{\\left(x^8-x^2\\right) \\mathrm{d} x}{\\left(x^{12}+3 x^6+1\\right) \\tan ^{-1}\\left(x^3+\\frac{1}{x^3}\\right)} \\text { is equal to : }$$",
+        "question_value": {
+            "text": "$$\\text { The integral } \\int \\frac{\\left(x^8-x^2\\right) \\mathrm{d} x}{\\left(x^{12}+3 x^6+1\\right) \\tan ^{-1}\\left(x^3+\\frac{1}{x^3}\\right)} \\text { is equal to : }$$",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\log _{\\mathrm{e}}\\left(\\left|\\tan ^{-1}\\left(x^3+\\frac{1}{x^3}\\right)\\right|\\right)^{1 / 3}+\\mathrm{C}$$",
             "B": "$$\\log _{\\mathrm{e}}\\left(\\left|\\tan ^{-1}\\left(x^3+\\frac{1}{x^3}\\right)\\right|\\right)+\\mathrm{C}$$",
@@ -515,7 +638,10 @@
     {
         "qid": "jaoe38c1lscntluu",
         "question_number": 48,
-        "question_value": "The values of $$\\alpha$$, for which $$\\left|\\begin{array}{ccc}1 & \\frac{3}{2} & \\alpha+\\frac{3}{2} \\\\ 1 & \\frac{1}{3} & \\alpha+\\frac{1}{3} \\\\ 2 \\alpha+3 & 3 \\alpha+1 & 0\\end{array}\\right|=0$$, lie in the interval",
+        "question_value": {
+            "text": "The values of $$\\alpha$$, for which $$\\left|\\begin{array}{ccc}1 & \\frac{3}{2} & \\alpha+\\frac{3}{2} \\\\ 1 & \\frac{1}{3} & \\alpha+\\frac{1}{3} \\\\ 2 \\alpha+3 & 3 \\alpha+1 & 0\\end{array}\\right|=0$$, lie in the interval",
+            "img_url": null
+        },
         "options": {
             "A": "$$(-2,1)$$",
             "B": "$$\\left(-\\frac{3}{2}, \\frac{3}{2}\\right)$$",
@@ -528,7 +654,10 @@
     {
         "qid": "jaoe38c1lscnv0ux",
         "question_number": 49,
-        "question_value": "For $$0 < \\mathrm{a} < 1$$, the value of the integral $$\\int_\\limits0^\\pi \\frac{\\mathrm{d} x}{1-2 \\mathrm{a} \\cos x+\\mathrm{a}^2}$$ is :",
+        "question_value": {
+            "text": "For $$0 < \\mathrm{a} < 1$$, the value of the integral $$\\int_\\limits0^\\pi \\frac{\\mathrm{d} x}{1-2 \\mathrm{a} \\cos x+\\mathrm{a}^2}$$ is :",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\frac{\\pi^2}{\\pi+a^2}$$",
             "B": "$$\\frac{\\pi^2}{\\pi-a^2}$$",
@@ -541,7 +670,10 @@
     {
         "qid": "jaoe38c1lsco116r",
         "question_number": 50,
-        "question_value": "The position vectors of the vertices $$\\mathrm{A}, \\mathrm{B}$$ and $$\\mathrm{C}$$ of a triangle are $$2 \\hat{i}-3 \\hat{j}+3 \\hat{k}, 2 \\hat{i}+2 \\hat{j}+3 \\hat{k}$$ and $$-\\hat{i}+\\hat{j}+3 \\hat{k}$$ respectively. Let $$l$$ denotes the length of the angle bisector $$\\mathrm{AD}$$ of $$\\angle \\mathrm{BAC}$$ where $$\\mathrm{D}$$ is on the line segment $$\\mathrm{BC}$$, then $$2 l^2$$ equals :",
+        "question_value": {
+            "text": "The position vectors of the vertices $$\\mathrm{A}, \\mathrm{B}$$ and $$\\mathrm{C}$$ of a triangle are $$2 \\hat{i}-3 \\hat{j}+3 \\hat{k}, 2 \\hat{i}+2 \\hat{j}+3 \\hat{k}$$ and $$-\\hat{i}+\\hat{j}+3 \\hat{k}$$ respectively. Let $$l$$ denotes the length of the angle bisector $$\\mathrm{AD}$$ of $$\\angle \\mathrm{BAC}$$ where $$\\mathrm{D}$$ is on the line segment $$\\mathrm{BC}$$, then $$2 l^2$$ equals :",
+            "img_url": null
+        },
         "options": {
             "A": "45",
             "B": "50",
@@ -554,7 +686,10 @@
     {
         "qid": "jaoe38c1lscoct80",
         "question_number": 51,
-        "question_value": "The mean and standard deviation of 15 observations were found to be 12 and 3 respectively. On rechecking it was found that an observation was read as 10 in place of 12 . If $$\\mu$$ and $$\\sigma^2$$ denote the mean and variance of the correct observations respectively, then $$15\\left(\\mu+\\mu^2+\\sigma^2\\right)$$ is equal to __________.",
+        "question_value": {
+            "text": "The mean and standard deviation of 15 observations were found to be 12 and 3 respectively. On rechecking it was found that an observation was read as 10 in place of 12 . If $$\\mu$$ and $$\\sigma^2$$ denote the mean and variance of the correct observations respectively, then $$15\\left(\\mu+\\mu^2+\\sigma^2\\right)$$ is equal to __________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 2521.0
@@ -562,7 +697,10 @@
     {
         "qid": "jaoe38c1lscoeie7",
         "question_number": 52,
-        "question_value": "The coefficient of $$x^{2012}$$ in the expansion of $$(1-x)^{2008}\\left(1+x+x^2\\right)^{2007}$$ is equal to _________.",
+        "question_value": {
+            "text": "The coefficient of $$x^{2012}$$ in the expansion of $$(1-x)^{2008}\\left(1+x+x^2\\right)^{2007}$$ is equal to _________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 0.0
@@ -570,7 +708,10 @@
     {
         "qid": "jaoe38c1lscogowm",
         "question_number": 53,
-        "question_value": "The lines $$\\frac{x-2}{2}=\\frac{y}{-2}=\\frac{z-7}{16}$$ and $$\\frac{x+3}{4}=\\frac{y+2}{3}=\\frac{z+2}{1}$$ intersect at the point $$P$$. If the distance of $$\\mathrm{P}$$ from the line $$\\frac{x+1}{2}=\\frac{y-1}{3}=\\frac{z-1}{1}$$ is $$l$$, then $$14 l^2$$ is equal to __________.",
+        "question_value": {
+            "text": "The lines $$\\frac{x-2}{2}=\\frac{y}{-2}=\\frac{z-7}{16}$$ and $$\\frac{x+3}{4}=\\frac{y+2}{3}=\\frac{z+2}{1}$$ intersect at the point $$P$$. If the distance of $$\\mathrm{P}$$ from the line $$\\frac{x+1}{2}=\\frac{y-1}{3}=\\frac{z-1}{1}$$ is $$l$$, then $$14 l^2$$ is equal to __________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 108.0
@@ -578,7 +719,10 @@
     {
         "qid": "jaoe38c1lscoi3t2",
         "question_number": 54,
-        "question_value": "Let $$f(x)=\\int_\\limits0^x g(t) \\log _{\\mathrm{e}}\\left(\\frac{1-\\mathrm{t}}{1+\\mathrm{t}}\\right) \\mathrm{dt}$$, where $$g$$ is a continuous odd function.\nIf $$\\int_{-\\pi / 2}^{\\pi / 2}\\left(f(x)+\\frac{x^2 \\cos x}{1+\\mathrm{e}^x}\\right) \\mathrm{d} x=\\left(\\frac{\\pi}{\\alpha}\\right)^2-\\alpha$$, then $$\\alpha$$ is equal to _________.",
+        "question_value": {
+            "text": "Let $$f(x)=\\int_\\limits0^x g(t) \\log _{\\mathrm{e}}\\left(\\frac{1-\\mathrm{t}}{1+\\mathrm{t}}\\right) \\mathrm{dt}$$, where $$g$$ is a continuous odd function.\nIf $$\\int_{-\\pi / 2}^{\\pi / 2}\\left(f(x)+\\frac{x^2 \\cos x}{1+\\mathrm{e}^x}\\right) \\mathrm{d} x=\\left(\\frac{\\pi}{\\alpha}\\right)^2-\\alpha$$, then $$\\alpha$$ is equal to _________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 2.0
@@ -586,7 +730,10 @@
     {
         "qid": "jaoe38c1lscojzx5",
         "question_number": 55,
-        "question_value": "If the area of the region $$\\left\\{(x, y): 0 \\leq y \\leq \\min \\left\\{2 x, 6 x-x^2\\right\\}\\right\\}$$ is $$\\mathrm{A}$$, then $$12 \\mathrm{~A}$$ is equal to ________.",
+        "question_value": {
+            "text": "If the area of the region $$\\left\\{(x, y): 0 \\leq y \\leq \\min \\left\\{2 x, 6 x-x^2\\right\\}\\right\\}$$ is $$\\mathrm{A}$$, then $$12 \\mathrm{~A}$$ is equal to ________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 304.0
@@ -594,7 +741,10 @@
     {
         "qid": "jaoe38c1lscoky97",
         "question_number": 56,
-        "question_value": "If the sum of squares of all real values of $$\\alpha$$, for which the lines $$2 x-y+3=0,6 x+3 y+1=0$$ and $$\\alpha x+2 y-2=0$$ do not form a triangle is $$p$$, then the greatest integer less than or equal to $$p$$ is _________.",
+        "question_value": {
+            "text": "If the sum of squares of all real values of $$\\alpha$$, for which the lines $$2 x-y+3=0,6 x+3 y+1=0$$ and $$\\alpha x+2 y-2=0$$ do not form a triangle is $$p$$, then the greatest integer less than or equal to $$p$$ is _________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 32.0
@@ -602,7 +752,10 @@
     {
         "qid": "jaoe38c1lscom6c6",
         "question_number": 57,
-        "question_value": "Let $$A$$ be a $$2 \\times 2$$ real matrix and $$I$$ be the identity matrix of order 2. If the roots of the equation $$|\\mathrm{A}-x \\mathrm{I}|=0$$ be $$-1$$ and 3, then the sum of the diagonal elements of the matrix $$\\mathrm{A}^2$$ is",
+        "question_value": {
+            "text": "Let $$A$$ be a $$2 \\times 2$$ real matrix and $$I$$ be the identity matrix of order 2. If the roots of the equation $$|\\mathrm{A}-x \\mathrm{I}|=0$$ be $$-1$$ and 3, then the sum of the diagonal elements of the matrix $$\\mathrm{A}^2$$ is",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 10.0
@@ -610,7 +763,10 @@
     {
         "qid": "jaoe38c1lsconj9i",
         "question_number": 58,
-        "question_value": "Consider a circle $$(x-\\alpha)^2+(y-\\beta)^2=50$$, where $$\\alpha, \\beta>0$$. If the circle touches the line $$y+x=0$$ at the point $$P$$, whose distance from the origin is $$4 \\sqrt{2}$$, then $$(\\alpha+\\beta)^2$$ is equal to __________.",
+        "question_value": {
+            "text": "Consider a circle $$(x-\\alpha)^2+(y-\\beta)^2=50$$, where $$\\alpha, \\beta>0$$. If the circle touches the line $$y+x=0$$ at the point $$P$$, whose distance from the origin is $$4 \\sqrt{2}$$, then $$(\\alpha+\\beta)^2$$ is equal to __________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 100.0
@@ -618,7 +774,10 @@
     {
         "qid": "jaoe38c1lscorvog",
         "question_number": 59,
-        "question_value": "Let the complex numbers $$\\alpha$$ and $$\\frac{1}{\\bar{\\alpha}}$$ lie on the circles $$\\left|z-z_0\\right|^2=4$$ and $$\\left|z-z_0\\right|^2=16$$ respectively, where $$z_0=1+i$$. Then, the value of $$100|\\alpha|^2$$ is __________.",
+        "question_value": {
+            "text": "Let the complex numbers $$\\alpha$$ and $$\\frac{1}{\\bar{\\alpha}}$$ lie on the circles $$\\left|z-z_0\\right|^2=4$$ and $$\\left|z-z_0\\right|^2=16$$ respectively, where $$z_0=1+i$$. Then, the value of $$100|\\alpha|^2$$ is __________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 20.0
@@ -626,7 +785,10 @@
     {
         "qid": "jaoe38c1lscot4sr",
         "question_number": 60,
-        "question_value": "If the solution curve, of the differential equation $$\\frac{\\mathrm{d} y}{\\mathrm{~d} x}=\\frac{x+y-2}{x-y}$$ passing through the point $$(2,1)$$ is $$\\tan ^{-1}\\left(\\frac{y-1}{x-1}\\right)-\\frac{1}{\\beta} \\log _{\\mathrm{e}}\\left(\\alpha+\\left(\\frac{y-1}{x-1}\\right)^2\\right)=\\log _{\\mathrm{e}}|x-1|$$, then $$5 \\beta+\\alpha$$ is equal to __________.",
+        "question_value": {
+            "text": "If the solution curve, of the differential equation $$\\frac{\\mathrm{d} y}{\\mathrm{~d} x}=\\frac{x+y-2}{x-y}$$ passing through the point $$(2,1)$$ is $$\\tan ^{-1}\\left(\\frac{y-1}{x-1}\\right)-\\frac{1}{\\beta} \\log _{\\mathrm{e}}\\left(\\alpha+\\left(\\frac{y-1}{x-1}\\right)^2\\right)=\\log _{\\mathrm{e}}|x-1|$$, then $$5 \\beta+\\alpha$$ is equal to __________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 11.0
@@ -634,7 +796,10 @@
     {
         "qid": "jaoe38c1lscoytpx",
         "question_number": 62,
-        "question_value": "A ball suspended by a thread swings in a vertical plane so that its magnitude of acceleration in the extreme position and lowest position are equal. The angle $$(\\theta)$$ of thread deflection in the extreme position will be :",
+        "question_value": {
+            "text": "A ball suspended by a thread swings in a vertical plane so that its magnitude of acceleration in the extreme position and lowest position are equal. The angle $$(\\theta)$$ of thread deflection in the extreme position will be :",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\tan ^{-1}\\left(\\frac{1}{2}\\right)$$",
             "B": "$$2 \\tan ^{-1}\\left(\\frac{1}{2}\\right)$$",
@@ -647,7 +812,10 @@
     {
         "qid": "jaoe38c1lscp19dg",
         "question_number": 64,
-        "question_value": "Primary side of a transformer is connected to $$230 \\mathrm{~V}, 50 \\mathrm{~Hz}$$ supply. Turns ratio of primary to secondary winding is $$10: 1$$. Load resistance connected to secondary side is $$46 \\Omega$$. The power consumed in it is :",
+        "question_value": {
+            "text": "Primary side of a transformer is connected to $$230 \\mathrm{~V}, 50 \\mathrm{~Hz}$$ supply. Turns ratio of primary to secondary winding is $$10: 1$$. Load resistance connected to secondary side is $$46 \\Omega$$. The power consumed in it is :",
+            "img_url": null
+        },
         "options": {
             "A": "11.5 W",
             "B": "12.5 W",
@@ -660,7 +828,10 @@
     {
         "qid": "jaoe38c1lscp2nwn",
         "question_number": 65,
-        "question_value": "A heavy iron bar of weight $$12 \\mathrm{~kg}$$ is having its one end on the ground and the other on the shoulder of a man. The rod makes an angle $$60^{\\circ}$$ with the horizontal, the weight experienced by the man is :",
+        "question_value": {
+            "text": "A heavy iron bar of weight $$12 \\mathrm{~kg}$$ is having its one end on the ground and the other on the shoulder of a man. The rod makes an angle $$60^{\\circ}$$ with the horizontal, the weight experienced by the man is :",
+            "img_url": null
+        },
         "options": {
             "A": "$$3 \\mathrm{~kg}$$",
             "B": "$$6 \\mathrm{~kg}$$",
@@ -673,7 +844,10 @@
     {
         "qid": "jaoe38c1lscp9q8q",
         "question_number": 68,
-        "question_value": "The atomic mass of $${ }_6 \\mathrm{C}^{12}$$ is $$12.000000 \\mathrm{~u}$$ and that of $${ }_6 \\mathrm{C}^{13}$$ is $$13.003354 \\mathrm{~u}$$. The required energy to remove a neutron from $${ }_6 \\mathrm{C}^{13}$$, if mass of neutron is $$1.008665 \\mathrm{~u}$$, will be :",
+        "question_value": {
+            "text": "The atomic mass of $${ }_6 \\mathrm{C}^{12}$$ is $$12.000000 \\mathrm{~u}$$ and that of $${ }_6 \\mathrm{C}^{13}$$ is $$13.003354 \\mathrm{~u}$$. The required energy to remove a neutron from $${ }_6 \\mathrm{C}^{13}$$, if mass of neutron is $$1.008665 \\mathrm{~u}$$, will be :",
+            "img_url": null
+        },
         "options": {
             "A": "62.5 MeV",
             "B": "6.25 MeV",
@@ -686,7 +860,10 @@
     {
         "qid": "jaoe38c1lscpar9g",
         "question_number": 69,
-        "question_value": "The threshold frequency of a metal with work function $$6.63 \\mathrm{~eV}$$ is :",
+        "question_value": {
+            "text": "The threshold frequency of a metal with work function $$6.63 \\mathrm{~eV}$$ is :",
+            "img_url": null
+        },
         "options": {
             "A": "$$16 \\times 10^{15} \\mathrm{~Hz}$$",
             "B": "$$16 \\times 10^{12} \\mathrm{~Hz}$$",
@@ -699,7 +876,10 @@
     {
         "qid": "jaoe38c1lscpchzv",
         "question_number": 70,
-        "question_value": "During an adiabatic process, the pressure of a gas is found to be proportional to the cube of its absolute temperature. The ratio of $$\\frac{\\mathrm{Cp}}{\\mathrm{Cv}}$$ for the gas is :",
+        "question_value": {
+            "text": "During an adiabatic process, the pressure of a gas is found to be proportional to the cube of its absolute temperature. The ratio of $$\\frac{\\mathrm{Cp}}{\\mathrm{Cv}}$$ for the gas is :",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\frac{7}{5}$$",
             "B": "$$\\frac{3}{2}$$",
@@ -712,7 +892,10 @@
     {
         "qid": "jaoe38c1lscpdeey",
         "question_number": 71,
-        "question_value": "A bullet is fired into a fixed target looses one third of its velocity after travelling $$4 \\mathrm{~cm}$$. It penetrates further $$\\mathrm{D} \\times 10^{-3} \\mathrm{~m}$$ before coming to rest. The value of $$\\mathrm{D}$$ is :",
+        "question_value": {
+            "text": "A bullet is fired into a fixed target looses one third of its velocity after travelling $$4 \\mathrm{~cm}$$. It penetrates further $$\\mathrm{D} \\times 10^{-3} \\mathrm{~m}$$ before coming to rest. The value of $$\\mathrm{D}$$ is :",
+            "img_url": null
+        },
         "options": {
             "A": "23",
             "B": "32",
@@ -725,7 +908,10 @@
     {
         "qid": "jaoe38c1lscpfh6i",
         "question_number": 72,
-        "question_value": "Three voltmeters, all having different internal resistances are joined as shown in figure. When some potential difference is applied across $$A$$ and $$B$$, their readings are $$V_1, V_2$$ and $$V_3$$. Choose the correct option.",
+        "question_value": {
+            "text": "Three voltmeters, all having different internal resistances are joined as shown in figure. When some potential difference is applied across $$A$$ and $$B$$, their readings are $$V_1, V_2$$ and $$V_3$$. Choose the correct option.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsd24qvz/9ff7c223-3154-4546-a984-193dbec367fc/334643e0-c66a-11ee-9e75-ed145f26bf63/file-6y3zli1lsd24qw0.png?format=png"
+        },
         "options": {
             "A": "$$V_1=V_2$$",
             "B": "$$V_1 \\neq V_3-V_2$$",
@@ -738,7 +924,10 @@
     {
         "qid": "jaoe38c1lscpgjpr",
         "question_number": 73,
-        "question_value": "The equation of state of a real gas is given by $$\\left(\\mathrm{P}+\\frac{\\mathrm{a}}{\\mathrm{V}^2}\\right)(\\mathrm{V}-\\mathrm{b})=\\mathrm{RT}$$, where $$\\mathrm{P}, \\mathrm{V}$$ and $$\\mathrm{T}$$ are pressure, volume and temperature respectively and $$\\mathrm{R}$$ is the universal gas constant. The dimensions of $$\\frac{\\mathrm{a}}{\\mathrm{b}^2}$$ is similar to that of :",
+        "question_value": {
+            "text": "The equation of state of a real gas is given by $$\\left(\\mathrm{P}+\\frac{\\mathrm{a}}{\\mathrm{V}^2}\\right)(\\mathrm{V}-\\mathrm{b})=\\mathrm{RT}$$, where $$\\mathrm{P}, \\mathrm{V}$$ and $$\\mathrm{T}$$ are pressure, volume and temperature respectively and $$\\mathrm{R}$$ is the universal gas constant. The dimensions of $$\\frac{\\mathrm{a}}{\\mathrm{b}^2}$$ is similar to that of :",
+            "img_url": null
+        },
         "options": {
             "A": "P",
             "B": "RT",
@@ -751,7 +940,10 @@
     {
         "qid": "jaoe38c1lscpjas0",
         "question_number": 75,
-        "question_value": "When a polaroid sheet is rotated between two crossed polaroids then the transmitted light intensity will be maximum for a rotation of :",
+        "question_value": {
+            "text": "When a polaroid sheet is rotated between two crossed polaroids then the transmitted light intensity will be maximum for a rotation of :",
+            "img_url": null
+        },
         "options": {
             "A": "$$90^\\circ$$",
             "B": "$$30^\\circ$$",
@@ -764,7 +956,10 @@
     {
         "qid": "jaoe38c1lscpkphx",
         "question_number": 76,
-        "question_value": "An object is placed in a medium of refractive index 3 . An electromagnetic wave of intensity $$6 \\times 10^8 \\mathrm{~W} / \\mathrm{m}^2$$ falls normally on the object and it is absorbed completely. The radiation pressure on the object would be (speed of light in free space $$=3 \\times 10^8 \\mathrm{~m} / \\mathrm{s}$$ ) :",
+        "question_value": {
+            "text": "An object is placed in a medium of refractive index 3 . An electromagnetic wave of intensity $$6 \\times 10^8 \\mathrm{~W} / \\mathrm{m}^2$$ falls normally on the object and it is absorbed completely. The radiation pressure on the object would be (speed of light in free space $$=3 \\times 10^8 \\mathrm{~m} / \\mathrm{s}$$ ) :",
+            "img_url": null
+        },
         "options": {
             "A": "$$6 \\mathrm{~Nm}^{-2}$$",
             "B": "$$36 \\mathrm{~Nm}^{-2}$$",
@@ -777,7 +972,10 @@
     {
         "qid": "jaoe38c1lscpmq3f",
         "question_number": 77,
-        "question_value": "The total kinetic energy of 1 mole of oxygen at $$27^{\\circ} \\mathrm{C}$$ is :\n[Use universal gas constant $$(R)=8.31 \\mathrm{~J} /$$ mole K]",
+        "question_value": {
+            "text": "The total kinetic energy of 1 mole of oxygen at $$27^{\\circ} \\mathrm{C}$$ is :\n[Use universal gas constant $$(R)=8.31 \\mathrm{~J} /$$ mole K]",
+            "img_url": null
+        },
         "options": {
             "A": "6232.5 J",
             "B": "5670.5 J",
@@ -790,7 +988,10 @@
     {
         "qid": "jaoe38c1lscpnh06",
         "question_number": 78,
-        "question_value": "The truth table of the given circuit diagram is :",
+        "question_value": {
+            "text": "The truth table of the given circuit diagram is :",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsd25rz4/fdcf9347-86a9-48a7-b4ac-713f03252ecb/4fec8e00-c66a-11ee-9e75-ed145f26bf63/file-6y3zli1lsd25rz5.png?format=png"
+        },
         "options": {
             "A": {
                 "text": null,
@@ -815,7 +1016,10 @@
     {
         "qid": "jaoe38c1lscpoor2",
         "question_number": 79,
-        "question_value": "A current of $$200 \\mu \\mathrm{A}$$ deflects the coil of a moving coil galvanometer through $$60^{\\circ}$$. The current to cause deflection through $$\\frac{\\pi}{10}$$ radian is :",
+        "question_value": {
+            "text": "A current of $$200 \\mu \\mathrm{A}$$ deflects the coil of a moving coil galvanometer through $$60^{\\circ}$$. The current to cause deflection through $$\\frac{\\pi}{10}$$ radian is :",
+            "img_url": null
+        },
         "options": {
             "A": "120 $$\\mu$$A",
             "B": "180 $$\\mu$$A",
@@ -828,7 +1032,10 @@
     {
         "qid": "jaoe38c1lscpqh3c",
         "question_number": 80,
-        "question_value": "Wheatstone bridge principle is used to measure the specific resistance $$\\left(S_1\\right)$$ of given wire, having length $$L$$, radius $$r$$. If $$X$$ is the resistance of wire, then specific resistance is ; $$S_1=X\\left(\\frac{\\pi r^2}{L}\\right)$$. If the length of the wire gets doubled then the value of specific resistance will be :",
+        "question_value": {
+            "text": "Wheatstone bridge principle is used to measure the specific resistance $$\\left(S_1\\right)$$ of given wire, having length $$L$$, radius $$r$$. If $$X$$ is the resistance of wire, then specific resistance is ; $$S_1=X\\left(\\frac{\\pi r^2}{L}\\right)$$. If the length of the wire gets doubled then the value of specific resistance will be :",
+            "img_url": null
+        },
         "options": {
             "A": "$$\\frac{S_1}{4}$$",
             "B": "$$2 \\mathrm{~S}_1$$",
@@ -841,7 +1048,10 @@
     {
         "qid": "jaoe38c1lscpri7e",
         "question_number": 81,
-        "question_value": "A closed organ pipe $$150 \\mathrm{~cm}$$ long gives 7 beats per second with an open organ pipe of length $$350 \\mathrm{~cm}$$, both vibrating in fundamental mode. The velocity of sound is __________ $$\\mathrm{m} / \\mathrm{s}$$.",
+        "question_value": {
+            "text": "A closed organ pipe $$150 \\mathrm{~cm}$$ long gives 7 beats per second with an open organ pipe of length $$350 \\mathrm{~cm}$$, both vibrating in fundamental mode. The velocity of sound is __________ $$\\mathrm{m} / \\mathrm{s}$$.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 294.0
@@ -849,7 +1059,10 @@
     {
         "qid": "jaoe38c1lscpsrwh",
         "question_number": 82,
-        "question_value": "A series LCR circuit with $$\\mathrm{L}=\\frac{100}{\\pi} \\mathrm{mH}, \\mathrm{C}=\\frac{10^{-3}}{\\pi} \\mathrm{F}$$ and $$\\mathrm{R}=10 \\Omega$$, is connected across an ac source of $$220 \\mathrm{~V}, 50 \\mathrm{~Hz}$$ supply. The power factor of the circuit would be ________.",
+        "question_value": {
+            "text": "A series LCR circuit with $$\\mathrm{L}=\\frac{100}{\\pi} \\mathrm{mH}, \\mathrm{C}=\\frac{10^{-3}}{\\pi} \\mathrm{F}$$ and $$\\mathrm{R}=10 \\Omega$$, is connected across an ac source of $$220 \\mathrm{~V}, 50 \\mathrm{~Hz}$$ supply. The power factor of the circuit would be ________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 1.0
@@ -857,7 +1070,10 @@
     {
         "qid": "jaoe38c1lscpvd13",
         "question_number": 83,
-        "question_value": "Two charges of $$-4 \\mu \\mathrm{C}$$ and $$+4 \\mu \\mathrm{C}$$ are placed at the points $$\\mathrm{A}(1,0,4) \\mathrm{m}$$ and $$\\mathrm{B}(2,-1,5) \\mathrm{m}$$ located in an electric field $$\\overrightarrow{\\mathrm{E}}=0.20 \\hat{i} \\mathrm{~V} / \\mathrm{cm}$$. The magnitude of the torque acting on the dipole is $$8 \\sqrt{\\alpha} \\times 10^{-5} \\mathrm{Nm}$$, where $$\\alpha=$$ _________.",
+        "question_value": {
+            "text": "Two charges of $$-4 \\mu \\mathrm{C}$$ and $$+4 \\mu \\mathrm{C}$$ are placed at the points $$\\mathrm{A}(1,0,4) \\mathrm{m}$$ and $$\\mathrm{B}(2,-1,5) \\mathrm{m}$$ located in an electric field $$\\overrightarrow{\\mathrm{E}}=0.20 \\hat{i} \\mathrm{~V} / \\mathrm{cm}$$. The magnitude of the torque acting on the dipole is $$8 \\sqrt{\\alpha} \\times 10^{-5} \\mathrm{Nm}$$, where $$\\alpha=$$ _________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 2.0
@@ -865,7 +1081,10 @@
     {
         "qid": "jaoe38c1lscpwe1j",
         "question_number": 84,
-        "question_value": "A ring and a solid sphere roll down the same inclined plane without slipping. They start from rest. The radii of both bodies are identical and the ratio of their kinetic energies is $$\\frac{7}{x}$$, where $$x$$ is _________.",
+        "question_value": {
+            "text": "A ring and a solid sphere roll down the same inclined plane without slipping. They start from rest. The radii of both bodies are identical and the ratio of their kinetic energies is $$\\frac{7}{x}$$, where $$x$$ is _________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 7.0
@@ -873,7 +1092,10 @@
     {
         "qid": "jaoe38c1lscpxsk2",
         "question_number": 85,
-        "question_value": "A body falling under gravity covers two points $$A$$ and $$B$$ separated by $$80 \\mathrm{~m}$$ in $$2 \\mathrm{~s}$$. The distance of upper point A from the starting point is _________ $$\\mathrm{m}$$ (use $$\\mathrm{g}=10 \\mathrm{~ms}^{-2}$$).",
+        "question_value": {
+            "text": "A body falling under gravity covers two points $$A$$ and $$B$$ separated by $$80 \\mathrm{~m}$$ in $$2 \\mathrm{~s}$$. The distance of upper point A from the starting point is _________ $$\\mathrm{m}$$ (use $$\\mathrm{g}=10 \\mathrm{~ms}^{-2}$$).",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 45.0
@@ -881,7 +1103,10 @@
     {
         "qid": "jaoe38c1lscpyqpm",
         "question_number": 86,
-        "question_value": "The electric potential at the surface of an atomic nucleus $$(z=50)$$ of radius $$9 \\times 10^{-13} \\mathrm{~cm}$$ is __________ $$\\times 10^6 \\mathrm{~V}$$.",
+        "question_value": {
+            "text": "The electric potential at the surface of an atomic nucleus $$(z=50)$$ of radius $$9 \\times 10^{-13} \\mathrm{~cm}$$ is __________ $$\\times 10^6 \\mathrm{~V}$$.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 8.0
@@ -889,7 +1114,10 @@
     {
         "qid": "jaoe38c1lscq0w1e",
         "question_number": 87,
-        "question_value": "The magnetic field at the centre of a wire loop formed by two semicircular wires of radii $$R_1=2 \\pi \\mathrm{m}$$ and $$R_2=4 \\pi \\mathrm{m}$$, carrying current $$\\mathrm{I}=4 \\mathrm{~A}$$ as per figure given below is $$\\alpha \\times 10^{-7} \\mathrm{~T}$$. The value of $$\\alpha$$ is ________. (Centre $$\\mathrm{O}$$ is common for all segments)",
+        "question_value": {
+            "text": "The magnetic field at the centre of a wire loop formed by two semicircular wires of radii $$R_1=2 \\pi \\mathrm{m}$$ and $$R_2=4 \\pi \\mathrm{m}$$, carrying current $$\\mathrm{I}=4 \\mathrm{~A}$$ as per figure given below is $$\\alpha \\times 10^{-7} \\mathrm{~T}$$. The value of $$\\alpha$$ is ________. (Centre $$\\mathrm{O}$$ is common for all segments)",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsd2a4ty/82c26cbc-24dd-430c-a8d8-8e525e788209/c9178960-c66a-11ee-9e75-ed145f26bf63/file-6y3zli1lsd2a4tz.png?format=png"
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 3.0
@@ -897,7 +1125,10 @@
     {
         "qid": "jaoe38c1lscq2xv4",
         "question_number": 88,
-        "question_value": "A parallel beam of monochromatic light of wavelength 5000 $$\\mathop A\\limits^o$$ is incident normally on a single narrow slit of width $$0.001 \\mathrm{~mm}$$. The light is focused by convex lens on screen, placed on its focal plane. The first minima will be formed for the angle of diffraction of _________ (degree).",
+        "question_value": {
+            "text": "A parallel beam of monochromatic light of wavelength 5000 $$\\mathop A\\limits^o$$ is incident normally on a single narrow slit of width $$0.001 \\mathrm{~mm}$$. The light is focused by convex lens on screen, placed on its focal plane. The first minima will be formed for the angle of diffraction of _________ (degree).",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 30.0
@@ -905,7 +1136,10 @@
     {
         "qid": "jaoe38c1lscq3vvz",
         "question_number": 89,
-        "question_value": "The reading of pressure metre attached with a closed pipe is $$4.5 \\times 10^4 \\mathrm{~N} / \\mathrm{m}^2$$. On opening the valve, water starts flowing and the reading of pressure metre falls to $$2.0 \\times 10^4 \\mathrm{~N} / \\mathrm{m}^2$$. The velocity of water is found to be $$\\sqrt{V} \\mathrm{~m} / \\mathrm{s}$$. The value of $$V$$ is _________.",
+        "question_value": {
+            "text": "The reading of pressure metre attached with a closed pipe is $$4.5 \\times 10^4 \\mathrm{~N} / \\mathrm{m}^2$$. On opening the valve, water starts flowing and the reading of pressure metre falls to $$2.0 \\times 10^4 \\mathrm{~N} / \\mathrm{m}^2$$. The velocity of water is found to be $$\\sqrt{V} \\mathrm{~m} / \\mathrm{s}$$. The value of $$V$$ is _________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 50.0
@@ -913,7 +1147,10 @@
     {
         "qid": "jaoe38c1lscq53oy",
         "question_number": 90,
-        "question_value": "If Rydberg's constant is $$R$$, the longest wavelength of radiation in Paschen series will be $$\\frac{\\alpha}{7 R}$$, where $$\\alpha=$$ ________.",
+        "question_value": {
+            "text": "If Rydberg's constant is $$R$$, the longest wavelength of radiation in Paschen series will be $$\\frac{\\alpha}{7 R}$$, where $$\\alpha=$$ ________.",
+            "img_url": null
+        },
         "options": {},
         "type": "numerical",
         "correct_answer": 144.0

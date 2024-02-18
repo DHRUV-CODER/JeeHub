@@ -1,0 +1,501 @@
+[
+    {
+        "qid": "liiqp11d",
+        "question_number": 1,
+        "question_value": {
+            "text": "The correct molecular orbital diagram for $\\mathrm{F}_2$ molecule in the ground state is :",
+            "img_url": null
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liiqi1zw/63728982-e6f7-4a3a-a24b-6cece8f52949/41eecdc0-038f-11ee-add3-0f52d4fe427d/file-1liiqi1zx.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liiqjbue/d7917db2-7ee4-4c52-b5c0-cd0e4686ce68/65594560-038f-11ee-add3-0f52d4fe427d/file-1liiqjbuf.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liiqlcb2/f538c02d-fe55-4e49-b6b3-d6635e2b5f13/9d531ae0-038f-11ee-add3-0f52d4fe427d/file-1liiqlcb3.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liiqmse3/f01e7c86-2d11-4967-9168-0429faed89d2/c58ef0b0-038f-11ee-add3-0f52d4fe427d/file-1liiqmse4.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "liir5sb4",
+        "question_number": 4,
+        "question_value": {
+            "text": "A disaccharide $\\mathbf{X}$ cannot be oxidised by bromine water. The acid hydrolysis of $\\mathbf{X}$ leads to a laevorotatory solution. The disaccharide $\\mathbf{X}$ is :",
+            "img_url": null
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liir3ynl/951ebdf6-41f7-47b0-b914-631cd6106cb8/a3270a10-0391-11ee-94c1-c5ddbb3cc6a9/file-1liir3ynm.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liir4cc8/5fb3f299-9242-4a72-ae7b-c7cdd04d6dcf/adb92f80-0391-11ee-94c1-c5ddbb3cc6a9/file-1liir4ccb.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liir4som/bb6e3f00-d87d-4c43-b133-f0afc6e222d0/ba597470-0391-11ee-94c1-c5ddbb3cc6a9/file-1liir4son.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liir56vn/a99d6151-3873-4961-a62c-b3411f7cd08e/c5507630-0391-11ee-94c1-c5ddbb3cc6a9/file-1liir56vo.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "liirce03",
+        "question_number": 5,
+        "question_value": {
+            "text": "The complex(es), which can exhibit the type of isomerism shown by $\\left[\\operatorname{Pt}\\left(\\mathrm{NH}_3\\right)_2 \\mathrm{Br}_2\\right]$, is(are) :[en $=\\mathrm{H}_2 \\mathrm{NCH}_2 \\mathrm{CH}_2 \\mathrm{NH}_2$ ]",
+            "img_url": null
+        },
+        "options": {
+            "A": "$\\left[\\mathrm{Pt}(\\mathrm{en})(\\mathrm{SCN})_2\\right]$",
+            "B": "$\\left[\\mathrm{Zn}\\left(\\mathrm{NH}_3\\right)_2 \\mathrm{Cl}_2\\right]$",
+            "C": "$\\left[\\mathrm{Pt}\\left(\\mathrm{NH}_3\\right)_2 \\mathrm{Cl}_4\\right]$",
+            "D": "$\\left[\\mathrm{Cr}(\\mathrm{en})_2\\left(\\mathrm{H}_2 \\mathrm{O}\\right)\\left(\\mathrm{SO}_4\\right)\\right]^{+}$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "liirf1kc",
+        "question_number": 6,
+        "question_value": {
+            "text": "Atoms of metals $\\mathrm{x}, \\mathrm{y}$, and $\\mathrm{z}$ form face-centred cubic (fcc) unit cell of edge length $\\mathrm{L}_{\\mathrm{x}}$, body-centred cubic (bcc) unit cell of edge length $\\mathrm{L}_y$, and simple cubic unit cell of edge length $\\mathrm{L}_z$, respectively.If $\\mathrm{r}_{\\mathrm{z}}=\\frac{\\sqrt{3}}{2} r_{\\mathrm{y}} ; \\mathrm{r}_{\\mathrm{y}}=\\frac{8}{\\sqrt{3}} \\mathrm{r}_{\\mathrm{x}} ; M_{\\mathrm{z}}=\\frac{3}{2} M_{\\mathrm{y}}$ and $M_{\\mathrm{z}}=3 M_{\\mathrm{x}}$, then the correct statement(s) is(are) :[Given: $M_x, M_y$, and $M_z$ are molar masses of metals $x, y$, and $z$, respectively.$\\mathrm{r}_{\\mathrm{x}}, \\mathrm{r}_{\\mathrm{y}}$, and $\\mathrm{r}_{\\mathrm{z}}$ are atomic radii of metals $\\mathrm{x}, \\mathrm{y}$, and $\\mathrm{z}$, respectively.]",
+            "img_url": null
+        },
+        "options": {
+            "A": "Packing efficiency of unit cell of $x>$ Packing efficiency of unit cell of $y>$ Packing efficiency of unit cell of $z$",
+            "B": "$\\mathrm{L}_{\\mathrm{y}}>\\mathrm{L}_{\\mathrm{z}}$",
+            "C": "$\\mathrm{L}_{\\mathrm{x}}>\\mathrm{L}_{\\mathrm{y}}$",
+            "D": "Density of $x>$ Density of $y$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "liirn7jy",
+        "question_number": 8,
+        "question_value": {
+            "text": "$\\mathrm{H}_2 \\mathrm{S}$ (5 moles) reacts completely with acidified aqueous potassium permanganate solution. In this reaction, the number of moles of water produced is $\\mathbf{x}$, and the number of moles of electrons involved is $\\mathbf{y}$. The value of $(\\mathbf{x}+\\mathbf{y})$ is ________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 18.0
+    },
+    {
+        "qid": "liirobnt",
+        "question_number": 9,
+        "question_value": {
+            "text": "Among $\\left[\\mathrm{I}_3\\right]^{+},\\left[\\mathrm{SiO}_4\\right]^{4-}, \\mathrm{SO}_2 \\mathrm{Cl}_2, \\mathrm{XeF}_2, \\mathrm{SF}_4, \\mathrm{ClF}_3, \\mathrm{Ni}(\\mathrm{CO})_4, \\mathrm{XeO}_2 \\mathrm{~F}_2,\\left[\\mathrm{PtCl}_4\\right]^{2-}, \\mathrm{XeF}_4$, and $\\mathrm{SOCl}_2$, the total number of species having $s p^3$ hybridised central atom is ________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 5.0
+    },
+    {
+        "qid": "liirqlvy",
+        "question_number": 10,
+        "question_value": {
+            "text": "Consider the following molecules: $\\mathrm{Br}_3 \\mathrm{O}_8, \\mathrm{~F}_2 \\mathrm{O}, \\mathrm{H}_2 \\mathrm{S}_4 \\mathrm{O}_6, \\mathrm{H}_2 \\mathrm{S}_5 \\mathrm{O}_6$, and $\\mathrm{C}_3 \\mathrm{O}_2$. Count the number of atoms existing in their zero oxidation state in each molecule.Their sum is _______.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 6.0
+    },
+    {
+        "qid": "liirs8as",
+        "question_number": 11,
+        "question_value": {
+            "text": "For $\\mathrm{He}^{+}$, a transition takes place from the orbit of radius $105.8 \\mathrm{pm}$ to the orbit of radius $26.45 \\mathrm{pm}$. The wavelength (in nm) of the emitted photon during the transition is _______.[Use :Bohr radius, $\\mathrm{a}=52.9 \\mathrm{pm}$Rydberg constant, $R_{\\mathrm{H}}=2.2 \\times 10^{-18} \\mathrm{~J}$Planck's constant, $\\mathrm{h}=6.6 \\times 10^{-34} \\mathrm{~J} \\mathrm{~s}$Speed of light, $\\mathrm{c}=3 \\times 10^8 \\mathrm{~m} \\mathrm{~s}^{-1}$ ]",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 30.0
+    },
+    {
+        "qid": "liirty7k",
+        "question_number": 12,
+        "question_value": {
+            "text": "$50 \\mathrm{~mL}$ of 0.2 molal urea solution (density $=1.012 \\mathrm{~g} \\mathrm{~mL}^{-1}$ at $300 \\mathrm{~K}$ ) is mixed with $250 \\mathrm{~mL}$ of a solution containing $0.06 \\mathrm{~g}$ of urea. Both the solutions were prepared in the same solvent. The osmotic pressure (in Torr) of the resulting solution at $300 \\mathrm{~K}$ is _______.[Use: Molar mass of urea $=60 \\mathrm{~g} \\mathrm{~mol}^{-1}$; gas constant, $\\mathrm{R}=62$ L Torr $\\mathrm{K}^{-1} \\mathrm{~mol}^{-1}$;Assume, $\\Delta_{\\text {mix }} \\mathrm{H}=0, \\Delta_{\\text {mix }} \\mathrm{V}=0$ ]",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 682.0
+    },
+    {
+        "qid": "liirw5b1",
+        "question_number": 13,
+        "question_value": {
+            "text": "The reaction of 4-methyloct-1-ene $(\\mathbf{P}, 2.52 \\mathrm{~g})$ with $\\mathrm{HBr}$ in the presence of $\\left(\\mathrm{C}_6 \\mathrm{H}_5 \\mathrm{CO}\\right)_2 \\mathrm{O}_2$ gives two isomeric bromides in a $9: 1$ ratio, with a combined yield of $50 \\%$. Of these, the entire amount of the primary alkyl bromide was reacted with an appropriate amount of diethylamine followed by treatment with aq. $\\mathrm{K}_2 \\mathrm{CO}_3$ to give a non-ionic product $\\mathbf{S}$ in $100 \\%$ yield.The mass (in mg) of $\\mathbf{S}$ obtained is ________.[Use molar mass (in $\\mathrm{g} \\mathrm{mol}^{-1}$ ) : $\\mathrm{H}=1, \\mathrm{C}=12, \\mathrm{~N}=14, \\mathrm{Br}=80$ ]",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 1791.0
+    },
+    {
+        "qid": "liinswjk",
+        "question_number": 18,
+        "question_value": {
+            "text": "Let $f:[1, \\infty) \\rightarrow \\mathbb{R}$ be a differentiable function such that $f(1)=\\frac{1}{3}$ and $3 \\int\\limits_1^x f(t) d t=x f(x)-\\frac{x^3}{3}, x \\in[1, \\infty)$. Let $e$ denote the base of the natural logarithm. Then the value of $f(e)$ is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$\\frac{e^2+4}{3}$",
+            "B": "$\\frac{\\log _e 4+e}{3}$",
+            "C": "$\\frac{4 e^2}{3}$",
+            "D": "$\\frac{e^2-4}{3}$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "liinux68",
+        "question_number": 19,
+        "question_value": {
+            "text": "Consider an experiment of tossing a coin repeatedly until the outcomes of two consecutive tosses are same. If the probability of a random toss resulting in head is $\\frac{1}{3}$, then the probability that the experiment stops with head is :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$\\frac{1}{3}$",
+            "B": "$\\frac{5}{21}$",
+            "C": "$\\frac{4}{21}$",
+            "D": "$\\frac{2}{7}$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "liinxbid",
+        "question_number": 20,
+        "question_value": {
+            "text": "For any $y \\in \\mathbb{R}$, let $\\cot ^{-1}(y) \\in(0, \\pi)$ and $\\tan ^{-1}(y) \\in\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$. Then the sum of all the solutions of the equation$\\tan ^{-1}\\left(\\frac{6 y}{9-y^2}\\right)+\\cot ^{-1}\\left(\\frac{9-y^2}{6 y}\\right)=\\frac{2 \\pi}{3}$ for $0<|y|<3$, is equal to :",
+            "img_url": null
+        },
+        "options": {
+            "A": "$2 \\sqrt{3}-3$",
+            "B": "$3-2 \\sqrt{3}$",
+            "C": "$4 \\sqrt{3}-6$",
+            "D": "$6-4 \\sqrt{3}$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "liinzdcq",
+        "question_number": 21,
+        "question_value": {
+            "text": "Let the position vectors of the points $P, Q, R$ and $S$ be $\\vec{a}=\\hat{i}+2 \\hat{j}-5 \\hat{k}, \\vec{b}=3 \\hat{i}+6 \\hat{j}+3 \\hat{k}$, $\\vec{c}=\\frac{17}{5} \\hat{i}+\\frac{16}{5} \\hat{j}+7 \\hat{k}$ and $\\vec{d}=2 \\hat{i}+\\hat{j}+\\hat{k}$, respectively. Then which of the following statements is true?",
+            "img_url": null
+        },
+        "options": {
+            "A": "The points $P, Q, R$ and $S$ areNOTcoplanar",
+            "B": "$\\frac{\\vec{b}+2 \\vec{d}}{3}$ is the position vector of a point which divides $P R$ internally in the ratio $5: 4$",
+            "C": "$\\frac{\\vec{b}+2 \\vec{d}}{3}$ is the position vector of a point which divides $P R$ externally in the ratio $5: 4$",
+            "D": "The square of the magnitude of the vector $\\vec{b} \\times \\vec{d}$ is 95"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "liio24k9",
+        "question_number": 22,
+        "question_value": {
+            "text": "Let $M=\\left(a_{i j}\\right), i, j \\in\\{1,2,3\\}$, be the $3 \\times 3$ matrix such that $a_{i j}=1$ if $j+1$ is divisible by $i$, otherwise $a_{i j}=0$. Then which of the following statements is(are) true?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$M$ is invertible",
+            "B": "There exists a nonzero column matrix $\\left(\\begin{array}{l}a_1 \\\\ a_2 \\\\ a_3\\end{array}\\right)$ such that $M\\left(\\begin{array}{l}a_1 \\\\ a_2 \\\\ a_3\\end{array}\\right)=\\left(\\begin{array}{l}-a_1 \\\\ -a_2 \\\\ -a_3\\end{array}\\right)$",
+            "C": "The set $\\left\\{X \\in \\mathbb{R}^3: M X=\\mathbf{0}\\right\\} \\neq\\{\\mathbf{0}\\}$, where $\\mathbf{0}=\\left(\\begin{array}{l}0 \\\\ 0 \\\\ 0\\end{array}\\right)$",
+            "D": "The matrix $(M-2 I)$ is invertible, where $I$ is the $3 \\times 3$ identity matrix"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "liio4771",
+        "question_number": 23,
+        "question_value": {
+            "text": "Let $f:(0,1) \\rightarrow \\mathbb{R}$ be the function defined as $f(x)=[4 x]\\left(x-\\frac{1}{4}\\right)^2\\left(x-\\frac{1}{2}\\right)$, where $[x]$ denotes the greatest integer less than or equal to $x$. Then which of the following statements is(are) true?",
+            "img_url": null
+        },
+        "options": {
+            "A": "The function $f$ is discontinuous exactly at one point in $(0,1)$",
+            "B": "There is exactly one point in $(0,1)$ at which the function $f$ is continuous but NOT differentiable",
+            "C": "The function $f$ is NOT differentiable at more than three points in $(0,1)$",
+            "D": "The minimum value of the function $f$ is $-\\frac{1}{512}$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "liioa8hu",
+        "question_number": 24,
+        "question_value": {
+            "text": "Let $S$ be the set of all twice differentiable functions $f$ from $\\mathbb{R}$ to $\\mathbb{R}$ such that $\\frac{d^2 f}{d x^2}(x)>0$ for all $x \\in(-1,1)$. For $f \\in S$, let $X_f$ be the number of points $x \\in(-1,1)$ for which $f(x)=x$. Then which of the following statements is(are) true?",
+            "img_url": null
+        },
+        "options": {
+            "A": "There exists a function $f \\in S$ such that $X_f=0$",
+            "B": "For every function $f \\in S$, we have $X_f \\leq 2$",
+            "C": "There exists a function $f \\in S$ such that $X_f=2$",
+            "D": "There does NOT exist any function $f$ in $S$ such that $X_f=1$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "liiobtqh",
+        "question_number": 25,
+        "question_value": {
+            "text": "For $x \\in \\mathbb{R}$, let $\\tan ^{-1}(x) \\in\\left(-\\frac{\\pi}{2}, \\frac{\\pi}{2}\\right)$. Then the minimum value of the function $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ defined by $f(x)=\\int\\limits_0^{x \\tan ^{-1} x} \\frac{e^{(t-\\cos t)}}{1+t^{2023}} d t$ is :",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "liiofyxu",
+        "question_number": 27,
+        "question_value": {
+            "text": "Let $X$ be the set of all five digit numbers formed using 1,2,2,2,4,4,0. For example, 22240 is in $X$ while 02244 and 44422 are not in $X$. Suppose that each element of $X$ has an equal chance of being chosen. Let $p$ be the conditional probability that an element chosen at random is a multiple of 20 given that it is a multiple of 5 . Then the value of $38 p$ is equal to :",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 31.0
+    },
+    {
+        "qid": "liioiboz",
+        "question_number": 28,
+        "question_value": {
+            "text": "Let $A_1, A_2, A_3, \\ldots, A_8$ be the vertices of a regular octagon that lie on a circle of radius 2 . Let $P$ be a point on the circle and let $P A_i$ denote the distance between the points $P$ and $A_i$ for $i=1,2, \\ldots, 8$. If $P$ varies over the circle, then the maximum value of the product $P A_1 \\times P A_2 \\times \\cdots \\cdots \\times P A_8$, is :",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 512.0
+    },
+    {
+        "qid": "liiojvum",
+        "question_number": 29,
+        "question_value": {
+            "text": "Let $R=\\left\\{\\left(\\begin{array}{lll}a & 3 & b \\\\ c & 2 & d \\\\ 0 & 5 & 0\\end{array}\\right): a, b, c, d \\in\\{0,3,5,7,11,13,17,19\\}\\right\\}$.Then the number of invertible matrices in $R$ is :",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 3780.0
+    },
+    {
+        "qid": "liiolzpu",
+        "question_number": 30,
+        "question_value": {
+            "text": "Let $C_1$ be the circle of radius 1 with center at the origin. Let $C_2$ be the circle of radius $r$ with center at the point $A=(4,1)$, where $1 < r < 3$. Two distinct common tangents $P Q$ and $S T$ of $C_1$ and $C_2$ are drawn. The tangent $P Q$ touches $C_1$ at $P$ and $C_2$ at $Q$. The tangent $S T$ touches $C_1$ at $S$ and $C_2$ at $T$. Mid points of the line segments $P Q$ and $S T$ are joined to form a line which meets the $x$-axis at a point $B$. If $A B=\\sqrt{5}$, then the value of $r^2$ is :",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "liip0rco",
+        "question_number": 35,
+        "question_value": {
+            "text": "An electric dipole is formed by two charges $+q$ and $-q$ located in $x y$-plane at $(0,2) \\mathrm{mm}$ and $(0,-2) \\mathrm{mm}$, respectively, as shown in the figure. The electric potential at point $P(100,100) \\mathrm{mm}$ due to the dipole is $V_0$. The charges $+q$ and $-q$ are then moved to the points $(-1,2) \\mathrm{mm}$ and $(1,-2) \\mathrm{mm}$, respectively. What is the value of electric potential at $P$ due to the new dipole?",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liioyoet/096d05dc-e5c2-4eda-a14b-9724c8e696b4/3def7450-0389-11ee-add3-0f52d4fe427d/file-1liioyoeu.png?format=png"
+        },
+        "options": {
+            "A": "$\\frac{V_0}{4}$",
+            "B": "$\\frac{V_0}{2}$",
+            "C": "$\\frac{V_0}{\\sqrt{2}}$",
+            "D": "$\\frac{3 V_0}{4}$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "liip3rbs",
+        "question_number": 36,
+        "question_value": {
+            "text": "Young's modulus of elasticity $Y$ is expressed in terms of three derived quantities, namely, the gravitational constant $G$, Planck's constant $h$ and the speed of light $c$, as $Y=c^\\alpha h^\\beta G^\\gamma$. Which of the following is the correct option?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$\\alpha=7, \\beta=-1, \\gamma=-2$",
+            "B": "$\\alpha=-7, \\beta=-1, \\gamma=-2$",
+            "C": "$\\alpha=7, \\beta=-1, \\gamma=2$",
+            "D": "$\\alpha=-7, \\beta=1, \\gamma=-2$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "liip5jt9",
+        "question_number": 37,
+        "question_value": {
+            "text": "A particle of mass $m$ is moving in the $x y$-plane such that its velocity at a point $(x, y)$ is given as $\\overrightarrow{\\mathrm{v}}=\\alpha(y \\hat{x}+2 x \\hat{y})$, where $\\alpha$ is a non-zero constant. What is the force $\\vec{F}$ acting on the particle?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$\\vec{F}=2 m \\alpha^2(x \\hat{x}+y \\hat{y})$",
+            "B": "$\\vec{F}=m \\alpha^2(y \\hat{x}+2 x \\hat{y})$",
+            "C": "$\\vec{F}=2 m \\alpha^2(y \\hat{x}+x \\hat{y})$",
+            "D": "$\\vec{F}=m \\alpha^2(x \\hat{x}+2 y \\hat{y})$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "liip89tq",
+        "question_number": 38,
+        "question_value": {
+            "text": "An ideal gas is in thermodynamic equilibrium. The number of degrees of freedom of a molecule of the gas is $n$. The internal energy of one mole of the gas is $U_n$ and the speed of sound in the gas is $\\mathrm{v}_n$. At a fixed temperature and pressure, which of the following is the correct option?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$v_3 < v_6$ and $U_3 > U_6$",
+            "B": "$v_5 > v_3$ and $U_3 > U_5$",
+            "C": "$v_5 > v_7$ and $U_5 < U_7$",
+            "D": "$v_6 < v_7$ and $U_6 < U_7$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "liipealb",
+        "question_number": 39,
+        "question_value": {
+            "text": "A monochromatic light wave is incident normally on a glass slab of thickness $d$, as shown in the figure. The refractive index of the slab increases linearly from $n_1$ to $n_2$ over the height $h$. Which of the following statement(s) is(are) true about the light wave emerging out of the slab?",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liipc1a4/f953b43c-5cde-4562-b09f-f055d085bd76/b1654bc0-038a-11ee-add3-0f52d4fe427d/file-1liipc1a5.png?format=png"
+        },
+        "options": {
+            "A": "It will deflect up by an angle $\\tan ^{-1}\\left[\\frac{\\left(n_2^2-n_1^2\\right) d}{2 h}\\right]$.",
+            "B": "It will deflect up by an angle $\\tan ^{-1}\\left[\\frac{\\left(n_2-n_1\\right) d}{h}\\right]$.",
+            "C": "It will not deflect.",
+            "D": "The deflection angle depends only on $\\left(n_2-n_1\\right)$ and not on the individual values of $n_1$ and $n_2$."
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "liipimtx",
+        "question_number": 40,
+        "question_value": {
+            "text": "An annular disk of mass $M$, inner radius $a$ and outer radius $b$ is placed on a horizontal surface with coefficient of friction $\\mu$, as shown in the figure. At some time, an impulse $J_0 \\hat{x}$ is applied at a height $h$ above the center of the disk. If $h=h_m$ then the disk rolls without slipping along the $x$-axis. Which of the following statement(s) is(are) correct?",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liipg0yr/30434bd4-964e-4597-9021-abbd67fa12ec/20637330-038b-11ee-add3-0f52d4fe427d/file-1liipg0ys.png?format=png"
+        },
+        "options": {
+            "A": "For $\\mu \\neq 0$ and $a \\rightarrow 0, h_m=b / 2$.",
+            "B": "For $\\mu \\neq 0$ and $a \\rightarrow b, h_m=b$.",
+            "C": "For $h=h_m$, the initial angular velocity does not depend on the inner radius $a$.",
+            "D": "For $\\mu=0$ and $h=0$, the wheel always slides without rolling."
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "liipl6gj",
+        "question_number": 41,
+        "question_value": {
+            "text": "The electric field associated with an electromagnetic wave propagating in a dielectric medium is given by $\\vec{E}=30(2 \\hat{x}+\\hat{y}) \\sin \\left[2 \\pi\\left(5 \\times 10^{14} t-\\frac{10^7}{3} z\\right)\\right] \\mathrm{Vm}^{-1}$. Which of the following option(s) is(are) correct?[Given: The speed of light in vacuum, $c=3 \\times 10^8 \\mathrm{~m} \\mathrm{~s}^{-1}$ ]",
+            "img_url": null
+        },
+        "options": {
+            "A": "$B_x=-2 \\times 10^{-7} \\sin \\left[2 \\pi\\left(5 \\times 10^{14} t-\\frac{10^7}{3} z\\right)\\right] \\mathrm{Wb} \\mathrm{m}^{-2}$.",
+            "B": "$B_y=2 \\times 10^{-7} \\sin \\left[2 \\pi\\left(5 \\times 10^{14} t-\\frac{10^7}{3} z\\right)\\right] \\mathrm{Wb} \\mathrm{m}^{-2}$.",
+            "C": "The wave is polarized in the $x y$-plane with polarization angle $30^{\\circ}$ with respect to the $x$-axis.",
+            "D": "The refractive index of the medium is 2."
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "liippt5s",
+        "question_number": 42,
+        "question_value": {
+            "text": "A thin circular coin of mass $5 \\mathrm{gm}$ and radius $4 / 3 \\mathrm{~cm}$ is initially in a horizontal $x y$-plane. The coin is tossed vertically up ( $+z$ direction) by applying an impulse of $\\sqrt{\\frac{\\pi}{2}} \\times 10^{-2} \\mathrm{~N}$-s at a distance $2 / 3 \\mathrm{~cm}$ from its center. The coin spins about its diameter and moves along the $+z$ direction. By the time the coin reaches back to its initial position, it completes $n$ rotations. The value of $n$ is ________.[Given: The acceleration due to gravity $g=10 \\mathrm{~m} \\mathrm{~s}^{-2}$ ]",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liipp0e3/3734b048-5aac-4d5c-80d2-9b7898ad36d7/1a3a57c0-038c-11ee-add3-0f52d4fe427d/file-1liipp0e4.png?format=png"
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 30.0
+    },
+    {
+        "qid": "liipv6z0",
+        "question_number": 43,
+        "question_value": {
+            "text": "A rectangular conducting loop of length $4 \\mathrm{~cm}$ and width $2 \\mathrm{~cm}$ is in the $x y$-plane, as shown in the figure. It is being moved away from a thin and long conducting wire along the direction $\\frac{\\sqrt{3}}{2} \\hat{x}+\\frac{1}{2} \\hat{y}$ with a constant speed $\\mathrm{v}$. The wire is carrying a steady current $I=10 \\mathrm{~A}$ in the positive $x$-direction. A current of $10 \\mu \\mathrm{A}$ flows through the loop when it is at a distance $d=4 \\mathrm{~cm}$ from the wire. If the resistance of the loop is $0.1 \\Omega$, then the value of $\\mathrm{v}$ is  ________ $\\mathrm{m} \\mathrm{s}^{-1}$.[Given: The permeability of free space $\\mu_0=4 \\pi \\times 10^{-7} \\mathrm{~N} \\mathrm{~A}^{-2}$ ]",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liipt0jd/2a3bdf2a-47b0-4956-b5b9-cda086803b4d/8993be90-038c-11ee-add3-0f52d4fe427d/file-1liipt0je.png?format=png"
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 4.0
+    },
+    {
+        "qid": "liipw400",
+        "question_number": 44,
+        "question_value": {
+            "text": "A string of length $1 \\mathrm{~m}$ and mass $2 \\times 10^{-5} \\mathrm{~kg}$ is under tension $T$. When the string vibrates, two successive harmonics are found to occur at frequencies $750 \\mathrm{~Hz}$ and $1000 \\mathrm{~Hz}$. The value of tension $T$ is ________ Newton.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 5.0
+    },
+    {
+        "qid": "liiq0pu7",
+        "question_number": 45,
+        "question_value": {
+            "text": "An incompressible liquid is kept in a container having a weightless piston with a hole. A capillary tube of inner radius $0.1 \\mathrm{~mm}$ is dipped vertically into the liquid through the airtight piston hole, as shown in the figure. The air in the container is isothermally compressed from its original volume $V_0$ to $\\frac{100}{101} V_0$ with the movable piston. Considering air as an ideal gas, the height $(h)$ of the liquid column in the capillary above the liquid level in $\\mathrm{cm}$ is _______.[Given: Surface tension of the liquid is $0.075 \\mathrm{~N} \\mathrm{~m}^{-1}$, atmospheric pressure is $10^5 \\mathrm{~N} \\mathrm{~m}^{-2}$, acceleration due to gravity $(\\mathrm{g})$ is $10 \\mathrm{~m} \\mathrm{~s}^{-2}$, density of the liquid is $10^3 \\mathrm{~kg} \\mathrm{~m}^{-3}$ and contact angle of capillary surface with the liquid is zero]",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liipzzp9/93012e75-8709-426d-b672-800cde9598e4/4b9852d0-038d-11ee-add3-0f52d4fe427d/file-1liipzzpa.png?format=png"
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 25.0
+    },
+    {
+        "qid": "liiq2cbr",
+        "question_number": 46,
+        "question_value": {
+            "text": "In a radioactive decay process, the activity is defined as $A=-\\frac{d N}{d t}$, where $N(t)$ is the number of radioactive nuclei at time $t$. Two radioactive sources, $S_1$ and $S_2$ have same activity at time $t=0$. At a later time, the activities of $S_1$ and $S_2$ are $A_1$ and $A_2$, respectively. When $S_1$ and $S_2$ have just completed their $3^{\\text {rd }}$ and $7^{\\text {th }}$ half-lives, respectively, the ratio $A_1 / A_2$ is _________.",
+            "img_url": null
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 16.0
+    },
+    {
+        "qid": "liiq5uf5",
+        "question_number": 47,
+        "question_value": {
+            "text": "One mole of an ideal gas undergoes two different cyclic processes I and II, as shown in the $P-V$ diagrams below. In cycle I, processes $a, b, c$ and $d$ are isobaric, isothermal, isobaric and isochoric, respectively. In cycle II, processes $a^{\\prime}, b^{\\prime}, c^{\\prime}$ and $d^{\\prime}$ are isothermal, isochoric, isobaric and isochoric, respectively. The total work done during cycle $\\mathrm{I}$ is $W_I$ and that during cycle II is $W_{I I}$. The ratio $W_I / W_{I I}$ is ________.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/1liiq5ezs/31eb65d6-a676-48ff-976f-2b6856a26109/e2745190-038d-11ee-add3-0f52d4fe427d/file-1liiq5ezt.png?format=png"
+        },
+        "options": {},
+        "type": "numerical",
+        "correct_answer": 2.0
+    }
+]

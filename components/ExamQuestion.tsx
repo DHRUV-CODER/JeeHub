@@ -8,7 +8,10 @@ import { Button } from "./ui/button";
 import { NumericalBox } from "./NumericalBox";
 
 interface ExamQuestionProps {
-  Question: string;
+  Question: {
+    text: string | null;
+    img_url: string;
+  };
   QuestionId: string;
   QuestionNumber: number;
   Options: {
@@ -31,7 +34,7 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
     latexString = latexString.replace(/\$\$(.*?)\$\$/g, "\\($1\\)");
 
     return latexString;
-  }
+}
 
   const [RightAnswer, setCorrectAnswer] = useState("");
   const [SelectedButtonIndex, setSelectedButtonIndex] = useState<number | null>(
@@ -65,9 +68,17 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
         >
           Question {QuestionNumber} :
         </h1>
-        <p className="text-xl py-2 px-1 font-sans text-muted-foreground font-bold ">
-          <Latex>{rectifyLatex(Question)}</Latex>
+        <p className="text-xl py-2 px-1 font-sans text-muted-foreground font-semibold ">
+          <Latex>{rectifyLatex(Question.text ? Question.text : "N.A")}</Latex>
         </p>
+        {Question.img_url && (
+          <img
+            src={Question.img_url}
+            alt={`Ques ${QuestionNumber}`}
+            className="grayscale brightness-200"
+          />
+        )}
+
         <div className="grid grid-cols-2 gap-4 w-full py-5">
           {Object.entries(Options).length === 0 ? (
             <NumericalBox RightAns={CorrectAnswer} />
@@ -78,7 +89,7 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
                   // Render the option text directly
                   <Button
                     variant="ghost"
-                    className={`w-full font-sans font-semibold text-left sm:text-xs lg:text-lg overflow-hidden overflow-ellipsis whitespace-nowrap  ${
+                    className={`w-full font-sans font-semibold text-left sm:text-xs lg:text-lg overflow-hidden overflow-ellipsis whitespace-nowrap px-3 py-2 ${
                       RightAnswer === "Correct" && SelectedButtonIndex === index
                         ? "bg-green-500 text-black"
                         : RightAnswer === "Wrong" &&

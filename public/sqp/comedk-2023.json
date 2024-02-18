@@ -1,0 +1,2894 @@
+[
+    {
+        "qid": "jaoe38c1lpyuhuis",
+        "question_number": 1,
+        "question_value": {
+            "text": "Which of the following hexoses will form the same osazone when treated with excess phenyl hydrazine?",
+            "img_url": null
+        },
+        "options": {
+            "A": "D-glucose, D-fructose and D-galactose",
+            "B": "D-glucose, D-fructose and D-mannose",
+            "C": "D-glucose, D-mannose and D-galactose",
+            "D": "D-fructose, D-mannose and D-galactose"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpyv5hws",
+        "question_number": 2,
+        "question_value": {
+            "text": "Product of the following reaction is",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzh4s6/1d3b53e1-e9bf-4d87-98ef-a5741d24080c/98ec5160-9e3a-11ee-88dd-593bb30ed511/file-6y3zli1lqbzh4s7.png?format=png"
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzh1l4/41d66962-ef6d-43b8-b39b-0c11174baa0b/96744c80-9e3a-11ee-88dd-593bb30ed511/file-6y3zli1lqbzh1l5.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzgwz1/233754e9-966a-42bc-8a0c-bd86912e1406/92e3f9d0-9e3a-11ee-88dd-593bb30ed511/file-6y3zli1lqbzgwz2.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzgs9o/a99ef3a3-a1a0-4dc3-9a8e-e0421b04a754/8f41a5c0-9e3a-11ee-88dd-593bb30ed511/file-6y3zli1lqbzgs9p.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzgnmd/48dc582e-bef4-4172-925f-5813447666b3/8baac360-9e3a-11ee-88dd-593bb30ed511/file-6y3zli1lqbzgnme.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpyvvzy4",
+        "question_number": 3,
+        "question_value": {
+            "text": "Which one of the following is an example of step growth polymerisation?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Teflon",
+            "B": "Neoprene",
+            "C": "Nylon 6,6",
+            "D": "Buna-S"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpyvy7fg",
+        "question_number": 4,
+        "question_value": {
+            "text": "Acetophenone when reacted with a base, $$\\mathrm{C}_2 \\mathrm{H}_5 \\mathrm{ONa}$$, yields a stable compound which has the structure",
+            "img_url": null
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzkqpm/670b49c6-2035-45ba-b16e-1ec105623d97/fd4a49a0-9e3a-11ee-88dd-593bb30ed511/file-6y3zli1lqbzkqpn.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzkns4/abdab440-4ea0-442b-b386-5aa956b93fcf/fb06c240-9e3a-11ee-88dd-593bb30ed511/file-6y3zli1lqbzkns5.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzkka1/c8fb181c-8dca-454d-8066-dbba6586d08c/f8522990-9e3a-11ee-88dd-593bb30ed511/file-6y3zli1lqbzkka2.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzkgme/9fdb791e-2f39-4c93-b748-4903ecf8d831/f57f0c60-9e3a-11ee-88dd-593bb30ed511/file-6y3zli1lqbzkgmf.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpz0969l",
+        "question_number": 5,
+        "question_value": {
+            "text": "Gabriel's synthesis is used frequency for the preparation of which of the following?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1^{\\circ}$$ amines",
+            "B": "$$1^{\\circ}$$ alcohols",
+            "C": "$$3^{\\circ}$$ amines",
+            "D": "$$3^{\\circ}$$ alcohols"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpz68jy9",
+        "question_number": 6,
+        "question_value": {
+            "text": "The product P in the reaction,",
+            "img_url": null
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzol1n/9fc51953-694d-4e44-9a90-4ed7fe141c07/682665b0-9e3b-11ee-88dd-593bb30ed511/file-6y3zli1lqbzol1o.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzog3e/8f31d396-22ad-4322-891f-18e2933dcb03/64533da0-9e3b-11ee-88dd-593bb30ed511/file-6y3zli1lqbzog3f.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzobei/30e81718-2bc3-438b-a9e9-13724d300c4f/60b381a0-9e3b-11ee-88dd-593bb30ed511/file-6y3zli1lqbzobej.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzo654/f2ec9a81-1dca-4ec9-86f0-3dd2017c9ed4/5ca32980-9e3b-11ee-88dd-593bb30ed511/file-6y3zli1lqbzo655.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lpz6kara",
+        "question_number": 8,
+        "question_value": {
+            "text": "A drug that is antipyretic as well as analgesic is",
+            "img_url": null
+        },
+        "options": {
+            "A": "chloroquine",
+            "B": "penicilline",
+            "C": "paracetamol",
+            "D": "chloropromazine hydrochloride"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpz6mzhu",
+        "question_number": 9,
+        "question_value": {
+            "text": "Ozone in stratosphere is depleted by",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{C}_7 \\mathrm{F}_{16}$$",
+            "B": "$$\\mathrm{CF}_2 \\mathrm{Cl}_2$$",
+            "C": "$$\\mathrm{C}_6 \\mathrm{H}_6 \\mathrm{Cl}_2$$",
+            "D": "$$\\mathrm{CF}_3 \\mathrm{Cl}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpz77hhh",
+        "question_number": 10,
+        "question_value": {
+            "text": "Which of the following is incorrect?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Primary alcohols are very easily oxidised to aldehydes, which are oxidised to acids with same number of C-atoms.",
+            "B": "Secondary alcohols are very easily oxidised to ketones, which are oxidised to acids with same number of C-atoms.",
+            "C": "Secondary alcohols are easily oxidised to ketones, which are oxidised to acids with lesser number of $$\\mathrm{C}$$-atoms.",
+            "D": "Secondary and tertiary alcohols on oxidation form acids with lesser number of C-atoms."
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpz7o6uz",
+        "question_number": 11,
+        "question_value": {
+            "text": "Rank the following compounds in order of increasing basicity.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzr0j6/c37fa700-0cb4-4774-a28b-29c2568623fd/abbb4520-9e3b-11ee-88dd-593bb30ed511/file-6y3zli1lqbzr0j7.png?format=png"
+        },
+        "options": {
+            "A": "4 < 2 < 1 < 3",
+            "B": "4 < 1 < 3 < 2",
+            "C": "4 < 3 < 1 < 2",
+            "D": "2 < 1 < 3 < 4"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpz7v1r6",
+        "question_number": 12,
+        "question_value": {
+            "text": "Ammoniacal silver nitrate forms a white precipitate easily with",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{CH}_3 \\mathrm{C}=\\mathrm{CH}$$",
+            "B": "$$\\mathrm{CH}_3 \\mathrm{C}=\\mathrm{CCH}_3$$",
+            "C": "$$\\mathrm{CH}_3 \\mathrm{CH}=\\mathrm{CH}_2$$",
+            "D": "$$\\mathrm{CH}_2=\\mathrm{CH}_2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpz7xm11",
+        "question_number": 13,
+        "question_value": {
+            "text": "Which defect leads to decrease in the density of crystal?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Schottky",
+            "B": "F-centre",
+            "C": "Frenkel",
+            "D": "Interstitial"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzas2i2",
+        "question_number": 15,
+        "question_value": {
+            "text": "Which of the following is incorrect regarding Henry's law?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Gas reacts with solvent chemically.",
+            "B": "Pressure and concentrations are not too high.",
+            "C": "Temperature is not too low.",
+            "D": "Gas does not change its molecular state in solution i.e., neither dissociates nor associates."
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzauao7",
+        "question_number": 16,
+        "question_value": {
+            "text": "$$t$$-butyl chloride preferably undergo hydrolysis by",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{S}_{\\mathrm{N}} 1$$ mechanism",
+            "B": "$$\\mathrm{S}_{\\mathrm{N}} 1$$ mechanism",
+            "C": "any of (a) and (b)",
+            "D": "None of the above"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzcht6f",
+        "question_number": 17,
+        "question_value": {
+            "text": "Which of the following is not true?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Enthalpy change in negative for adsorption of a gas on solid.",
+            "B": "Increase in temperature favours adsorption.",
+            "C": "Adsorption is a surface phenomena.",
+            "D": "Entropy change is negative."
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpzd4bib",
+        "question_number": 18,
+        "question_value": {
+            "text": "Which of these represents the correct order of decreasing bond order?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{C}_2^{2-}>\\mathrm{O}_2^{2+}>\\mathrm{O}_2^{-}>\\mathrm{He}_2^{2+}$$",
+            "B": "$$\\mathrm{O}_2^{-}>\\mathrm{O}_2^{+}>\\mathrm{He}_2^{+}>\\mathrm{C}_2^{2-}$$",
+            "C": "$$\\mathrm{He}_2^{+}>\\mathrm{O}_2^{-}>\\mathrm{C}_2^{2-}>\\mathrm{O}_2^{+}$$",
+            "D": "$$\\mathrm{He}_2^{+}>\\mathrm{O}_2^{2-}>\\mathrm{O}_2^{+}>\\mathrm{O}_2^{-}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzd7mid",
+        "question_number": 19,
+        "question_value": {
+            "text": "In a $$0.2 \\mathrm{~M}$$ aqueous solution, lactic acid is $$6.9 \\%$$ dissociated. The value of dissociation constant is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1.2 \\times 10^{-4}$$",
+            "B": "$$9.5 \\times 10^{-4}$$",
+            "C": "$$6.5 \\times 10^{-4}$$",
+            "D": "$$3.6 \\times 10^{-2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpzdnmx9",
+        "question_number": 20,
+        "question_value": {
+            "text": "Pick up the correct statement.",
+            "img_url": null
+        },
+        "options": {
+            "A": "Dipole moment of ammonia is due to orbital dipole and resultant diapole in same direction.",
+            "B": "$$\\mathrm{O}_2, \\mathrm{H}_2$$ shown bond diapole due to polarisation.",
+            "C": "Dipole moment is scalar quantity.",
+            "D": "In $$\\mathrm{BF}_3$$ bond dicopoles are zero but dipole moment is higher."
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzfyuw2",
+        "question_number": 21,
+        "question_value": {
+            "text": "Total number of $$\\sigma$$ and $$\\pi$$ bonds in ethene molecule is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1 \\sigma$$ and $$2 \\pi$$ bonds",
+            "B": "$$5 \\sigma$$ and $$1 \\pi$$ bonds",
+            "C": "$$5 \\sigma$$ and $$2 \\pi$$ bonds",
+            "D": "$$3 \\sigma$$ and $$1 \\pi$$ bonds"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpzg0ywx",
+        "question_number": 22,
+        "question_value": {
+            "text": "A buffer solution has equal volumes of $$0.1 \\mathrm{~M} \\mathrm{~NH}_4 \\mathrm{OH}$$ and $$0.01 \\mathrm{~M} \\mathrm{~NH}_4 \\mathrm{Cl}$$. The $$\\mathrm{pK}_b$$ of the base is 5. The $$\\mathrm{pH}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "10",
+            "B": "9",
+            "C": "4",
+            "D": "7"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzh1uvv",
+        "question_number": 23,
+        "question_value": {
+            "text": "Oil of winter green is",
+            "img_url": null
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzuplw/d639db2e-c829-4f9c-9914-6803e4ebdafd/12877e40-9e3c-11ee-88dd-593bb30ed511/file-6y3zli1lqbzuplx.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzulb8/4b0969c7-9ebf-4b41-bd6d-957e5e945525/0f35e240-9e3c-11ee-88dd-593bb30ed511/file-6y3zli1lqbzulb9.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzuh2m/5ab99c68-7b3d-413b-92f1-32e6279fb4f2/0bef90e0-9e3c-11ee-88dd-593bb30ed511/file-6y3zli1lqbzuh2n.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzuco5/7a8b158f-99dc-4321-9d4f-33c7ce1f2ae8/08890d50-9e3c-11ee-88dd-593bb30ed511/file-6y3zli1lqbzuco6.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzhetlu",
+        "question_number": 24,
+        "question_value": {
+            "text": "Assuming no change in volume, the time required to obtain solution of $$\\mathrm{pH}=4$$ by electrolysis of $$100 \\mathrm{~mL}$$ of $$0.1 \\mathrm{~M} \\mathrm{~NaOH}$$ (using current $$0.5 \\mathrm{~A}$$ ) will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "1.93 s",
+            "B": "2.63 s",
+            "C": "1.80 s",
+            "D": "4.26 s"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzhj1wr",
+        "question_number": 25,
+        "question_value": {
+            "text": "In a normal spinel type structure, the oxide ions are arranged in ccp, whereas $$1 / 8$$ tetrahedral holes are occupied by $$\\mathrm{Zn}^{2+}$$ ions and $$50 \\%$$ of octahedral holes are occupied by $$\\mathrm{Fe}^{3+}$$ ions. The formula of compound is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{ZnFe}_2 \\mathrm{O}_4$$",
+            "B": "$$\\mathrm{ZnFe}_2 \\mathrm{O}_3$$",
+            "C": "$$\\mathrm{ZnFe}_2 \\mathrm{O}_2$$",
+            "D": "$$\\mathrm{Zn}_2 \\mathrm{Fe}_2 \\mathrm{O}_4$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzhupsr",
+        "question_number": 26,
+        "question_value": {
+            "text": "Which of the following compounds would not be expected to decarboxylate when heated?",
+            "img_url": null
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzyf4d/2ccb63b2-be64-4ce0-9100-db1adc9b79b8/79aa3bd0-9e3c-11ee-88dd-593bb30ed511/file-6y3zli1lqbzyf4e.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzybrn/c8577b23-7ecf-4ae5-a1f3-cba9d2ab3e2b/77131630-9e3c-11ee-88dd-593bb30ed511/file-6y3zli1lqbzybro.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzy8c5/44a8a18e-68e5-436a-bf8a-ce68d14e682b/746cae50-9e3c-11ee-88dd-593bb30ed511/file-6y3zli1lqbzy8c6.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzy4ks/31368237-cada-482f-8628-4628dee6b9f7/71851ec0-9e3c-11ee-88dd-593bb30ed511/file-6y3zli1lqbzy4kt.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpzj37qr",
+        "question_number": 28,
+        "question_value": {
+            "text": "For a cell reaction, $$A(s)+B^{2+}(a q) \\longrightarrow A^{2+}(a q)+B(s)$$; the standard emf of the cell is $$0.295 \\mathrm{~V}$$ at $$25^{\\circ} \\mathrm{C}$$. The equilibrium constant at $$25^{\\circ} \\mathrm{C}$$ will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1 \\times 10^{10}$$",
+            "B": "10",
+            "C": "$$2.95 \\times 10^{-2}$$",
+            "D": "$$2.95 \\times 10^{-10}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzj9vn6",
+        "question_number": 29,
+        "question_value": {
+            "text": "Which of the following shows negative deviation from Raoult's law?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Benzene-acetone",
+            "B": "Benzene-chloroform",
+            "C": "Benzene-ethanol",
+            "D": "Benzene-carbon tetrachloride"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpzjfczd",
+        "question_number": 30,
+        "question_value": {
+            "text": "$$5 \\mathrm{~g}$$ of non-volatile water soluble compound $$X$$ is dissolved in $$100 \\mathrm{~g}$$ of water. The elevation in boiling point is found to be 0.25. The molecular mass of compound $$X$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "35 g",
+            "B": "40 g",
+            "C": "20 g",
+            "D": "60 g"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpzjintd",
+        "question_number": 31,
+        "question_value": {
+            "text": "The correct decreasing order of negative electron gain enthalpy for $$\\mathrm{C}, \\mathrm{Ca}, \\mathrm{Al}, \\mathrm{F}$$ and $$\\mathrm{O}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{F}>\\mathrm{O}>\\mathrm{C}>\\mathrm{Al}>\\mathrm{Ca}$$",
+            "B": "$$\\mathrm{Ca}>\\mathrm{Al}>\\mathrm{O}>\\mathrm{F}>\\mathrm{C}$$",
+            "C": "$$\\mathrm{Al}>\\mathrm{F}>\\mathrm{Ca}>\\mathrm{C}>\\mathrm{O}$$",
+            "D": "$$\\mathrm{F}>\\mathrm{C}>\\mathrm{O}>\\mathrm{Ca}>\\mathrm{Al}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzjtqro",
+        "question_number": 32,
+        "question_value": {
+            "text": "I and II are",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc01miu/5959a8ff-0932-4933-92c8-a22ac410ec09/d2cf9570-9e3c-11ee-88dd-593bb30ed511/file-6y3zli1lqc01miv.png?format=png"
+        },
+        "options": {
+            "A": "identical",
+            "B": "a pair of conformers",
+            "C": "a pair of geometrical isomers",
+            "D": "a pair of optical isomers"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpzlsdyb",
+        "question_number": 33,
+        "question_value": {
+            "text": "$$\\mathrm{Ti}^{2+}$$ is purple while $$\\mathrm{Ti}^{4+}$$ is colourless because",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{Ti}^{2+}$$ has $$3 d^2$$ configuration",
+            "B": "$$\\mathrm{Ti}^{4+}$$ has $$3 d^2$$ configuration",
+            "C": "$$\\mathrm{Ti}^{2+}$$ is very small cation when compared to $$\\mathrm{Ti}^{2+}$$ and hence, doesn't absorb any radiation",
+            "D": "There is no crystal field effect in $$\\mathrm{Ti}^{4+}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpzm6cs6",
+        "question_number": 34,
+        "question_value": {
+            "text": "Given are $$\\mathrm{H}_3 \\mathrm{PO}_2, \\mathrm{H}_3 \\mathrm{PO}_3, \\mathrm{H}_3 \\mathrm{PO}_4$$ and $$\\mathrm{H}_4 \\mathrm{P}_2 \\mathrm{O}_7$$. Which of the above oxacids results into two series of salts?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{H}_3 \\mathrm{PO}_2$$",
+            "B": "$$\\mathrm{H}_3 \\mathrm{PO}_3$$",
+            "C": "$$\\mathrm{H}_3 \\mathrm{PO}_4$$",
+            "D": "$$\\mathrm{H}_4 \\mathrm{P}_2 \\mathrm{O}_7$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpzmk60v",
+        "question_number": 35,
+        "question_value": {
+            "text": "In Friedal-Crafts alkylation reaction of phenol with chloromethane, the product formed will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$p$$-cresol only",
+            "B": "$$m$$-cresol only",
+            "C": "mixture of $$o$$-and $$p$$-cresol",
+            "D": "$$o$$-cresol only"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpznpmaw",
+        "question_number": 36,
+        "question_value": {
+            "text": "Which among the following is diamagnetic?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\left[\\mathrm{Ni}(\\mathrm{CN})_4\\right]^{2-}$$",
+            "B": "$$\\left[\\mathrm{Co}\\left(\\mathrm{F}_6\\right)\\right]^{3-}$$",
+            "C": "$$\\left[\\mathrm{NiCl}_4\\right]^{2-}$$",
+            "D": "$$\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]^{3-}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpznum1s",
+        "question_number": 37,
+        "question_value": {
+            "text": "$$\\mathrm{NaCl}$$ has face centred structure with edge length equal to $$361 \\mathrm{~pm}$$. The radius is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$127.6 \\mathrm{~pm}$$",
+            "B": "$$180.5 \\mathrm{~pm}$$",
+            "C": "$$64 \\mathrm{~pm}$$",
+            "D": "$$160.5 \\mathrm{~pm}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpznw5qk",
+        "question_number": 38,
+        "question_value": {
+            "text": "Which one of the following is an important component of chlorophyll?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Mn",
+            "B": "Mg",
+            "C": "Fe",
+            "D": "Zn"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpznywmi",
+        "question_number": 39,
+        "question_value": {
+            "text": "The order of acidic strength of boron trihalides is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{BI}_3<\\mathrm{BBr}_3<\\mathrm{BCl}_3<\\mathrm{BF}_3$$",
+            "B": "$$\\mathrm{BF}_3<\\mathrm{BCl}_3<\\mathrm{BBr}_3<\\mathrm{BI}_3$$",
+            "C": "$$\\mathrm{BBr}_3<\\mathrm{BCl}_3<\\mathrm{BF}_3<\\mathrm{BI}_3$$",
+            "D": "$$\\mathrm{BCl}_3<\\mathrm{BBr}_3<\\mathrm{BI}_3<\\mathrm{BF}_3$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpzo0kut",
+        "question_number": 40,
+        "question_value": {
+            "text": "A volatile compound is formed by carbon monoxide and",
+            "img_url": null
+        },
+        "options": {
+            "A": "Cu",
+            "B": "Al",
+            "C": "Ni",
+            "D": "Si"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq0cbqja",
+        "question_number": 41,
+        "question_value": {
+            "text": "The complex $$\\left[\\mathrm{PtCl}_2(\\mathrm{en})_2\\right]^{2+}$$ ion shows",
+            "img_url": null
+        },
+        "options": {
+            "A": "structural isomerism",
+            "B": "geometrical isomerism only",
+            "C": "optical isomerism only",
+            "D": "geometrical and optical isomerism"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq0cgf4q",
+        "question_number": 42,
+        "question_value": {
+            "text": "$$15 \\mathrm{~g}$$ of $$\\mathrm{CaCO}_3$$ completely reacts with",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$6.95 \\mathrm{~g}$$ of $$\\mathrm{HCl}$$",
+            "B": "10.95 g of $$\\mathrm{HCl}$$",
+            "C": "$$11.95 \\mathrm{~g}$$ of $$\\mathrm{HCl}$$",
+            "D": "$$1.15 \\mathrm{~g}$$ of $$\\mathrm{HCl}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0chpx3",
+        "question_number": 43,
+        "question_value": {
+            "text": "The behaviour of real gas approaches ideal behaviour at",
+            "img_url": null
+        },
+        "options": {
+            "A": "low temperature, low pressure",
+            "B": "low pressure, high temperature",
+            "C": "high pressure, low temperature",
+            "D": "high temperature, high pressure"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0cmg40",
+        "question_number": 44,
+        "question_value": {
+            "text": "Bohr's radius of 2 nd orbit of $$\\mathrm{Be}^{3+}$$ is equal to that of",
+            "img_url": null
+        },
+        "options": {
+            "A": "4th orbit of hydrogen",
+            "B": "2nd orbit of $$\\mathrm{He}^{+}$$",
+            "C": "$$3 \\mathrm{rd}$$ obit of $$\\mathrm{Li}^{2+}$$",
+            "D": "1st orbit of hydrogen"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq0cofwb",
+        "question_number": 45,
+        "question_value": {
+            "text": "How much faster would a reaction proceed at $$25^{\\circ} \\mathrm{C}$$ than at $$0^{\\circ} \\mathrm{C}$$ if the activation energy is $$65 \\mathrm{~kJ}$$?",
+            "img_url": null
+        },
+        "options": {
+            "A": "4 times",
+            "B": "6 times",
+            "C": "12 times",
+            "D": "11 times"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq0cvvqt",
+        "question_number": 46,
+        "question_value": {
+            "text": "The blue colouration obtained from the Lassaigne's test of nitrogen is due to the formation of",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{Fe}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_3$$",
+            "B": "$$\\mathrm{Fe}_2\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_5$$",
+            "C": "$$\\mathrm{K}_2\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_5$$",
+            "D": "$$\\mathrm{K}_4\\left[\\mathrm{Fe}(\\mathrm{CN})_6\\right]_3$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0cxzfs",
+        "question_number": 47,
+        "question_value": {
+            "text": "The ion that is isoelectronic with $$\\mathrm{CO}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{O}_2^{+}$$",
+            "B": "$$\\mathrm{CN}^{-}$$",
+            "C": "$$\\mathrm{O}_2^{-}$$",
+            "D": "$$\\mathrm{N}_2^{+}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0d2tln",
+        "question_number": 48,
+        "question_value": {
+            "text": "At $$300 \\mathrm{~K}$$, the half-life period of a gaseous reaction at an initial pressure of $$40 \\mathrm{~kPa}$$ is 350 s. When pressure is $$20 \\mathrm{~kPa}$$, the half-life period is 175 s. What is the order of the reaction?",
+            "img_url": null
+        },
+        "options": {
+            "A": "Three",
+            "B": "Two",
+            "C": "One",
+            "D": "Zero"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq0dalo3",
+        "question_number": 49,
+        "question_value": {
+            "text": "If 2 moles of $$\\mathrm{C}_6 \\mathrm{H}_6(\\mathrm{~g})$$ are completely burnt $$4100 \\mathrm{~kJ}$$ of heat is liberated. If $$\\Delta H^{\\circ}$$ for $$\\mathrm{CO}_2(\\mathrm{~g})$$ and $$\\mathrm{H}_2 \\mathrm{O}(l)$$ are $$-410$$ and $$-285 \\mathrm{~kJ}$$ per mole respectively then the heat of formation of $$\\mathrm{C}_2 \\mathrm{H}_6(g)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$-116 \\mathrm{~kJ}$$",
+            "B": "$$-375 \\mathrm{~kJ}$$",
+            "C": "$$-775 \\mathrm{~kJ}$$",
+            "D": "$$-885 \\mathrm{~kJ}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0dcv57",
+        "question_number": 50,
+        "question_value": {
+            "text": "Abnormal colligative properties are observed only when the dissolved non-volatile solute in a given dilute solution",
+            "img_url": null
+        },
+        "options": {
+            "A": "is a non-electrolyte",
+            "B": "offers an intense colour",
+            "C": "associates and dissociates",
+            "D": "offers no colour"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq0dhckw",
+        "question_number": 51,
+        "question_value": {
+            "text": "Aqueous $$\\mathrm{CuSO}_4$$ changes its colour from sky blue to deep blue on addition of $$\\mathrm{NH}_3$$ because",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{Cu}^{2+}$$ forms hydrate",
+            "B": "$$\\mathrm{Cu}^{2+}$$ changes to $$\\mathrm{Cu}^{+}$$",
+            "C": "$$\\left[\\mathrm{Cu}\\left(\\mathrm{H}_2 \\mathrm{O}\\right)_4\\right]^{2+}$$ is labile complex and changes to $$\\left[\\mathrm{Cu}\\left(\\mathrm{NH}_3\\right)_4\\right]^{2+}$$ as $$\\mathrm{NH}_3$$ is stronger ligand than $$\\mathrm{H}_2 \\mathrm{O}$$",
+            "D": "$$\\mathrm{Cu}^{+}$$ changes to $$\\mathrm{Cu}^{2+}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq0dnhpo",
+        "question_number": 52,
+        "question_value": {
+            "text": "Identify A, B and C.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc0vjur/5a8c5a7c-3ad7-4ee1-9660-cf59041c5f66/1305d930-9e40-11ee-88dd-593bb30ed511/file-6y3zli1lqc0vjus.png?format=png"
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc0ug4v/205f0fef-e38d-4f46-9720-123164ba1edf/f4573bf0-9e3f-11ee-88dd-593bb30ed511/file-6y3zli1lqc0ug4w.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc0uaqa/80a64224-0f38-481a-ac77-f36ddb588586/f02a5b20-9e3f-11ee-88dd-593bb30ed511/file-6y3zli1lqc0uaqb.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc0u6p2/9af5bffd-47de-4efe-a4b2-67cbc3610b51/ed0cc770-9e3f-11ee-88dd-593bb30ed511/file-6y3zli1lqc0u6p3.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc0u1xq/8fa1b3fd-6535-49f2-b6bc-8a36628faf8b/e95f9df0-9e3f-11ee-88dd-593bb30ed511/file-6y3zli1lqc0u1xr.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0ds2dj",
+        "question_number": 53,
+        "question_value": {
+            "text": "Decomposition of hydrogen peroxide can be prevented by adding",
+            "img_url": null
+        },
+        "options": {
+            "A": "urea",
+            "B": "$$\\mathrm{MnO}_2$$",
+            "C": "oxalic acid",
+            "D": "$$\\mathrm{NaOH}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0dxpp2",
+        "question_number": 54,
+        "question_value": {
+            "text": "For a reaction, $$2 A+B \\longrightarrow$$ products,\nIf concentration of $$B$$ is kept constant and concentration of $$A$$ is doubled then rate of reaction is",
+            "img_url": null
+        },
+        "options": {
+            "A": "doubled",
+            "B": "quadrupled",
+            "C": "halved",
+            "D": "remain same"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0e6ag2",
+        "question_number": 55,
+        "question_value": {
+            "text": "For an adiabatic change in a system, the condition which is applicable is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$q=0$$",
+            "B": "$$w=0$$",
+            "C": "$$q=-w$$",
+            "D": "$$q=w$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0e8d9i",
+        "question_number": 56,
+        "question_value": {
+            "text": "In dilute alkaline solution $$\\mathrm{MnO}_4^{-}$$ changes to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{MnO}_2$$",
+            "B": "$$\\mathrm{MnO}_4^{-}$$",
+            "C": "$$\\mathrm{MnO}$$",
+            "D": "$$\\mathrm{Mn}_2 \\mathrm{O}_3$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0efphr",
+        "question_number": 58,
+        "question_value": {
+            "text": "",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc113y5/a2d946e8-ae3b-4aa8-ac6b-f8a70e6a4deb/ad973ed0-9e40-11ee-88dd-593bb30ed511/file-6y3zli1lqc113y6.png?format=png"
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc0zya5/2b05f65d-111e-4d36-a759-cde5e7b99cbd/8d677fd0-9e40-11ee-88dd-593bb30ed511/file-6y3zli1lqc0zya6.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc0ztc9/1fe42592-76c8-4cb7-b666-dcaae2314640/89965390-9e40-11ee-88dd-593bb30ed511/file-6y3zli1lqc0ztca.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc0zmxw/fa9392c5-4b59-4583-b3c9-604432a809fe/84a4ea40-9e40-11ee-88dd-593bb30ed511/file-6y3zli1lqc0zmxx.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc0zh63/f81f0685-db20-476f-8fdc-4cab297d8a51/802f67b0-9e40-11ee-88dd-593bb30ed511/file-6y3zli1lqc0zh64.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0eilq9",
+        "question_number": 59,
+        "question_value": {
+            "text": "The ratio of average velocity of a gas molecule to the root mean square velocity at a particular temperature is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1: 1.81$$",
+            "B": "$$1.81: 1$$",
+            "C": "$$2 .: 1.81$$",
+            "D": "$$1.81: 2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0ektq5",
+        "question_number": 60,
+        "question_value": {
+            "text": "Mohr's salt has the formula",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathrm{FeSO}_4 \\cdot 7 \\mathrm{H}_2 \\mathrm{O}$$",
+            "B": "$$\\mathrm{FeSO}_4\\left(\\mathrm{NH}_4\\right)_2 \\mathrm{SO}_4 \\cdot 6 \\mathrm{H}_2 \\mathrm{O}$$",
+            "C": "$$\\mathrm{Fe}\\left(\\mathrm{SO}_4\\right)_3\\left(\\mathrm{NH}_4\\right)_2 \\mathrm{SO}_4 \\cdot 6 \\mathrm{H}_2 \\mathrm{O}$$",
+            "D": "$$\\mathrm{MgSO}_4 \\cdot 7 \\mathrm{H}_2 \\mathrm{O}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0m0mqy",
+        "question_number": 61,
+        "question_value": {
+            "text": "The value of $$a^{\\log _b c}-c^{\\log _b a}$$, where $$a, b, c>0$$ but $$a, b, c \\neq 1$$, is",
+            "img_url": null
+        },
+        "options": {
+            "A": "a",
+            "B": "b",
+            "C": "c",
+            "D": "0"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq0m4eyk",
+        "question_number": 62,
+        "question_value": {
+            "text": "The slope of the tangent to the curve, $$y=x^2-x y$$ at $$\\left(1, \\frac{1}{2}\\right)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{4}{3}$$",
+            "B": "$$\\frac{2}{3}$$",
+            "C": "$$\\frac{3}{4}$$",
+            "D": "$$\\frac{3}{2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq0mb04y",
+        "question_number": 63,
+        "question_value": {
+            "text": "The value of $$\\lim _\\limits{x \\rightarrow 0} \\frac{e^{a x}-e^{b x}}{2 x}$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{a+b}{2}$$",
+            "B": "$$\\frac{a-b}{2}$$",
+            "C": "$$\\frac{e^{a b}}{2}$$",
+            "D": "0"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0mee1p",
+        "question_number": 64,
+        "question_value": {
+            "text": "The points of intersection of circles $$(x+1)^2+y^2=4$$ and $$(x-1)^2+y^2=9$$ are $$(a, \\pm b)$$, then $$(a, b)$$ equals to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\left(1.25, \\frac{3}{4} \\sqrt{7}\\right)$$",
+            "B": "$$\\left(-1.25, \\frac{3}{4} \\sqrt{7}\\right)$$",
+            "C": "$$(-1,2)$$",
+            "D": "$$(1,3)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0mlysz",
+        "question_number": 66,
+        "question_value": {
+            "text": "The circle $$x^2+y^2+3 x-y+2=0$$ cuts an intercept on $$X$$-axis of length",
+            "img_url": null
+        },
+        "options": {
+            "A": "3",
+            "B": "4",
+            "C": "2",
+            "D": "1"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq0nqjxj",
+        "question_number": 67,
+        "question_value": {
+            "text": "Let $$f(x)=a+(x-4)^{\\frac{4}{9}}$$, then minima of $$f(x)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "4",
+            "B": "a",
+            "C": "a $$-$$ 4",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0pvt1v",
+        "question_number": 68,
+        "question_value": {
+            "text": "If $$f(x) = \\left\\{ {\\matrix{\n   {2\\sin x} & ; & { - \\pi  \\le x \\le {{ - \\pi } \\over 2}}  \\cr \n   {a\\sin x + b} & ; & { - {\\pi  \\over 2} < x < {\\pi  \\over 2}}  \\cr \n   {\\cos x} & ; & {{\\pi  \\over 2} \\le x \\le \\pi }  \\cr \n\n } } \\right.$$ and it is continuous on $$[-\\pi, \\pi]$$, then",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$a=1$$ and $$b=1$$",
+            "B": "$$a=-1$$ and $$b=-1$$",
+            "C": "$$a=-1$$ and $$b=1$$",
+            "D": "$$a=1$$ and $$b=-1$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq0q5dh3",
+        "question_number": 69,
+        "question_value": {
+            "text": "The value of $$\\lim _\\limits{x \\rightarrow \\infty}\\left(\\frac{x^2-2 x+1}{x^2-4 x+2}\\right)^{2 x}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$e^2$$",
+            "B": "$$e^4$$",
+            "C": "$$e$$",
+            "D": "$$e^{16}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0u0dt3",
+        "question_number": 70,
+        "question_value": {
+            "text": "$$S \\equiv x^2+y^2-2 x-4 y-4=0$$ and $$S^{\\prime} \\equiv x^2+y^2-4 x-2 y-16=0$$ are two circles the point $$(-2,-1)$$ lies",
+            "img_url": null
+        },
+        "options": {
+            "A": "inside $$S^{\\prime}$$ only",
+            "B": "inside $$S$$ only",
+            "C": "inside $$S$$ and $$S^{\\prime}$$",
+            "D": "outside $$S$$ and $$S^{\\prime}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0u5bel",
+        "question_number": 71,
+        "question_value": {
+            "text": "A number $$\\mathrm{n}$$ is chosen at random from $$s=\\{1,2,3, \\ldots, 50\\}$$. Let $$\\mathrm{A}=\\{n \\in s: n$$ is a square $$\\}$$, $$\\mathrm{B}=\\{n \\in s: n$$ is a prime$$\\}$$ and $$\\mathrm{C}=\\{n \\in s: n$$ is a square$$\\}$$. Then, correct order of their probabilities is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$p(A) < p(B) < p(C)$$",
+            "B": "$$p(A) > p(B) > p(C)$$",
+            "C": "$$p(\\mathrm{~B}) < p(\\mathrm{~A}) < p(C)$$",
+            "D": "$$p(A) > p(c) > p(B)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0u8xee",
+        "question_number": 72,
+        "question_value": {
+            "text": "The feasible region for the inequations $$x+2 y \\geq 4,2 x+y \\leq 6, x, y \\geq 0$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc1t73a/3ddb671f-c574-4a32-ba7a-ea1e439c48c3/baacac60-9e43-11ee-99f7-7dc705667f5f/file-6y3zli1lqc1t73b.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc1t28s/eae2b8c7-4645-4169-a9fc-9333c852c80d/b6ee1dc0-9e43-11ee-99f7-7dc705667f5f/file-6y3zli1lqc1t28t.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc1sxpo/1760b560-d34f-4495-ae7a-c42c4fd64137/b36e1ec0-9e43-11ee-99f7-7dc705667f5f/file-6y3zli1lqc1sxpp.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc1ssr7/13daf1a2-14e3-4a6a-ae21-7ba049cf2c4c/af99be30-9e43-11ee-99f7-7dc705667f5f/file-6y3zli1lqc1ssr8.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0ucd8q",
+        "question_number": 73,
+        "question_value": {
+            "text": "The maximum value of $$Z=10 x+16 y$$, subject to constraints $$x \\geq 0, y \\geq 0, x+y \\leq 12,2 x+y \\leq 20$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "144",
+            "B": "192",
+            "C": "120",
+            "D": "240"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0us10m",
+        "question_number": 74,
+        "question_value": {
+            "text": "If $$A=\\left[\\begin{array}{ll}2 & 2 \\\\ 3 & 4\\end{array}\\right]$$, then $$A^{-1}$$ equals to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\left[\\begin{array}{cc}2 & 1 \\\\ -3 / 2 & -1\\end{array}\\right]$$",
+            "B": "$$\\left[\\begin{array}{cc}2 & -1 \\\\ -3 / 2 & 1\\end{array}\\right]$$",
+            "C": "$$\\left[\\begin{array}{cc}-2 & 1 \\\\ 3 / 2 & -1\\end{array}\\right]$$",
+            "D": "$$\\left[\\begin{array}{cc}-2 & -1 \\\\ 3 / 2 & 1\\end{array}\\right]$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0uvk4d",
+        "question_number": 75,
+        "question_value": {
+            "text": "If $$A$$ is a matrix of order $$4 \\operatorname{such}$$ that $$A(\\operatorname{adj} A)=10 \\mathrm{~I}$$, then $$|\\operatorname{adj} A|$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "10",
+            "B": "100",
+            "C": "1000",
+            "D": "10000"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq0uy2dq",
+        "question_number": 76,
+        "question_value": {
+            "text": "If $$A=\\left[\\begin{array}{cc}k+1 & 2 \\\\ 4 & k-1\\end{array}\\right]$$ is a singular matrix, then possible values of $$\\mathrm{k}$$ are",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\pm 1$$",
+            "B": "$$\\pm 2$$",
+            "C": "$$\\pm 3$$",
+            "D": "$$\\pm 4$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq0v7jtk",
+        "question_number": 77,
+        "question_value": {
+            "text": "The angle between the vectors $$\\mathbf{a}=\\hat{\\mathbf{i}}+2 \\hat{\\mathbf{j}}+2 \\hat{\\mathbf{k}}$$ and $$\\mathbf{b}=\\hat{\\mathbf{i}}+2 \\hat{\\mathbf{j}}-2 \\hat{\\mathbf{k}}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sin ^{-1}(1 / 9)$$",
+            "B": "$$\\sin ^{-1}(8 / 9)$$",
+            "C": "$$\\cos ^{-1}(8 / 9)$$",
+            "D": "$$\\cos ^{-1}(1 / 9)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq0vqoty",
+        "question_number": 78,
+        "question_value": {
+            "text": "If the vectors $$\\mathbf{a}=2 \\hat{\\mathbf{i}}-3 \\hat{\\mathbf{j}}+4 \\hat{\\mathbf{k}} ; \\mathbf{b}=\\hat{\\mathbf{i}}+2 \\hat{\\mathbf{j}}-\\hat{\\mathbf{k}}$$ and $$\\mathbf{c}=m \\hat{\\mathbf{i}}-\\hat{\\mathbf{j}}+2 \\hat{\\mathbf{k}}$$ are coplanar, then the value of $$m$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{5}{8}$$",
+            "B": "$$\\frac{8}{5}$$",
+            "C": "$$\\frac{-7}{4}$$",
+            "D": "$$\\frac{2}{3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0vu9r8",
+        "question_number": 79,
+        "question_value": {
+            "text": "The maximum value of $$Z=12 x+13 y$$, subject to constraints $$x \\geq 0, y \\geq 0, x+y \\leq 5$$ and $$3 x+y \\leq 9$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "63",
+            "B": "65",
+            "C": "60",
+            "D": "117"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0vymx3",
+        "question_number": 80,
+        "question_value": {
+            "text": "$$\\mathbf{a}=2 \\hat{\\mathbf{i}}+\\hat{\\mathbf{j}}-\\hat{\\mathbf{k}}, \\mathbf{b}=\\hat{\\mathbf{i}}-\\hat{\\mathbf{j}}$$ and $$\\mathbf{c}=5 \\hat{\\mathbf{i}}-\\hat{\\mathbf{j}}+\\hat{\\mathbf{k}}$$, then unit vector parallel to $$\\mathbf{a}+\\mathbf{b}-\\mathbf{c}$$ but in opposite direction is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{1}{3}(2 \\hat{\\mathbf{i}}-\\hat{\\mathbf{j}}+2 \\hat{\\mathbf{k}})$$",
+            "B": "$$\\frac{1}{2}(2 \\hat{\\mathbf{i}}-\\hat{\\mathbf{j}}+2 \\hat{\\mathbf{k}})$$",
+            "C": "$$\\frac{1}{3}(2 \\hat{\\mathbf{i}}-\\hat{\\mathbf{j}}-2 \\hat{\\mathbf{k}})$$",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0w2xqu",
+        "question_number": 81,
+        "question_value": {
+            "text": "The place $$x-2 y+z=0$$ is parallel to the line",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{x-3}{4}=\\frac{y-4}{5}=\\frac{z-3}{6}$$",
+            "B": "$$\\frac{x-2}{1}=\\frac{y-2}{-2}=\\frac{z-3}{1}$$",
+            "C": "$$\\frac{x-2}{2}=\\frac{y-3}{3}=\\frac{z-4}{4}$$",
+            "D": "$$\\frac{x-4}{3}=\\frac{y-5}{4}=\\frac{z-6}{3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0w7jep",
+        "question_number": 82,
+        "question_value": {
+            "text": "$$\\int \\frac{x d x}{2(1+x)^{3 / 2}}$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{2+x}{\\sqrt{1+x}}+C$$",
+            "B": "$$\\frac{2+x}{x \\sqrt{1+x}}+C$$",
+            "C": "$$\\frac{x}{\\sqrt{1+x}}+C$$",
+            "D": "$$-\\frac{x}{\\sqrt{1+x}}+C$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0wbfdg",
+        "question_number": 83,
+        "question_value": {
+            "text": "$$\\int \\frac{4^x}{\\sqrt{1-16^x}} d x$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$(\\log 4) \\sin ^{-1} 4^x+C$$",
+            "B": "$$\\frac{1}{4} \\sin ^{-1}\\left(4^x\\right)+C$$",
+            "C": "$$\\frac{1}{\\log 4} \\sin ^{-1} 4^x+C$$",
+            "D": "$$4 \\log 4 \\sin ^{-1} 4+C$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq0wfn7z",
+        "question_number": 84,
+        "question_value": {
+            "text": "$$\\int\\limits_{-\\pi / 2}^{\\pi / 2} \\sin ^2 x d x$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "0",
+            "B": "$$\\pi$$",
+            "C": "$$\\frac{\\pi}{2}$$",
+            "D": "$$\\frac{\\pi}{4}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq0wjvbw",
+        "question_number": 85,
+        "question_value": {
+            "text": "The lines $$\\frac{x-1}{2}=\\frac{y-4}{4}=\\frac{z-2}{3}$$ and $$\\frac{1-x}{1}=\\frac{y-2}{5}=\\frac{3-z}{a}$$ are perpendicular to each other, then $$a$$ equals to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$-6$$",
+            "B": "6",
+            "C": "$$\\frac{22}{3}$$",
+            "D": "$$-\\frac{22}{3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq0zlbx2",
+        "question_number": 86,
+        "question_value": {
+            "text": "If two lines $$L_1: \\frac{x-1}{2}=\\frac{y+1}{3}=\\frac{z-1}{4}$$ and $$L_2: \\frac{x-3}{1}=\\frac{y-k}{2}=z$$ intersect at a point, then $$2 k$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "9",
+            "B": "$$\\frac{1}{2}$$",
+            "C": "$$\\frac{9}{2}$$",
+            "D": "1"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0zo0ub",
+        "question_number": 87,
+        "question_value": {
+            "text": "A five-digits number is formed by using the digits $$1,2,3,4,5$$ with no repetition. The probability that the numbers 1 and 5 are always together, is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{2}{5}$$",
+            "B": "$$\\frac{1}{5}$$",
+            "C": "$$\\frac{3}{5}$$",
+            "D": "$$\\frac{1}{4}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq0zs1vd",
+        "question_number": 88,
+        "question_value": {
+            "text": "If a number $n$ is chosen at random from the set $$\\{11,12,13, \\ldots \\ldots, 30\\}$$. Then, the probability that $$n$$ is neither divisible by 3 nor divisible by 5, is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{7}{20}$$",
+            "B": "$$\\frac{9}{20}$$",
+            "C": "$$\\frac{11}{20}$$",
+            "D": "$$\\frac{13}{20}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq102vew",
+        "question_number": 89,
+        "question_value": {
+            "text": "Three vertices are chosen randomly from the nine vertices of a regular 9-sided polygon. The probability that they form the vertices of an isosceles triangle, is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{4}{7}$$",
+            "B": "$$\\frac{3}{7}$$",
+            "C": "$$\\frac{2}{7}$$",
+            "D": "$$\\frac{5}{7}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq10mv4m",
+        "question_number": 90,
+        "question_value": {
+            "text": "If $$A, B$$ and $$C$$ are mutually exclusive and exhaustive events of a random experiment such that $$P(B)=\\frac{3}{2} P(A)$$ and $$P(C)=\\frac{1}{2} P(B)$$, then $$P(A \\cup C)$$ equals to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{10}{13}$$",
+            "B": "$$\\frac{3}{13}$$",
+            "C": "$$\\frac{6}{13}$$",
+            "D": "$$\\frac{7}{13}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq10vbkg",
+        "question_number": 91,
+        "question_value": {
+            "text": "Using mathematical induction, the numbers $$a_n \\delta$$ are defined by $$a_0=1, a_{n+1}=3 n^2+n+a_n, (n \\geq 0)$$. Then, $$a_n$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$n^3+n^2+1$$",
+            "B": "$$n^3-n^2+1$$",
+            "C": "$$n^3-n^2$$",
+            "D": "$$n^3+n^2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq10ytbp",
+        "question_number": 92,
+        "question_value": {
+            "text": "If $$49^n+16^n+k$$ is divisible by 64 for $$n \\in N$$, then the least negative integral value of $$k$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$-$$1",
+            "B": "$$-$$2",
+            "C": "$$-$$3",
+            "D": "$$-$$4"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq112xkb",
+        "question_number": 93,
+        "question_value": {
+            "text": "$$2^{3 n}-7 n-1 \\text { is divisible by }$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "64",
+            "B": "36",
+            "C": "49",
+            "D": "25"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq1162u8",
+        "question_number": 94,
+        "question_value": {
+            "text": "The sum of $$n$$ terms of the series, $$\\frac{4}{3}+\\frac{10}{9}+\\frac{28}{27}+\\ldots$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{3^n(2 n+1)+1}{2\\left(3^n\\right)}$$",
+            "B": "$$\\frac{3^n(2 n+1)-1}{2\\left(3^n\\right)}$$",
+            "C": "$$\\frac{3^n n-1}{2\\left(3^n\\right)}$$",
+            "D": "$$\\frac{3^n-1}{2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq11lpds",
+        "question_number": 95,
+        "question_value": {
+            "text": "The value of $$\\frac{1}{2 !}+\\frac{2}{3 !}+\\ldots+\\frac{99}{100 !}$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{100 !-1}{100 !}$$",
+            "B": "$$\\frac{100 !+1}{100 !}$$",
+            "C": "$$\\frac{999 !-1}{999 !}$$",
+            "D": "$$\\frac{999 !+1}{999 !}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq11vdba",
+        "question_number": 96,
+        "question_value": {
+            "text": "If the sum of 12th and 22nd terms of an AP is 100, then the sum of the first 33 terms of an $$\\mathrm{AP}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "1700",
+            "B": "1650",
+            "C": "3300",
+            "D": "3500"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq11yqsu",
+        "question_number": 97,
+        "question_value": {
+            "text": "The differential equation of all non-vertical lines in a plane is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{d^2 y}{d x^2}=0$$",
+            "B": "$$\\frac{d^2 x}{d y^2}=0$$",
+            "C": "$$\\frac{d y}{d x}=0$$",
+            "D": "$$\\frac{d x}{d y}=0$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq124ref",
+        "question_number": 98,
+        "question_value": {
+            "text": "The general solution of $$\\left(\\frac{d y}{d x}\\right)^2=1-x^2-y^2+x^2 y^2$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$2 \\sin ^{-1} y=x \\sqrt{1-x^2}+\\sin ^{-1} x+C$$",
+            "B": "$$\\cos ^{-1} y=x \\cos ^{-1} x$$",
+            "C": "$$\\sin ^{-1} y=\\frac{1}{2} \\sin ^{-1} x+C$$",
+            "D": "$$2 \\sin ^{-1} y=x \\sqrt{1-y^2}+C$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq12u480",
+        "question_number": 99,
+        "question_value": {
+            "text": "The solution of the differential equation $$\\left(\\frac{d y}{d x}\\right) \\tan y=\\sin (x+y)+\\sin (x-y)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sec x=-2 \\sec y+C$$",
+            "B": "$$\\sec y=2 \\cos y+C$$",
+            "C": "$$\\sec y=-2 \\cos x+C$$",
+            "D": "$$\\sec x=-2 \\cos y+C$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq137hcq",
+        "question_number": 100,
+        "question_value": {
+            "text": "$$\\text { Find }{ }^n C_{21} \\text {, if }{ }^n C_{10}={ }^n C_{12}$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "1",
+            "B": "21",
+            "C": "22",
+            "D": "2"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq13cx3f",
+        "question_number": 101,
+        "question_value": {
+            "text": "In a trial, the probability of success is twice the probability of failure. In six trials, the probability of at most two failure will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{600}{729}$$",
+            "B": "$$\\frac{500}{729}$$",
+            "C": "$$\\frac{400}{729}$$",
+            "D": "$$\\frac{496}{729}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq13fwf0",
+        "question_number": 102,
+        "question_value": {
+            "text": "If $$\\cos A=m \\cos B$$ and $$\\cot \\left(\\frac{A+B}{2}\\right)=\\lambda \\tan \\left(\\frac{B-A}{2}\\right)$$, then $$\\lambda$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{m}{m-1}$$",
+            "B": "$$\\frac{m+1}{m}$$",
+            "C": "$$\\frac{m+1}{m-1}$$",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq13iftm",
+        "question_number": 103,
+        "question_value": {
+            "text": "The expression $$\\frac{2 \\tan A}{1-\\cot A}+\\frac{2 \\cot A}{1-\\tan A}$$ can be written as",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sin 2 A+\\cos 2 A$$",
+            "B": "$$2 \\sec A \\operatorname{cosec} A+2$$",
+            "C": "$$\\tan 2 A+\\cot 2 A$$",
+            "D": "$$\\sec 2 A+\\operatorname{cosec} 2 A$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq13lg4o",
+        "question_number": 104,
+        "question_value": {
+            "text": "The general solution of $$2 \\cos 4 x+\\sin ^2 2 x=0$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$x=\\frac{n \\pi}{2} \\pm \\sin ^{-1}\\left(\\frac{1}{5}\\right)$$",
+            "B": "$$x=\\frac{n \\pi}{4}+\\frac{(-1)^n}{4} \\sin ^{-1}\\left( \\pm \\frac{2 \\sqrt{2}}{3}\\right)$$",
+            "C": "$$x=\\frac{n \\pi}{2} \\pm \\cos ^{-1}\\left(\\frac{1}{5}\\right)$$",
+            "D": "$$x=\\frac{n \\pi}{4}+\\frac{(-1)^n}{4} \\cos ^{-1}\\left(\\frac{1}{5}\\right)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq13opuf",
+        "question_number": 105,
+        "question_value": {
+            "text": "If $$2 f\\left(x^2\\right)+3 f\\left(\\frac{1}{x^2}\\right)=x^2-1, \\forall x \\in R-\\{0\\}$$, then $$f\\left(x^8\\right)$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\left(1-x^8\\right)\\left(2 x^8+3\\right)}{5 x^8}$$",
+            "B": "$$\\frac{\\left(1+x^8\\right)\\left(2 x^8-3\\right)}{5 x^8}$$",
+            "C": "$$\\frac{\\left(1-x^8\\right)\\left(2 x^8-3\\right)}{5 x^8}$$",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq13r26m",
+        "question_number": 106,
+        "question_value": {
+            "text": "If $$A=\\{a, b, c\\}, B=\\{b, c, d\\}$$ and $$C=\\{a, d, c\\}$$ then $$(A-B) \\times(B \\cap C)$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\{(a, c),(a, d)\\}$$",
+            "B": "$$\\{(a, b),(c, d)\\}$$",
+            "C": "$$\\{(c, a),(d, a)\\}$$",
+            "D": "$$\\{(a, c),(a, d),(b, d)\\}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq13w7jg",
+        "question_number": 107,
+        "question_value": {
+            "text": "If $$n(A)=p$$ and $$n(B)=q$$, then the numbers of relations from the set $$A$$ to the set $$B$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$2^{p+q}$$",
+            "B": "$$2^{p q}$$",
+            "C": "$$p+q$$",
+            "D": "$$p q$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq13zmml",
+        "question_number": 108,
+        "question_value": {
+            "text": "If $$z=\\sqrt{3}+i$$, then the argument of $$z^2 e^{z-i}$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$e^{\\pi / 3}$$",
+            "B": "$$\\frac{\\pi}{3}$$",
+            "C": "$$\\frac{\\pi}{6}$$",
+            "D": "$$e^{\\pi / 6}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq143uvx",
+        "question_number": 109,
+        "question_value": {
+            "text": "If $$i=\\sqrt{-1}$$ and $$n$$ is a positive integer, then $$i^n+i^{n+1}+i^{n+2}+i^{n+3}$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "1",
+            "B": "$$i$$",
+            "C": "$$i^n$$",
+            "D": "0"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq149130",
+        "question_number": 110,
+        "question_value": {
+            "text": "If $$\\left(\\frac{3}{2}+i \\frac{\\sqrt{3}}{2}\\right)^{50}=3^{25}(x+i y)$$, where $$x$$ and $$y$$ are real, then the ordered pair $$(2 x, 2 y)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$(-6,0)$$",
+            "B": "$$(0,6)$$",
+            "C": "$$(0,-6)$$",
+            "D": "$$(1, \\sqrt{3})$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq14gh0e",
+        "question_number": 111,
+        "question_value": {
+            "text": "There are 10 points in a plane out of which 4 points are collinear. How many straight lines can be drawn by joining any two of them?",
+            "img_url": null
+        },
+        "options": {
+            "A": "39",
+            "B": "40",
+            "C": "45",
+            "D": "21"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq14kfgl",
+        "question_number": 112,
+        "question_value": {
+            "text": "The total number of numbers greater than 1000 but less than 4000 that can be formed using 0, 2, 3, 4 (using repetition allowed) are",
+            "img_url": null
+        },
+        "options": {
+            "A": "125",
+            "B": "105",
+            "C": "128",
+            "D": "625"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq14qtgr",
+        "question_number": 113,
+        "question_value": {
+            "text": "A polygon of n sides has 105 diagonals, then n is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "20",
+            "B": "21",
+            "C": "15",
+            "D": "$$-$$14"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq14wo82",
+        "question_number": 114,
+        "question_value": {
+            "text": "Let the equation of pair of lines $$y=m_1 x$$ and $$y=m_2 x$$ can be written as $$\\left(y-m_1 x\\right)\\left(y-m_2 x\\right)=0$$. Then, the equation of the pair of the angle bisector of the line $$3 y^2-5 x y-2 x^2=0$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$x^2+5 x y-y^2=0$$",
+            "B": "$$x^2-5 x y+y^2=0$$",
+            "C": "$$x^2-x y+y^2=0$$",
+            "D": "$$x^2+x y-y^2=0$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq155jao",
+        "question_number": 115,
+        "question_value": {
+            "text": "The distance of the point $$(3,4)$$ from the line $$3 x+2 y+7=0$$ measured along the line parallel to $$y-2 x+7=0$$ is equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{24 \\sqrt{5}}{7}$$",
+            "B": "$$3 \\sqrt{5}$$",
+            "C": "$$\\frac{23 \\sqrt{5}}{7}$$",
+            "D": "$$4 \\sqrt{5}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lq15bdc1",
+        "question_number": 116,
+        "question_value": {
+            "text": "The slope of lines which makes an angle $$60^{\\circ}$$ with the line $$y-3 x+18=0$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{3 \\sqrt{3}-3}{1+3 \\sqrt{3}}, \\frac{3 \\sqrt{3}-3}{1+3 \\sqrt{3}}$$",
+            "B": "$$\\frac{3-\\sqrt{3}}{1+3 \\sqrt{3}}, \\frac{3+\\sqrt{3}}{1-3 \\sqrt{3}}$$",
+            "C": "$$\\frac{3}{1+\\sqrt{3}}, \\frac{3}{1-\\sqrt{3}}$$",
+            "D": "$$\\frac{\\sqrt{3}-1}{3}, \\frac{\\sqrt{3}+1}{3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lq15erb1",
+        "question_number": 117,
+        "question_value": {
+            "text": "3 and 5 are intercepts of a line $$L=0$$, then the distance of $$L=0$$ from $$(3,7)$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sqrt{31}$$",
+            "B": "$$\\sqrt{34}$$",
+            "C": "$$\\frac{21}{\\sqrt{34}}$$",
+            "D": "$$\\frac{\\sqrt{34}}{31}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq15m8p1",
+        "question_number": 118,
+        "question_value": {
+            "text": "The total number of terms in the expansion of $$(x+y)^{60}+(x-y)^{60}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "60",
+            "B": "61",
+            "C": "30",
+            "D": "31"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lq15q7y6",
+        "question_number": 119,
+        "question_value": {
+            "text": "The coefficient of $$x^{29}$$ in the expansion of $$\\left(1-3 x+3 x^2-x^3\\right)^{15}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$${ }^{45} C_{29}$$",
+            "B": "$${ }^{45} C_{28}$$",
+            "C": "$$-{ }^{45} C_{16}$$",
+            "D": "$${ }^{45} C_{30}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lq15uirp",
+        "question_number": 120,
+        "question_value": {
+            "text": "In the expansion of $$\\left(1+3 x+3 x^2+x^3\\right)^{2 n}$$, the term which has greatest binomial coefficient, is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$(3 n)$$ th term",
+            "B": "$$(3 n+1)$$ th term",
+            "C": "$$(3 n-1)$$ th term",
+            "D": "$$(3 n+2)$$ th term"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpxkfxdm",
+        "question_number": 121,
+        "question_value": {
+            "text": "The mean energy per molecule for a diatomic gas is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{5 k_B T}{N}$$",
+            "B": "$$\\frac{5 k_B T}{2 N}$$",
+            "C": "$$\\frac{5 k_B T}{2}$$",
+            "D": "$$\\frac{3 k_B T}{2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpxkkld3",
+        "question_number": 122,
+        "question_value": {
+            "text": "The phase difference between displacement and velocity of a particle in simple harmonic motion is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\pi \\mathrm{~rad}$$",
+            "B": "$$3 \\pi / 2 \\mathrm{~rad}$$",
+            "C": "zero",
+            "D": "$$\\pi / 2 \\mathrm{~rad}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lpxkmgfg",
+        "question_number": 123,
+        "question_value": {
+            "text": "The mass density of a nucleus varies with mass number $$A$$ as",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\mathop A\\limits^o $$",
+            "B": "$$A^2$$",
+            "C": "$$\\frac{1}{A}$$",
+            "D": "$$\\ln A$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpxkpxnx",
+        "question_number": 124,
+        "question_value": {
+            "text": "A capacitor of capacity $$2 ~\\mu \\mathrm{F}$$ is charged upto a potential $$14 \\mathrm{~V}$$ and then connected in parallel to an uncharged capacitor of capacity $$5 ~\\mu \\mathrm{F}$$. The final potential difference across each capacitor will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "6 V",
+            "B": "4 V",
+            "C": "8 V",
+            "D": "14 V"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpxksjt9",
+        "question_number": 125,
+        "question_value": {
+            "text": "The ratio of amplitude of magnetic field to the amplitude of electric field of an electromagnetic wave propagating in vacuum is",
+            "img_url": null
+        },
+        "options": {
+            "A": "reciprocal of speed of light in vacuum",
+            "B": "the speed of light in vacuum",
+            "C": "proportional to frequency of the electromagnetic wave",
+            "D": "inversely proportional to the frequency of the electromagnetic wave"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpxkv123",
+        "question_number": 126,
+        "question_value": {
+            "text": "A particle is projected at an angle $$30^{\\circ}$$ with horizontal having kinetic energy $$K$$. The kinetic energy of the particle at highest point is.",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{1}{2} K$$",
+            "B": "$$\\frac{3}{4} K$$",
+            "C": "$$\\frac{3}{8} K$$",
+            "D": "$$\\frac{5}{8} K$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpxle5sm",
+        "question_number": 127,
+        "question_value": {
+            "text": "An air bubble in water $$\\left(\\mu=\\frac{4}{3}\\right)$$ is shown in figure. The apparent depth of the image of the bubble in plane mirror viewed by observer is.",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbysqg4/93575cbb-cc69-4978-a065-19007a9806b0/f26e2a40-9e37-11ee-88dd-593bb30ed511/file-6y3zli1lqbysqg5.png?format=png"
+        },
+        "options": {
+            "A": "16 cm",
+            "B": "18 cm",
+            "C": "24 cm",
+            "D": "12 cm"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpxlgcjo",
+        "question_number": 128,
+        "question_value": {
+            "text": "A TV tower has a height $$72 \\mathrm{~m}$$. The maximum distance upto which TV transmission can be received is (Take, radius of the earth as $$\\left.6.4 \\times 10^6 \\mathrm{~m}\\right)$$",
+            "img_url": null
+        },
+        "options": {
+            "A": "27.52 km",
+            "B": "34.25 km",
+            "C": "30.35 km",
+            "D": "25.12 km"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpxljosi",
+        "question_number": 129,
+        "question_value": {
+            "text": "A transistor is connected in CE configuration. The collector supply is $$10 \\mathrm{~V}$$ and the voltage drop across a resistor of $$1000 \\Omega$$ in the collector circuit is $$0.5 \\mathrm{~V}$$. If the current gain factor is 0.96 , then the base current is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$25_6 \\mu \\mathrm{A}$$",
+            "B": "$$20.8 \\mu \\mathrm{A}$$",
+            "C": "$$22.5 \\mu \\mathrm{A}$$",
+            "D": "$$15 \\mu \\mathrm{A}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpxo5gt7",
+        "question_number": 130,
+        "question_value": {
+            "text": "One end of the string of length $l$ is connected to a particle of mass $$m$$ and the other end is connected to a small peg on a smooth horizontal table. If the particle moves in circle with speed $$v$$, the net force on the particle (directed towards centre) will be ( $$T$$ represents the tension in the string)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$T$$",
+            "B": "$$T+\\frac{m v^2}{l}$$",
+            "C": "$$T-\\frac{m v^2}{l}$$",
+            "D": "zero"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpxpba7b",
+        "question_number": 131,
+        "question_value": {
+            "text": "A thin circular ring of mass ,$$M$$ and radius $$R$$ rotates about an axis through its centre and perpendicular to its plane, with a constant angular velocity $$\\omega$$. Four small spheres each of mass $$m$$ (negligible radius) are kept gently to the opposite ends of two mutually perpendicular diameters of the ring. The new angular velocity of the ring will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\left(\\frac{M+4 m}{M}\\right) \\omega$$",
+            "B": "$$\\frac{M}{4 m} \\omega$$",
+            "C": "$$\\left(\\frac{M}{M+4 m}\\right) \\omega$$",
+            "D": "$$\\left(\\frac{M}{M-4 m}\\right) \\omega$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpxqms0v",
+        "question_number": 132,
+        "question_value": {
+            "text": "Two wire of same material having radius in ratio 2 : 1 and lengths in ratio 1: 2. If same force is applied on them, then ratio of their change in length will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1: 1$$",
+            "B": "$$1: 2$$",
+            "C": "$$1: 4$$",
+            "D": "$$1: 8$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lpxr5s5f",
+        "question_number": 133,
+        "question_value": {
+            "text": "In the figure, pendulum bob on left side is pulled a side to a height $$h$$ from its initial position. After it is released it collides with the right pendulum bob at rest, which is of same mass. After the collision, the two bobs stick together and rise to a height",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbywvg5/5eefac21-d66c-4e5b-b5eb-1c86b41515ce/6587cd60-9e38-11ee-88dd-593bb30ed511/file-6y3zli1lqbywvg6.png?format=png"
+        },
+        "options": {
+            "A": "$$\\frac{3 h}{4}$$",
+            "B": "$$\\frac{2 h}{3}$$",
+            "C": "$$\\frac{h}{2}$$",
+            "D": "$$\\frac{h}{4}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lpxsnxls",
+        "question_number": 134,
+        "question_value": {
+            "text": "A gas is taken through the cycle $$A \\rightarrow B \\rightarrow C \\rightarrow A$$, as shown in figure. What is the net work done by the gas?",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbyydlq/47101c6a-9d11-49ec-9ab7-224f704d9712/8f5d07e0-9e38-11ee-88dd-593bb30ed511/file-6y3zli1lqbyydlr.png?format=png"
+        },
+        "options": {
+            "A": "2000 J",
+            "B": "1000 J",
+            "C": "Zero",
+            "D": "$$-2000$$ J"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpxsqsx8",
+        "question_number": 135,
+        "question_value": {
+            "text": "The gases carbon monoxide $$(\\mathrm{CO})$$ and nitrogen at the same temperature have kinetic energies $$E_1$$ and $$E_2$$, respectively. Then,",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$E_1=E_2$$",
+            "B": "$$E_1> E_2$$",
+            "C": "$$E_1< E_2$$",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpxszui2",
+        "question_number": 136,
+        "question_value": {
+            "text": "Two wires are made of the same material and have the same volume. The first wire has cross-sectional area $$A$$ and the second wire has cross-sectional area $$3 A$$. If the length of the first wire is increased by $$\\Delta l$$ on applying a force $$F$$, how much force is needed to stretch the second wire by the same amount?",
+            "img_url": null
+        },
+        "options": {
+            "A": "4F",
+            "B": "6F",
+            "C": "9F",
+            "D": "F"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpxt1wut",
+        "question_number": 137,
+        "question_value": {
+            "text": "Starting from the centre of the earth having radius $$R$$, the variation of $$g$$ (acceleration due to gravity) is shown by",
+            "img_url": null
+        },
+        "options": {
+            "A": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc17lc3/a73375a7-ee54-4c5a-9f0f-c76ee76cbff2/61e08130-9e41-11ee-88dd-593bb30ed511/file-6y3zli1lqc17lc4.png?format=png"
+            },
+            "B": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc17gyj/da445e3a-29b0-4985-b4ba-3d2747de0f6a/5e7f2dc0-9e41-11ee-88dd-593bb30ed511/file-6y3zli1lqc17gyk.png?format=png"
+            },
+            "C": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc17cep/4c008461-d3a5-4080-9b20-832918abe651/5afb1010-9e41-11ee-88dd-593bb30ed511/file-6y3zli1lqc17ceq.png?format=png"
+            },
+            "D": {
+                "text": null,
+                "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc177mg/a2c20ca3-b595-49a8-bbdf-5a142c57fd26/5748dd80-9e41-11ee-88dd-593bb30ed511/file-6y3zli1lqc177mh.png?format=png"
+            }
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpxv0j4x",
+        "question_number": 138,
+        "question_value": {
+            "text": "A long spring, when stretched by a distance $$x$$, has potential energy $$U$$. On increasing the stretching to $$n x$$, the potential energy of the spring will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{U}{n}$$",
+            "B": "$$nU$$",
+            "C": "$$n^2 U$$",
+            "D": "$$\\frac{U}{n^2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpxvkgg8",
+        "question_number": 139,
+        "question_value": {
+            "text": "With what velocity should an observer approach a stationary sound source, so that the apparent frequency of sound should appear double the actual frequency?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$v / 2$$",
+            "B": "$$3 v$$",
+            "C": "$$2 v$$",
+            "D": "$$v$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lpxvndhx",
+        "question_number": 140,
+        "question_value": {
+            "text": "A dielectric of dielectric constant $$K$$ is introduced such that half of its area of a capacitor of capacitance $$C$$ is occupied by it. The new capacity is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$2 C$$",
+            "B": "$$\\frac{C}{2}$$",
+            "C": "$$\\frac{(1+K) C}{2}$$",
+            "D": "$$2 C(1+K)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpxw56lv",
+        "question_number": 141,
+        "question_value": {
+            "text": "Two very long straight parallel wires carry currents $$i$$ and $$2 i$$ in opposite directions. The distance between the wires is $$r$$. At a certain instant of time a point charge $$q$$ is at. a point equidistant from the two wires in the plane of the wires. Its instantaneous velocity $$v$$ is perpendicular to this plane. The magnitude of the force due to the magnetic field acting on the charge at this instant is",
+            "img_url": null
+        },
+        "options": {
+            "A": "zero",
+            "B": "$$\\frac{3 \\mu_0}{2 \\pi} \\frac{i q v}{r}$$",
+            "C": "$$\\frac{\\mu_0}{\\pi} \\frac{i q v}{r}$$",
+            "D": "$$\\frac{\\mu_0}{2 \\pi} \\frac{i q v}{r}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpxwcjfp",
+        "question_number": 142,
+        "question_value": {
+            "text": "The magnetic flux linked with a coil satisfies the relation $$\\phi=\\left(4 t^2+6 t+9\\right) \\mathrm{Wb}$$, where $$t$$ is time in second. The emf induced in the coil at $$t=2 \\mathrm{~s}$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "22 V",
+            "B": "18 V",
+            "C": "16 V",
+            "D": "40 V"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpxyiw7c",
+        "question_number": 144,
+        "question_value": {
+            "text": "A car is moving towards a high cliff. The car driver sounds a horn of frequency $$f$$. The reflected sound heard by the driver has a frequency $$2 f$$. If $$v$$ be the velocity of sound, then the velocity of the car in the same velocity units, will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{v}{\\sqrt{2}}$$",
+            "B": "$$\\frac{v}{3}$$",
+            "C": "$$\\frac{v}{4}$$",
+            "D": "$$\\frac{v}{2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpxyn80q",
+        "question_number": 145,
+        "question_value": {
+            "text": "If escape velocity on earth surface is $$11.1 \\mathrm{~kmh}^{-1}$$, then find the escape velocity on moon surface. If mass of moon is $$\\frac{1}{81}$$ times of mass of earth and radius of moon is $$\\frac{1}{4}$$ times radius of earth.",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$2.46 \\mathrm{~kmh}^{-1}$$",
+            "B": "$$3.46 \\mathrm{~kmh}^{-1}$$",
+            "C": "$$4.4 \\mathrm{~kmh}^{-1}$$",
+            "D": "None of these"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpxyxt1v",
+        "question_number": 146,
+        "question_value": {
+            "text": "An ideal gas goes from state $$A$$ to state $$B$$ via three different processes as indicated in the $$p$$-$$V$$ diagram. If $$Q_1, Q_2$$ and $$Q_3$$ indicate the heat absorbed by the three processes and $$\\Delta U_1, \\Delta U_2$$ and $$\\Delta U_3$$ indicate the change in internal energy along the three processes respectively, then",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbz0y15/287e5b6e-5211-4160-b867-86d4d9374f26/d6c31390-9e38-11ee-88dd-593bb30ed511/file-6y3zli1lqbz0y16.png?format=png"
+        },
+        "options": {
+            "A": "$$Q_1 > Q_2 > Q_3$$ and $$\\Delta U_1=\\Delta U_2=\\Delta U_3$$",
+            "B": "$$Q_3 > Q_2 > Q_1$$ and $$\\Delta U_1=\\Delta U_2=\\Delta U_3$$",
+            "C": "$$Q_1=Q_2=Q_3$$ and $$\\Delta U_1 > \\Delta U_2 > \\Delta U_3$$",
+            "D": "$$Q_3 > Q_2 > Q_1$$ and $$\\Delta U_1 > \\Delta U_2 > \\Delta U_3$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpy03unk",
+        "question_number": 147,
+        "question_value": {
+            "text": "In the series L-C-R circuit shown, the impedance is",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbz3wri/6a1dc59d-3b99-4a5d-a6db-3fb3c665729d/2935cbe0-9e39-11ee-88dd-593bb30ed511/file-6y3zli1lqbz3wrj.png?format=png"
+        },
+        "options": {
+            "A": "200$$\\Omega$$",
+            "B": "100$$\\Omega$$",
+            "C": "300$$\\Omega$$",
+            "D": "500$$\\Omega$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lpy0a47b",
+        "question_number": 148,
+        "question_value": {
+            "text": "In Young's double slit interference experiment, using two coherent waves of different amplitudes, the intensities ratio between bright and dark fringes is 3 . Then, the value of the ratio of the amplitudes of the wave that arrive there is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\left(\\frac{\\sqrt{3}+1}{\\sqrt{3}-1}\\right)$$",
+            "B": "$$\\left(\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}\\right)$$",
+            "C": "$$\\sqrt{3}: 1$$",
+            "D": "$$1: \\sqrt{3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpy0eajs",
+        "question_number": 149,
+        "question_value": {
+            "text": "The wavelength of the first line of Lyman series for $$\\mathrm{H}$$ - atom is equal to that of the second line of Balmer series for a $$\\mathrm{H}$$-like ion. The atomic number $$\\mathrm{Z}$$ of $$\\mathrm{H}$$-like ion is",
+            "img_url": null
+        },
+        "options": {
+            "A": "4",
+            "B": "1",
+            "C": "2",
+            "D": "3"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpy0ljty",
+        "question_number": 150,
+        "question_value": {
+            "text": "If $$150 \\mathrm{~J}$$ of heat is added to a system and the work done by the system is $$110 \\mathrm{~J}$$, then change in internal energy will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "40 J",
+            "B": "110 J",
+            "C": "150 J",
+            "D": "260 J"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpy1b3ke",
+        "question_number": 151,
+        "question_value": {
+            "text": "In the figure below, the capacitance of each capacitor is $$3 \\mu \\mathrm{F}$$. The effective capacitance between $$A$$ and $$B$$ is",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbz66kz/c7fcf167-bab7-4808-92be-1e5f54a4f92c/6869c230-9e39-11ee-88dd-593bb30ed511/file-6y3zli1lqbz66l0.png?format=png"
+        },
+        "options": {
+            "A": "$$\\frac{3}{4} \\mu \\mathrm{F}$$",
+            "B": "$$3 \\mu \\mathrm{F}$$",
+            "C": "$$6 \\mu \\mathrm{F}$$",
+            "D": "$$5 \\mu \\mathrm{F}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lpy1euuc",
+        "question_number": 152,
+        "question_value": {
+            "text": "The first emission of hydrogen atomic spectrum in Lyman series appears at a wavelength of",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{3 R}{4} \\mathrm{~cm}^{-1}$$",
+            "B": "$$\\frac{4}{3 R} \\mathrm{~cm}$$",
+            "C": "$$\\frac{7 R}{144} \\mathrm{~cm}^{-1}$$",
+            "D": "$$\\frac{400}{9 R} \\mathrm{~cm}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpy1uzdn",
+        "question_number": 153,
+        "question_value": {
+            "text": "In Young's double slit experiment, the ratio of maximum and minimum intensities in the fringe system is $$9: 1$$. The ratio of amplitudes of coherent sources is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$9: 1$$",
+            "B": "$$3: 1$$",
+            "C": "$$2: 1$$",
+            "D": "$$1: 1$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpy1x8jw",
+        "question_number": 154,
+        "question_value": {
+            "text": "In the case of an inductor",
+            "img_url": null
+        },
+        "options": {
+            "A": "voltage lags the current by $$\\pi / 2$$",
+            "B": "voltage leads the current by $$\\pi / 2$$",
+            "C": "voltage leads the current by $$\\pi / 3$$",
+            "D": "voltage leads the current by $$\\pi / 4$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpy1ze8g",
+        "question_number": 155,
+        "question_value": {
+            "text": "The height vertically above the earth's surface at which the acceleration due to gravity becomes $$1 \\%$$ of its value at the surface is",
+            "img_url": null
+        },
+        "options": {
+            "A": "8R",
+            "B": "9R",
+            "C": "10R",
+            "D": "20R"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpy22pul",
+        "question_number": 156,
+        "question_value": {
+            "text": "If $$C$$ be the capacitance and $$V$$ be the electric potential, then the dimensional formula of $$\\mathrm{CV}^2$$ is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-2} \\mathrm{~A}^0\\right]$$",
+            "B": "$$\\left[\\mathrm{MLT}^{-2} \\mathrm{~A}^{-1}\\right]$$",
+            "C": "$$\\left[\\mathrm{M}^0 \\mathrm{LT}^{-2} \\mathrm{~A}^0\\right]$$",
+            "D": "$$\\left[\\mathrm{ML}^{-3} \\mathrm{TA}\\right]$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpy2c896",
+        "question_number": 157,
+        "question_value": {
+            "text": "Which logic gate is represented by the following combination logic gates?",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqc16f3p/05251b31-59ad-4121-a3ea-5eab3c2be482/4140c250-9e41-11ee-88dd-593bb30ed511/file-6y3zli1lqc16f3q.png?format=png"
+        },
+        "options": {
+            "A": "OR",
+            "B": "NAND",
+            "C": "AND",
+            "D": "NOR"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpy2ik9q",
+        "question_number": 158,
+        "question_value": {
+            "text": "An LED is constructed from a $$p$$-$$n$$ junction diode using GaAsP. The energy gap is $$1.9 \\mathrm{~eV}$$. The wavelength of the light emitted will be equal to",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$10.4 \\times 10^{-26} \\mathrm{~m}$$",
+            "B": "$$654 \\mathrm{~nm}$$",
+            "C": "$$654 ~\\mathop A\\limits^o$$",
+            "D": "$$654 \\times 10^{-11} \\mathrm{~m}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpy2njhz",
+        "question_number": 159,
+        "question_value": {
+            "text": "A body is projected vertically upwards. The times corresponding to height $$h$$ while ascending and while descending are $$t_1$$ and $$t_2$$, respectively. Then, the velocity of projection will be (take, $$g$$ as acceleration due to gravity)",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{g \\sqrt{t_1 t_2}}{2}$$",
+            "B": "$$\\frac{g\\left(t_1+t_2\\right)}{2}$$",
+            "C": "$$g \\sqrt{t_1 t_2}$$",
+            "D": "$$g \\frac{t_1 t_2}{\\left(t_1+t_2\\right)}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpy3cv8c",
+        "question_number": 160,
+        "question_value": {
+            "text": "When a certain metal surface is illuminated with light of frequency $$\\nu$$, the stopping potential for photoelectric current is $$V_0$$. When the same surface is illuminated by light of frequency $$\\frac{\\nu}{2}$$, the stopping potential is $$\\frac{V_0}{4}$$. The threshold frequency for photoelectric emission is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{\\nu}{6}$$",
+            "B": "$$\\frac{\\nu}{3}$$",
+            "C": "$$\\frac{2\\nu}{3}$$",
+            "D": "$$\\frac{4\\nu}{3}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpy3jbg8",
+        "question_number": 161,
+        "question_value": {
+            "text": "A fish in water (refractive index $$n$$ ) looks at a bird vertically above in the air. If $$y$$ is the height of the bird and $$x$$ is the depth of the fish from the surface, then the distance of the bird as estimated by the fish is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$x+y\\left(1-\\frac{1}{n}\\right)$$",
+            "B": "$$x+n y$$",
+            "C": "$$x+y\\left(1+\\frac{1}{n}\\right)$$",
+            "D": "$$y+x\\left(1-\\frac{1}{n}\\right)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpy3mrl1",
+        "question_number": 162,
+        "question_value": {
+            "text": "A car starts from rest and accelerates uniformly to a speed of $$180 \\mathrm{~kmh}^{-1}$$ in $$10 \\mathrm{~s}$$. The distance covered by the car in this time interval is",
+            "img_url": null
+        },
+        "options": {
+            "A": "500 m",
+            "B": "250 m",
+            "C": "100 m",
+            "D": "200 m"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpy3pni7",
+        "question_number": 163,
+        "question_value": {
+            "text": "A plane electromagnetic wave of frequency $$20 \\mathrm{~MHz}$$ travels through a space along $$x$$-direction. If the electric field vector at a certain point in space is $$6 \\mathrm{~Vm}^{-1}$$, then what is the magnetic field vector at that point?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$2 \\times 10^{-8} \\mathrm{~T}$$",
+            "B": "$$\\frac{1}{2} \\times 10^{-8} \\mathrm{~T}$$",
+            "C": "$$2 \\mathrm{~T}$$",
+            "D": "$$\\frac{1}{2} \\mathrm{~T}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpy3yga8",
+        "question_number": 164,
+        "question_value": {
+            "text": "The sides of a parallelogram are represented by vectors $$\\vec{p}=5 \\hat{\\mathbf{i}}-4 \\hat{\\mathbf{j}}+3 \\hat{\\mathbf{k}}$$ and $$\\vec{q}=3 \\hat{\\mathbf{i}}+2 \\hat{\\mathbf{j}}-\\hat{\\mathbf{k}}$$. Then, the area of the parallelogram is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sqrt{684}$$ sq units",
+            "B": "$$\\sqrt{72}$$ sq units",
+            "C": "171 sq units",
+            "D": "72 sq units"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpy4h4ay",
+        "question_number": 165,
+        "question_value": {
+            "text": "If $$\\theta_1$$ and $$\\theta_2$$ be the apparent angles of dip observed in two vertical planes at right angles to each other, then the true angle of $$\\operatorname{dip} \\theta$$ is given by",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\cot ^2 \\theta=\\cot ^2 \\theta_1+\\cot ^2 \\theta_2$$",
+            "B": "$$\\tan ^2 \\theta=\\tan ^2 \\theta_1+\\tan ^2 \\theta_2$$",
+            "C": "$$\\cot ^2 \\theta=\\cot ^2 \\theta_1-\\cot ^2 \\theta_2$$",
+            "D": "$$\\tan ^2 \\theta=\\tan ^2 \\theta_1-\\tan ^2 \\theta_2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpy4natn",
+        "question_number": 166,
+        "question_value": {
+            "text": "Let $$K_1$$ be the maximum kinetic energy of photoelectrons emitted by light of wavelength $$\\lambda_1$$ and $$K_2$$ corresponding to wavelength $$\\lambda_2$$. If $$\\lambda_1=2 \\lambda_2$$, then",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$2 K_1=K_2$$",
+            "B": "$$K_1=2 K_2$$",
+            "C": "$$K_1 < K_2 / 2$$",
+            "D": "$$K_1>2 K_2$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpy6xmlf",
+        "question_number": 167,
+        "question_value": {
+            "text": "A ball is projected horizontally with a velocity of $$5 \\mathrm{~ms}^{-1}$$ from the top of a building $$19.6 \\mathrm{~m}$$ high. How long will the ball take to hit the ground?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sqrt{2} \\mathrm{~s}$$",
+            "B": "$$2 \\mathrm{~s}$$",
+            "C": "$$\\sqrt{3} \\mathrm{~s}$$",
+            "D": "$$3 \\mathrm{~s}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpy78y9d",
+        "question_number": 168,
+        "question_value": {
+            "text": "A galvanometer having a resistance of $$8 \\Omega$$ is shunted by a wire of resistance $$2 \\Omega$$. If the total current is $$1 \\mathrm{~A}$$, the part of it passing through the shunt will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "0.25 A",
+            "B": "0.8 A",
+            "C": "0.2 A",
+            "D": "0.5 A"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpy85fwy",
+        "question_number": 169,
+        "question_value": {
+            "text": "In the diagram shown below, $$m_1$$ and $$m_2$$ are the masses of two particles and $$x_1$$ and $$x_2$$ are their respective distances from the origin $$O$$.The centre of mass of the system is",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbz93ly/1115fc3f-74cc-44d7-9c68-4b0a7ce7b18c/b98b4260-9e39-11ee-88dd-593bb30ed511/file-6y3zli1lqbz93lz.png?format=png"
+        },
+        "options": {
+            "A": "$$\\frac{m_1 x_2+m_2 x_2}{m_1+m_2}$$",
+            "B": "$$\\frac{m_1+m_2}{2}$$",
+            "C": "$$\\frac{m_1 x_1+m_2 x_2}{m_1+m_2}$$",
+            "D": "$$\\frac{m_1 m_2+x_1 x_2}{m_1+m_2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpy88c1t",
+        "question_number": 170,
+        "question_value": {
+            "text": "A block of wood floats in water with $$(4 / 5)$$ th of its volume submerged. If the same block just floats in a liquid, the density of the liquid is (in $$\\mathrm{kgm}^{-3}$$)",
+            "img_url": null
+        },
+        "options": {
+            "A": "1250",
+            "B": "600",
+            "C": "400",
+            "D": "800"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lpy8deq7",
+        "question_number": 171,
+        "question_value": {
+            "text": "A balloon with mass $m$ is descending down with an acceleration $$a$$ (where, $$a < g$$ ). How much mass should be removed from it so that it starts moving up with an acceleration $$a$$ ?",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{2 m a}{g+a}$$",
+            "B": "$$\\frac{2 m a}{g-a}$$",
+            "C": "$$\\frac{m a}{g+a}$$",
+            "D": "$$\\frac{m a}{g-a}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 0.0
+    },
+    {
+        "qid": "jaoe38c1lpy8oheb",
+        "question_number": 172,
+        "question_value": {
+            "text": "A straight wire of length $$2 \\mathrm{~m}$$ carries a current of $$10 \\mathrm{~A}$$. If this wire is placed in uniform magnetic field of $$0.15 \\mathrm{~T}$$ making an angle of $$45^{\\circ}$$ with the magnetic field, the applied force on the wire will be",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1.5 \\mathrm{~N}$$",
+            "B": "$$3 \\mathrm{~N}$$",
+            "C": "$$3 \\sqrt{2} \\mathrm{~N}$$",
+            "D": "$$3 / \\sqrt{2} \\mathrm{~N}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lpy8zfxg",
+        "question_number": 173,
+        "question_value": {
+            "text": "Two slabs are of the thicknesses $$d_1$$ and $$d_2$$. Their thermal conductivities are $$K_1$$ and $$K_2$$, respectively. They are in series. The free ends of the combination of these two slabs are kept at temperatures $$\\theta_1$$ and $$\\theta_2$$. Assume $$\\theta_1 > \\theta_2$$. The temperature $$\\theta$$ of their common junction is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{K_1 \\theta_1+K_2 \\theta_2}{\\theta_1+\\theta_2}$$",
+            "B": "$$\\frac{K_1 \\theta_1 d_1+K_2 \\theta_2 d_2}{K_1 d_2+K_2 d_1}$$",
+            "C": "$$\\frac{K_1 \\theta_1 d_2+K_2 \\theta_2 d_1}{K_1 d_2+K_2 d_1}$$",
+            "D": "$$\\frac{K_1 \\theta_1+K_2 \\theta_2}{K_1+K_2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpy97nms",
+        "question_number": 174,
+        "question_value": {
+            "text": "A square wire of each side l carries a current $$I$$. The magnetic field at the mid-point of the square",
+            "img_url": "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lqbzbup5/2e13ad06-e1eb-46dc-9a0e-4c4c26ec0af3/06167190-9e3a-11ee-88dd-593bb30ed511/file-6y3zli1lqbzbup6.png?format=png"
+        },
+        "options": {
+            "A": "$$4 \\sqrt{2} \\frac{\\mu_0}{4 \\pi} \\frac{I}{l}$$",
+            "B": "$$8 \\sqrt{2} \\frac{\\mu_0}{4 \\pi} \\frac{I}{l}$$",
+            "C": "$$16 \\sqrt{2} \\frac{\\mu_0}{4 \\pi} \\frac{I}{l}$$",
+            "D": "$$32 \\sqrt{2} \\frac{\\mu_0}{4 \\pi} \\frac{I}{l}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpy9mmn0",
+        "question_number": 175,
+        "question_value": {
+            "text": "A cylinder of radius $$r$$ and of thermal conductivity $$K_1$$ is surrounded by a cylindrical shell of inner radius $$r$$ and outer radius $$2 r$$ made of a material of thermal conductivity $$K_2$$. The effective thermal conductivity of the system is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{1}{3}\\left(K_1+2 K_2\\right)$$",
+            "B": "$$\\frac{1}{2}\\left(2 K_1+3 K_2\\right)$$",
+            "C": "$$\\frac{1}{3}\\left(3 K_2+2 K_1\\right)$$",
+            "D": "$$\\frac{1}{4}\\left(K_1+3 K_2\\right)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lpyc8wxv",
+        "question_number": 176,
+        "question_value": {
+            "text": "The speeds of air-flow on the upper and lower surfaces of a wing of an aeroplane are $$v_1$$ and $$v_2$$, respectively. If $$A$$ is the cross-sectional area of the wing and $$\\rho$$ is the density of air, then the upward lift is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\frac{1}{2} \\rho A\\left(v_1-v_2\\right)$$",
+            "B": "$$\\frac{1}{2} \\rho A\\left(v_1+v_2\\right)$$",
+            "C": "$$\\frac{1}{2} \\rho A\\left(v_1^2-v_2^2\\right)$$",
+            "D": "$$\\frac{1}{2} \\rho A\\left(v_1^2+v_2^2\\right)$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpycmb8b",
+        "question_number": 177,
+        "question_value": {
+            "text": "Two cells with the same emf $$E$$ and different internal resistances $$r_1$$ and $$r_2$$ are connected in series to an external resistance $$R$$. If the potential difference across the first cell is zero then value of $$R$$.",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$\\sqrt{r_1 r_2}$$",
+            "B": "$$r_1+r_2$$",
+            "C": "$$r_1-r_2$$",
+            "D": "$$\\frac{r_1+r_2}{2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    },
+    {
+        "qid": "jaoe38c1lpycov7i",
+        "question_number": 178,
+        "question_value": {
+            "text": "A string vibrates with a frequency of $$200 \\mathrm{~Hz}$$. When its length is doubled and tension is altered, it begins to vibrate with a frequency of $$300 \\mathrm{~Hz}$$. The ratio of the new tension to the original tension is",
+            "img_url": null
+        },
+        "options": {
+            "A": "9 : 1",
+            "B": "1 : 9",
+            "C": "3 : 1",
+            "D": "1 : 3"
+        },
+        "type": "mcq",
+        "correct_answer": 3.0
+    },
+    {
+        "qid": "jaoe38c1lpycqzmt",
+        "question_number": 179,
+        "question_value": {
+            "text": "When $$10^{19}$$ electrons are removed from a neutral metal plate, the electric charge on it is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$-1.6 \\mathrm{~C}$$",
+            "B": "$$+1.6 \\mathrm{~C}$$",
+            "C": "$$10^{+19} \\mathrm{~C}$$",
+            "D": "$$10^{-19} \\mathrm{~C}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
+        "qid": "jaoe38c1lpycv6ri",
+        "question_number": 180,
+        "question_value": {
+            "text": "In an electrical circuit $$R, L, C$$ and $$\\mathrm{AC}$$ voltage source are all connected in series. When $$L$$ is removed from the circuit, the phase difference between the voltage and the current in the circuit is $$\\pi / 3$$. If instead $$C$$ is removed from the circuit, the phase difference is again $$\\pi / 3$$. The power factor of the circuit is",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$1 / 2$$",
+            "B": "$$1 \\sqrt{2}$$",
+            "C": "1",
+            "D": "$$\\frac{\\sqrt{3}}{2}$$"
+        },
+        "type": "mcq",
+        "correct_answer": 2.0
+    }
+]
