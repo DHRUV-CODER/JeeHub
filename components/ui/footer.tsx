@@ -16,7 +16,7 @@ export default function Footer() {
             . All Rights Reserved.
           </span>
           <span className="text-sm text-stone-400 font-bold sm:text-center flex items-center justify-center gap-x-2 text-muted-foreground">
-            This site is made for personal use only , We don't use it in means
+            This site is made for personal use only , We don&apos;t use it in means
             of monetization. <CircleDollarSign fill="black" />
           </span>
 
