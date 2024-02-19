@@ -13,6 +13,7 @@ export default function Footer() {
             </a>
             . All Rights Reserved.
           </span>
+           
           <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
             <li>
               <a
@@ -20,11 +21,12 @@ export default function Footer() {
                 className="px-1 py-2"
                 target="_blank"
               >
-                <h1 className="text-2xl font-extrabold leading-none tracking-tight  text-stone-300">
+                          <h1 className="text-2xl font-extrabold leading-none tracking-tight  text-stone-300">
                   <mark className="px-2 hover:text-white rounded bg-stone-800 border-4 border-stone-600 border-dashed text-gray-300 hover:border-stone-200 ">
                     Github
                   </mark>
                 </h1>
+               
               </a>
             </li>
           </ul>
