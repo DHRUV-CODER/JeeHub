@@ -1,3 +1,5 @@
+import { CircleDollarSign} from "lucide-react";
+
 export default function Footer() {
   return (
     <div>
@@ -6,14 +8,18 @@ export default function Footer() {
           <span className="text-sm text-stone-200 sm:text-center">
             © 2024{" "}
             <a
-              href="https://jeehub.vercel.app/"
+              href="#"
               className="hover:underline font-bold"
             >
               Jeehub™
             </a>
             . All Rights Reserved.
           </span>
-           
+          <span className="text-sm text-stone-400 font-bold sm:text-center flex items-center justify-center gap-x-2 text-muted-foreground">
+            This site is made for personal use only , We don't use it in means
+            of monetization. <CircleDollarSign fill="black" />
+          </span>
+
           <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
             <li>
               <a
@@ -21,12 +27,11 @@ export default function Footer() {
                 className="px-1 py-2"
                 target="_blank"
               >
-                          <h1 className="text-2xl font-extrabold leading-none tracking-tight  text-stone-300">
+                <h1 className="text-2xl font-extrabold leading-none tracking-tight  text-stone-300">
                   <mark className="px-2 hover:text-white rounded bg-stone-800 border-4 border-stone-600 border-dashed text-gray-300 hover:border-stone-200 ">
                     Github
                   </mark>
                 </h1>
-               
               </a>
             </li>
           </ul>

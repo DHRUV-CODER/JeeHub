@@ -9,6 +9,21 @@ export const OtherExams = [
     RedirectValue: "neet-2023",
     Day: true,
   },
+  {
+    Title: "Jee Advance 2023",
+    RedirectValue: "jee-advance-2023",
+    Day: true,
+  },
+  {
+    Title: "Comedk 2023",
+    RedirectValue: "comedk-2023",
+    Day: true,
+  },
+  {
+    Title: "MHT-CET 2023",
+    RedirectValue: "mht-cet-2023",
+    Day: true,
+  },
 ];
 
 export const Jee = [

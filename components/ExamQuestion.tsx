@@ -75,7 +75,7 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
           <img
             src={Question.img_url}
             alt={`Ques ${QuestionNumber}`}
-            className="grayscale brightness-200"
+            className="contrast-200 grayscale saturate-200 brightness-200"
           />
         )}
 
@@ -121,7 +121,7 @@ const ExamQuestion: React.FC<ExamQuestionProps> = ({
                         alt={`Option ${optionKey}`}
                         width="150px"
                         height="150px"
-                        className="brightness-200"
+                        className="grayscale saturate-200 brightness-200"
                       />
                     </Button>
                   )
