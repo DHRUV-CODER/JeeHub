@@ -36,6 +36,10 @@ export default function ExamList() {
           />
         ))}
       </div>
+      <h1 className="scroll-m-20 text-2xl font-extrabold tracking-tight  text-muted-foreground text-stone-400 px-2 py-4 items-center justify-center flex gap-x-2">
+        Made by{" "}
+        <mark className="py-1 px-2 text-black rounded bg-stone-300">Dhruv</mark>
+      </h1>
     </div>
   );
 }
