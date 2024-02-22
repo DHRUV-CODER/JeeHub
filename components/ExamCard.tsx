@@ -13,9 +13,9 @@ interface ExamCardProps extends CardProps {
 }
 export default function ExamCard({ className, Title,RedirectValue,Day ,...props }: ExamCardProps) {
   return (
-    <Card className={cn("w-[380px] m-4 p-5", className)} {...props}>
+    <Card className={cn("w-full p-2 mr-4", className)} {...props}>
       <CardHeader>
-        <CardTitle className="flex gap-1">{Title}{Day ? <Sun className="text-yellow-500" fill="white" /> : <Moon className="text-black" fill="white" />}</CardTitle>
+        <CardTitle className="flex gap-1 text-stone-200">{Title}{Day ? <Sun className="text-yellow-500" fill="white" /> : <Moon className="text-black" fill="white" />}</CardTitle>
         {/*  Add Some fun thing about that shift  */}
         <CardDescription>Attempt this paper as mock test.</CardDescription> 
       </CardHeader>

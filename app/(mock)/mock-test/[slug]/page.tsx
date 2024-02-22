@@ -29,7 +29,7 @@ export default function Page({ params }: { params: { slug: string } }) {
 
   return (
     <div>
-      <div className="py-2 px-2 gap-y-2 gap-x-2 grid grid-cols-1">
+      <div className="py-2  gap-y-2 gap-x-2 grid grid-cols-1 container  mx-auto px-4">
         <h1>
           {examData.length === 0 && (
             <div className="min-h-screen flex justify-center items-center overscroll-none">

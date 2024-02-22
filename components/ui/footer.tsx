@@ -1,5 +1,3 @@
-import { CircleDollarSign} from "lucide-react";
-
 export default function Footer() {
   return (
     <div>
@@ -17,7 +15,7 @@ export default function Footer() {
           </span>
           <span className="text-sm text-stone-400 font-bold sm:text-center flex  gap-x-2 text-muted-foreground px-1 py-2">
             This site is made for personal use only , We don&apos;t use it in means
-            of monetization. <CircleDollarSign fill="black" />
+            of monetization.
           </span>
 
           <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
