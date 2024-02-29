@@ -527,7 +527,7 @@
         "qid": "jaoe38c1lscnb2gp",
         "question_number": 41,
         "question_value": {
-            "text": "$$\\text { If } \\lim _\\limits{x \\rightarrow 0} \\frac{3+\\alpha \\sin x+\\beta \\cos x+\\log _e(1-x)}{3 \\tan ^2 x}=\\frac{1}{3} \\text {, then } 2 \\alpha-\\beta \\text { is equal to : }$$",
+            "text": "If $$ \\lim_{x \\to 0} \\frac{3+\\alpha \\sin x+\\beta \\cos x+\\log _e(1-x)}{3 \\tan ^2 x}=\\frac{1}{3} $$ then  $$ 2 \\alpha-\\beta $$ is equal to:",
             "img_url": null
         },
         "options": {
@@ -792,6 +792,23 @@
         "options": {},
         "type": "numerical",
         "correct_answer": 11.0
+    },
+    {
+        "qid": "",
+        "question_number": 61,
+        "question_value": {
+            "text": "Given below are two statements : one is labelled as Assertion $$\\mathbf{A}$$ and the other is labelled as Reason $$\\mathbf{R}$$. Assertion (A) : In Vernier calliper if positive zero error exists, then while taking measurements, the reading taken will be more than the actual reading. Reason (R) : The zero error in Vernier Calliper might have happened due to manufacturing defect or due to rough handling. In the light of the above statements, choose the correct answer from the options given below :",
+            "img_url": null
+        },
+        "options": {
+            "A": "Both $$\\mathbf{A}$$ and $$\\mathbf{R}$$ are true and $$\\mathbf{R}$$ is the correct explanation of $$\\mathbf{A}$$",
+            "B": "Both $$\\mathbf{A}$$ and $$\\mathbf{R}$$ are true but $$\\mathbf{R}$$ is NOT the correct explanation of $$\\mathbf{A}$$",
+            "C": "$$\\mathbf{A}$$ is false but $$\\mathbf{R}$$ is true",    
+            "D": "$$\\mathbf{A}$$ is true but $$\\mathbf{R}$$ is false"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+
     },
     {
         "qid": "jaoe38c1lscoytpx",
