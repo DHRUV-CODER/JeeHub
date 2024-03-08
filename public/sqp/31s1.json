@@ -882,6 +882,22 @@
         "correct_answer": 1.0
     },
     {
+        "qid": "",
+        "question_number": 78,
+        "question_value": {
+            "text": "A force is represented by $$F=a x^2+b t^{\\frac{1}{2}}$$ where $$x=$$ distance and $$t=$$ time. The dimensions of $$b^2 / a$$ are:",
+            "img_url": null
+        },
+        "options": {
+            "A": "$$ [ML^2T^{-3}] $$",
+            "B": "$$ [ML^3T^{-3}] $$",
+            "C": "$$ [MLT^{-2}] $$",
+            "D": "$$ [ML^{-1}T^{-1}] $$"
+        },
+        "type": "mcq",
+        "correct_answer": 1.0
+    },
+    {
         "qid": "jaoe38c1lse6nvzl",
         "question_number": 79,
         "question_value": {
